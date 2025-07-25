@@ -1,0 +1,32 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380726",
+            "kecamatan": "Kec. Balingga Barat",
+            "npsn": 69953977,
+            "sekolah": "PAUD LULINGEN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "24 Aug 2023 17:14:27",
+            "sekolah_id_enkrip": "AC3B47D1E07CED34EC69"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380726",
+            "kecamatan": "Kec. Balingga Barat",
+            "npsn": 60301499,
+            "sekolah": "SD NEGERI TINGGIPURA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Nov 2023 07:09:08",
+            "sekolah_id_enkrip": "3A2A5ECAA4EB03177066"
+        }
+    ]
+}

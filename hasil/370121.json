@@ -1,0 +1,32 @@
+{
+    "370100": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370121",
+            "kecamatan": "Kec. Padua",
+            "npsn": 60300776,
+            "sekolah": "SD INPRES SABUDOM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Nov 2023 21:07:51",
+            "sekolah_id_enkrip": "41CF9ADB09520E844115"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370121",
+            "kecamatan": "Kec. Padua",
+            "npsn": 60300584,
+            "sekolah": "SD YPPK KALWA PADWA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Dec 2023 09:25:01",
+            "sekolah_id_enkrip": "869F74B0CD1DC8F2C94B"
+        }
+    ]
+}

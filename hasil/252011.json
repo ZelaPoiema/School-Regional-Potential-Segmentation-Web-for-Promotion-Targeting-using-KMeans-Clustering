@@ -1,0 +1,60 @@
+{
+    "252000": [
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "252000",
+            "kabupaten_kota": "Kab. Keerom",
+            "kode_kec": "252011",
+            "kecamatan": "Kec. Yaffi",
+            "npsn": 60303510,
+            "sekolah": "SD INPRES YABANDA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 21:18:54",
+            "sekolah_id_enkrip": "83A5AC99B46A37110060"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "252000",
+            "kabupaten_kota": "Kab. Keerom",
+            "kode_kec": "252011",
+            "kecamatan": "Kec. Yaffi",
+            "npsn": 69787857,
+            "sekolah": "SD NEGERI FAVENUMBU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 10:18:21",
+            "sekolah_id_enkrip": "9AC9C171CA3D8689DFC6"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "252000",
+            "kabupaten_kota": "Kab. Keerom",
+            "kode_kec": "252011",
+            "kecamatan": "Kec. Yaffi",
+            "npsn": 60303449,
+            "sekolah": "SD YPPK AMGOTRO YURUF",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Feb 2024 17:51:19",
+            "sekolah_id_enkrip": "0A673EDB0D819DF3D96A"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "252000",
+            "kabupaten_kota": "Kab. Keerom",
+            "kode_kec": "252011",
+            "kecamatan": "Kec. Yaffi",
+            "npsn": 69952761,
+            "sekolah": "SMP NEGERI 2 WEB",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Jan 2024 05:57:57",
+            "sekolah_id_enkrip": "F1738C2721FD69CD4454"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "370400": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370424",
+            "kecamatan": "Kec. Tomor Birip",
+            "npsn": 60303752,
+            "sekolah": "SD INPRES JIVAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 19:32:16",
+            "sekolah_id_enkrip": "530C8D0B730595E38EC7"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370424",
+            "kecamatan": "Kec. Tomor Birip",
+            "npsn": 60303740,
+            "sekolah": "SD INPRES MUNU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 16:55:29",
+            "sekolah_id_enkrip": "2E949B7E7F7826AC6F0E"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370424",
+            "kecamatan": "Kec. Tomor Birip",
+            "npsn": 60303628,
+            "sekolah": "SD INPRES TOMOR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 05:32:05",
+            "sekolah_id_enkrip": "B5410540EB03CFF9A66A"
+        }
+    ]
+}

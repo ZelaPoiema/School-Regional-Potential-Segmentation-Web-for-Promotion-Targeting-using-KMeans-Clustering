@@ -1,0 +1,102 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380303",
+            "kecamatan": "Kec. Ninia",
+            "npsn": 60303269,
+            "sekolah": "SD INPRES BABET",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "10 Oct 2023 14:34:42",
+            "sekolah_id_enkrip": "B0FF12F2DCA7CAB8E44C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380303",
+            "kecamatan": "Kec. Ninia",
+            "npsn": 60303278,
+            "sekolah": "SD INPRES NINIA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "20 Jan 2024 00:02:42",
+            "sekolah_id_enkrip": "D7EADEA43023D6EB4B94"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380303",
+            "kecamatan": "Kec. Ninia",
+            "npsn": 69831599,
+            "sekolah": "SD NEGERI LILIGAN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Jan 2024 10:37:10",
+            "sekolah_id_enkrip": "E84285F16E52C4C08F47"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380303",
+            "kecamatan": "Kec. Ninia",
+            "npsn": 70040497,
+            "sekolah": "SD NEGERI NINIA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "0A29924B1417B8A5E02C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380303",
+            "kecamatan": "Kec. Ninia",
+            "npsn": 60303297,
+            "sekolah": "SD YPPGI NINIA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "14 Dec 2023 20:59:34",
+            "sekolah_id_enkrip": "53B0DB0AE01BC3701F9C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380303",
+            "kecamatan": "Kec. Ninia",
+            "npsn": 70042127,
+            "sekolah": "SMP NEGERI YALISOMUN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "10 Oct 2023 14:21:58",
+            "sekolah_id_enkrip": "7C74E4763D0AFA86D0B7"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380303",
+            "kecamatan": "Kec. Ninia",
+            "npsn": 60303329,
+            "sekolah": "SMP NINIA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 09:40:33",
+            "sekolah_id_enkrip": "FC39477D3ABB97D1080B"
+        }
+    ]
+}

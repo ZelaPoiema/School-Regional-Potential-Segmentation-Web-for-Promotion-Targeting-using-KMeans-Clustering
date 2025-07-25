@@ -1,0 +1,46 @@
+{
+    "390500": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390511",
+            "kecamatan": "Kec. Senopi",
+            "npsn": 60401496,
+            "sekolah": "SD YPPK Santo Yoseph Senopi",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Jan 2024 06:24:51",
+            "sekolah_id_enkrip": "698B44AC03AF1B5A7565"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390511",
+            "kecamatan": "Kec. Senopi",
+            "npsn": 60403708,
+            "sekolah": "SMPN 23 SENOPI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 20:22:09",
+            "sekolah_id_enkrip": "F9BEB5744F61CA5D999D"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390511",
+            "kecamatan": "Kec. Senopi",
+            "npsn": 69979228,
+            "sekolah": "SMK NEGERI 3 TAMBRAUW",
+            "bentuk": "SMK",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 20:59:20",
+            "sekolah_id_enkrip": "8D799AC9123D565183D0"
+        }
+    ]
+}

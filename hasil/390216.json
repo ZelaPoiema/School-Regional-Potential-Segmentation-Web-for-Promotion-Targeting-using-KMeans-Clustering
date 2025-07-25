@@ -1,0 +1,102 @@
+{
+    "390200": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390216",
+            "kecamatan": "Kec. Misool Barat",
+            "npsn": 69925687,
+            "sekolah": "TK .FADAREL LILINTA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 04:15:01",
+            "sekolah_id_enkrip": "672DF28793DE507C7D60"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390216",
+            "kecamatan": "Kec. Misool Barat",
+            "npsn": 60401859,
+            "sekolah": "SD NEGERI 16 LILINTA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 19:09:41",
+            "sekolah_id_enkrip": "CD0EB74299417F690AC2"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390216",
+            "kecamatan": "Kec. Misool Barat",
+            "npsn": 69787896,
+            "sekolah": "SD NEGERI 18 GAMTA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Jan 2024 09:37:14",
+            "sekolah_id_enkrip": "1F8D09E3C9AAD9ADA017"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390216",
+            "kecamatan": "Kec. Misool Barat",
+            "npsn": 69787895,
+            "sekolah": "SD NEGERI 20 KAPACOL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Jan 2024 18:42:41",
+            "sekolah_id_enkrip": "F8ABD1F2A020DABB49FB"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390216",
+            "kecamatan": "Kec. Misool Barat",
+            "npsn": 60403861,
+            "sekolah": "SD NEGERI 24 MAGEY",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Aug 2023 21:57:06",
+            "sekolah_id_enkrip": "AF3D300FC38111957A05"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390216",
+            "kecamatan": "Kec. Misool Barat",
+            "npsn": 60403796,
+            "sekolah": "SMP NEGERI 25 RAJA AMPAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 04:04:50",
+            "sekolah_id_enkrip": "2AB8E7E1AD7B88A73416"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390216",
+            "kecamatan": "Kec. Misool Barat",
+            "npsn": 60403782,
+            "sekolah": "SMA NEGERI 4 RAJA AMPAT",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Dec 2023 08:58:56",
+            "sekolah_id_enkrip": "C9AF9919AAF379301EE4"
+        }
+    ]
+}

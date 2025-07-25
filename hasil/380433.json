@@ -1,0 +1,32 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380433",
+            "kecamatan": "Kec. Wakuwo",
+            "npsn": 60302254,
+            "sekolah": "SD NEGERI KUMBUR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "18 Jan 2024 10:30:14",
+            "sekolah_id_enkrip": "243E310BBCA6C85C9E81"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380433",
+            "kecamatan": "Kec. Wakuwo",
+            "npsn": "P2967418",
+            "sekolah": "PKBM WAKUO",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Aug 2023 10:54:46",
+            "sekolah_id_enkrip": "80F217C742B39D1E29CD"
+        }
+    ]
+}

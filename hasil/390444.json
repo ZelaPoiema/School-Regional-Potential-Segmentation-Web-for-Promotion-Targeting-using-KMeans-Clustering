@@ -1,0 +1,32 @@
+{
+    "390400": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390444",
+            "kecamatan": "Kec. Bagun",
+            "npsn": 60401135,
+            "sekolah": "SD INPRES 47 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Oct 2023 04:09:11",
+            "sekolah_id_enkrip": "6B7A38E4FA4A8900BF3C"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390444",
+            "kecamatan": "Kec. Bagun",
+            "npsn": 69938941,
+            "sekolah": "SMP NEGERI 27 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 00:34:38",
+            "sekolah_id_enkrip": "D5BAB34FAC79B08F667A"
+        }
+    ]
+}

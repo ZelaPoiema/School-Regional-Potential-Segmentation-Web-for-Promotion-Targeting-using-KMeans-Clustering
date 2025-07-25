@@ -1,0 +1,74 @@
+{
+    "360700": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360700",
+            "kabupaten_kota": "Kab. Intan Jaya",
+            "kode_kec": "360706",
+            "kecamatan": "Kec. Hitadipa",
+            "npsn": 69994969,
+            "sekolah": "TK YPPK PATER MISAEL KAMMARER SOANGGAMA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "B36737170D40B828D76F"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360700",
+            "kabupaten_kota": "Kab. Intan Jaya",
+            "kode_kec": "360706",
+            "kecamatan": "Kec. Hitadipa",
+            "npsn": 69787850,
+            "sekolah": "SD NEGERI SOANGGAMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 09:53:03",
+            "sekolah_id_enkrip": "2BC47D77EB43C7FD8011"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360700",
+            "kabupaten_kota": "Kab. Intan Jaya",
+            "kode_kec": "360706",
+            "kecamatan": "Kec. Hitadipa",
+            "npsn": 60304709,
+            "sekolah": "SDN INPRES KULAPA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Jun 2022 10:11:57",
+            "sekolah_id_enkrip": "5C4D5154BFBFA339B1B2"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360700",
+            "kabupaten_kota": "Kab. Intan Jaya",
+            "kode_kec": "360706",
+            "kecamatan": "Kec. Hitadipa",
+            "npsn": 69787849,
+            "sekolah": "SD YPPGI HITADIPA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "03 Feb 2024 23:05:34",
+            "sekolah_id_enkrip": "4B7B9677B7B2037A16C8"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360700",
+            "kabupaten_kota": "Kab. Intan Jaya",
+            "kode_kec": "360706",
+            "kecamatan": "Kec. Hitadipa",
+            "npsn": 60302451,
+            "sekolah": "SMP YPPGI HITADIPA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "03 Feb 2024 10:35:53",
+            "sekolah_id_enkrip": "771B9F7128248083D0EC"
+        }
+    ]
+}

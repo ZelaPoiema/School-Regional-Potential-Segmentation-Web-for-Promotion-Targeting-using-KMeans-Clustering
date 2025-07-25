@@ -1,0 +1,60 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380212",
+            "kecamatan": "Kec. Okbape",
+            "npsn": 70035680,
+            "sekolah": "KB MARIA MUNINGHOFF",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Aug 2023 05:26:25",
+            "sekolah_id_enkrip": "C6BE2E7FEB84A4096A3A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380212",
+            "kecamatan": "Kec. Okbape",
+            "npsn": 70003530,
+            "sekolah": "paud Daniel Kasawi II",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "24 Aug 2023 07:00:40",
+            "sekolah_id_enkrip": "6A72EC337D57EB681C41"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380212",
+            "kecamatan": "Kec. Okbape",
+            "npsn": 60302153,
+            "sekolah": "SD INPRES BAPE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 07:01:00",
+            "sekolah_id_enkrip": "BB5A4E7FAD5DF81F84ED"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380212",
+            "kecamatan": "Kec. Okbape",
+            "npsn": "P9998145",
+            "sekolah": "PKBM Sara Kabol",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Jan 2024 12:38:55",
+            "sekolah_id_enkrip": "63876E613901C9CA63E1"
+        }
+    ]
+}

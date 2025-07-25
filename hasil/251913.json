@@ -1,0 +1,102 @@
+{
+    "251900": [
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "251900",
+            "kabupaten_kota": "Kab. Sarmi",
+            "kode_kec": "251913",
+            "kecamatan": "Kec. Apawert Hulu",
+            "npsn": 60300912,
+            "sekolah": "SD INPRES SUBU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Jan 2024 10:07:44",
+            "sekolah_id_enkrip": "AAEDBAA8E7457DCF5933"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "251900",
+            "kabupaten_kota": "Kab. Sarmi",
+            "kode_kec": "251913",
+            "kecamatan": "Kec. Apawert Hulu",
+            "npsn": 60300906,
+            "sekolah": "SD INPRES WAMARIRI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Jan 2024 18:08:18",
+            "sekolah_id_enkrip": "20CF926752019FB87932"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "251900",
+            "kabupaten_kota": "Kab. Sarmi",
+            "kode_kec": "251913",
+            "kecamatan": "Kec. Apawert Hulu",
+            "npsn": 60302005,
+            "sekolah": "SD NEGERI AURIMI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 18:56:22",
+            "sekolah_id_enkrip": "7DFEB10356D670256463"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "251900",
+            "kabupaten_kota": "Kab. Sarmi",
+            "kode_kec": "251913",
+            "kecamatan": "Kec. Apawert Hulu",
+            "npsn": 69896507,
+            "sekolah": "SD PERSIAPAN KWAPITANIA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Aug 2023 18:08:13",
+            "sekolah_id_enkrip": "415B570DD4F5C67C4FF4"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "251900",
+            "kabupaten_kota": "Kab. Sarmi",
+            "kode_kec": "251913",
+            "kecamatan": "Kec. Apawert Hulu",
+            "npsn": 69896508,
+            "sekolah": "SD PERSIAPAN MANIWA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "25 Aug 2023 13:33:26",
+            "sekolah_id_enkrip": "8F50A587344A535B5C73"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "251900",
+            "kabupaten_kota": "Kab. Sarmi",
+            "kode_kec": "251913",
+            "kecamatan": "Kec. Apawert Hulu",
+            "npsn": 60300938,
+            "sekolah": "SDS ADVENT AURIMI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Jan 2024 14:13:21",
+            "sekolah_id_enkrip": "EB7495299BF33F757DD6"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "251900",
+            "kabupaten_kota": "Kab. Sarmi",
+            "kode_kec": "251913",
+            "kecamatan": "Kec. Apawert Hulu",
+            "npsn": 60303773,
+            "sekolah": "SMPS ADVENT AURIMI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "04 Feb 2024 20:45:21",
+            "sekolah_id_enkrip": "A178FEAF2CC0CA3965B5"
+        }
+    ]
+}

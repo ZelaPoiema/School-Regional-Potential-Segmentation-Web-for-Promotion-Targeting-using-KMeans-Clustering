@@ -1,0 +1,88 @@
+{
+    "370400": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370422",
+            "kecamatan": "Kec. Awyu",
+            "npsn": 70025905,
+            "sekolah": "KB SAGARE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 13:12:53",
+            "sekolah_id_enkrip": "71C1E29A964C8CF573F0"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370422",
+            "kecamatan": "Kec. Awyu",
+            "npsn": 60303724,
+            "sekolah": "SD INPRES SAGARE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 04:48:51",
+            "sekolah_id_enkrip": "EF4622C4D09E3DF90D7F"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370422",
+            "kecamatan": "Kec. Awyu",
+            "npsn": 60303626,
+            "sekolah": "SD INPRES SUAGAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Aug 2023 14:55:05",
+            "sekolah_id_enkrip": "5B278986707F00E67773"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370422",
+            "kecamatan": "Kec. Awyu",
+            "npsn": 69967019,
+            "sekolah": "SMP PERSIAPAN NEGERI AWYU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 06:18:08",
+            "sekolah_id_enkrip": "C7EB3F30E527C18EF252"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370422",
+            "kecamatan": "Kec. Awyu",
+            "npsn": 69967020,
+            "sekolah": "SMP YPPGI KEM JIM YOST COMORO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Feb 2024 16:12:08",
+            "sekolah_id_enkrip": "20BA4B411DC9CB521ABA"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370422",
+            "kecamatan": "Kec. Awyu",
+            "npsn": "P9997820",
+            "sekolah": "PKBM MOTIVASI BELAJAR AWYU",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "28 Dec 2023 21:34:47",
+            "sekolah_id_enkrip": "A16359569A867A7F0266"
+        }
+    ]
+}

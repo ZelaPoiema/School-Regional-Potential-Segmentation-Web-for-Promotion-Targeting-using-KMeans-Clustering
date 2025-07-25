@@ -1,0 +1,46 @@
+{
+    "390400": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390441",
+            "kecamatan": "Kec. Klaso",
+            "npsn": 60401342,
+            "sekolah": "SD NEGERI 19 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 09:22:19",
+            "sekolah_id_enkrip": "64C0CC41BB779C497A05"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390441",
+            "kecamatan": "Kec. Klaso",
+            "npsn": 60401306,
+            "sekolah": "SD YPK SION DELLA  KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "17 Oct 2023 06:56:37",
+            "sekolah_id_enkrip": "DD659752798CC80A21AD"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390441",
+            "kecamatan": "Kec. Klaso",
+            "npsn": 69954516,
+            "sekolah": "SMP NEGERI 29 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Dec 2023 21:08:49",
+            "sekolah_id_enkrip": "DAD12E9CDF5644B52508"
+        }
+    ]
+}

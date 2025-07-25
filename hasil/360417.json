@@ -1,0 +1,88 @@
+{
+    "360400": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360417",
+            "kecamatan": "Kec. Amar",
+            "npsn": 69991899,
+            "sekolah": "TK NEGERI IPAYA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Jan 2024 07:24:25",
+            "sekolah_id_enkrip": "D7B636BB902EA32BACD4"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360417",
+            "kecamatan": "Kec. Amar",
+            "npsn": 69978003,
+            "sekolah": "TK NEGERI PEMBINA AMAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Dec 2023 18:50:27",
+            "sekolah_id_enkrip": "2A2AD160E2461376D681"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360417",
+            "kecamatan": "Kec. Amar",
+            "npsn": 60300855,
+            "sekolah": "SD YPPK IPAYA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "14 Dec 2023 21:27:37",
+            "sekolah_id_enkrip": "794E223071668FAE9449"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360417",
+            "kecamatan": "Kec. Amar",
+            "npsn": 60302851,
+            "sekolah": "SD YPPK ST.FRANSISKUS XAVERIUS AMAR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "27 Jan 2024 20:31:46",
+            "sekolah_id_enkrip": "77130D3464CF055B6361"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360417",
+            "kecamatan": "Kec. Amar",
+            "npsn": 69930489,
+            "sekolah": "SMP NEGERI AMAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Oct 2023 08:45:52",
+            "sekolah_id_enkrip": "C736A5AF383D17BAB57C"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360417",
+            "kecamatan": "Kec. Amar",
+            "npsn": "P9970039",
+            "sekolah": "PKBM IWOTO AMAR",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Feb 2024 20:24:28",
+            "sekolah_id_enkrip": "CDE9B8D31234B4229060"
+        }
+    ]
+}

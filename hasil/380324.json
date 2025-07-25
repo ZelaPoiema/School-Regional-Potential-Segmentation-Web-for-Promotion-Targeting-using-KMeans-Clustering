@@ -1,0 +1,60 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380324",
+            "kecamatan": "Kec. Pronggoli",
+            "npsn": 60303540,
+            "sekolah": "SD NEGERI PILIAM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Aug 2023 15:18:33",
+            "sekolah_id_enkrip": "8E56F22ED9590EDE6446"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380324",
+            "kecamatan": "Kec. Pronggoli",
+            "npsn": 60303541,
+            "sekolah": "SD NEGERI PILIK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Aug 2023 15:24:45",
+            "sekolah_id_enkrip": "BAE11ECF4BFC9C45D68D"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380324",
+            "kecamatan": "Kec. Pronggoli",
+            "npsn": 60303268,
+            "sekolah": "SD YPK PRONGGOLI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Sep 2023 03:28:32",
+            "sekolah_id_enkrip": "28F29DBE5DC66501B465"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380324",
+            "kecamatan": "Kec. Pronggoli",
+            "npsn": 60303546,
+            "sekolah": "SMPN PRONGGOLI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 15:50:33",
+            "sekolah_id_enkrip": "7C78CBB88610D67463F2"
+        }
+    ]
+}

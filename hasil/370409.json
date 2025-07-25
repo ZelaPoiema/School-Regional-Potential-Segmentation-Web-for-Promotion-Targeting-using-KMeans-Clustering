@@ -1,0 +1,102 @@
+{
+    "370400": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370409",
+            "kecamatan": "Kec. Kolf Braza",
+            "npsn": 60304093,
+            "sekolah": "SD INPRES BINAMZAIN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Jan 2024 16:27:09",
+            "sekolah_id_enkrip": "6CB8956653596783F7A1"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370409",
+            "kecamatan": "Kec. Kolf Braza",
+            "npsn": 60304098,
+            "sekolah": "SD INPRES PATIPI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "20 Jan 2024 06:36:22",
+            "sekolah_id_enkrip": "3BAFF26E682F634836FC"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370409",
+            "kecamatan": "Kec. Kolf Braza",
+            "npsn": 60304987,
+            "sekolah": "SD PERSIAPAN NEGERI PEPERA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Aug 2023 20:53:02",
+            "sekolah_id_enkrip": "4BFE4CD52526D8EF49FE"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370409",
+            "kecamatan": "Kec. Kolf Braza",
+            "npsn": 60304934,
+            "sekolah": "SD PERSIAPAN NEGERI ULAKIN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 09:51:15",
+            "sekolah_id_enkrip": "DCD9E85C4EAB8AF6199D"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370409",
+            "kecamatan": "Kec. Kolf Braza",
+            "npsn": 69755575,
+            "sekolah": "SD PERSIAPAN NEGERI WOUTU KOLOF",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 12:39:34",
+            "sekolah_id_enkrip": "4E93F40168A03E95872B"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370409",
+            "kecamatan": "Kec. Kolf Braza",
+            "npsn": 70042478,
+            "sekolah": "SMP PERSIAPAN NEGERI KOLF BRAZA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Aug 2023 23:25:24",
+            "sekolah_id_enkrip": "EF539EDC64E380DB2955"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370409",
+            "kecamatan": "Kec. Kolf Braza",
+            "npsn": "P9985107",
+            "sekolah": "PKBM SEMBERS MAJU BERSAMA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "20 Jan 2024 15:05:24",
+            "sekolah_id_enkrip": "6E90FE627D83F436B6E2"
+        }
+    ]
+}

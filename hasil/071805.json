@@ -1,0 +1,102 @@
+{
+    "071800": [
+        {
+            "kode_prop": "070000",
+            "propinsi": "Prov. Sumatera Utara",
+            "kode_kab_kota": "071800",
+            "kabupaten_kota": "Kab. Pakpak Bharat",
+            "kode_kec": "071805",
+            "kecamatan": "Kec. Pagindar",
+            "npsn": 69952240,
+            "sekolah": "PAUD MELATI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "17 Mar 2022 16:05:29",
+            "sekolah_id_enkrip": "2899EE6641A169F2685E"
+        },
+        {
+            "kode_prop": "070000",
+            "propinsi": "Prov. Sumatera Utara",
+            "kode_kab_kota": "071800",
+            "kabupaten_kota": "Kab. Pakpak Bharat",
+            "kode_kec": "071805",
+            "kecamatan": "Kec. Pagindar",
+            "npsn": 10208642,
+            "sekolah": "SD NEGERI 038093 SIBAGINDAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 21:22:13",
+            "sekolah_id_enkrip": "3555A1AFBB233771EF3E"
+        },
+        {
+            "kode_prop": "070000",
+            "propinsi": "Prov. Sumatera Utara",
+            "kode_kab_kota": "071800",
+            "kabupaten_kota": "Kab. Pakpak Bharat",
+            "kode_kec": "071805",
+            "kecamatan": "Kec. Pagindar",
+            "npsn": 10261048,
+            "sekolah": "SD NEGERI PAGINDAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Jan 2024 19:56:19",
+            "sekolah_id_enkrip": "061D030B5188615ED9C2"
+        },
+        {
+            "kode_prop": "070000",
+            "propinsi": "Prov. Sumatera Utara",
+            "kode_kab_kota": "071800",
+            "kabupaten_kota": "Kab. Pakpak Bharat",
+            "kode_kec": "071805",
+            "kecamatan": "Kec. Pagindar",
+            "npsn": 10208658,
+            "sekolah": "SD NEGERI SP 1 SIBAGINDAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Jan 2024 22:27:29",
+            "sekolah_id_enkrip": "B7DD1E601D5E14DA129A"
+        },
+        {
+            "kode_prop": "070000",
+            "propinsi": "Prov. Sumatera Utara",
+            "kode_kab_kota": "071800",
+            "kabupaten_kota": "Kab. Pakpak Bharat",
+            "kode_kec": "071805",
+            "kecamatan": "Kec. Pagindar",
+            "npsn": 10257286,
+            "sekolah": "SD NEGERI SP 3 LAE MBENTAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 21:33:31",
+            "sekolah_id_enkrip": "E570B197CC3D4840A6A0"
+        },
+        {
+            "kode_prop": "070000",
+            "propinsi": "Prov. Sumatera Utara",
+            "kode_kab_kota": "071800",
+            "kabupaten_kota": "Kab. Pakpak Bharat",
+            "kode_kec": "071805",
+            "kecamatan": "Kec. Pagindar",
+            "npsn": 10208661,
+            "sekolah": "SMP NEGERI 1 PAGINDAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 09:59:46",
+            "sekolah_id_enkrip": "CBC7B49F36C2D0F1508B"
+        },
+        {
+            "kode_prop": "070000",
+            "propinsi": "Prov. Sumatera Utara",
+            "kode_kab_kota": "071800",
+            "kabupaten_kota": "Kab. Pakpak Bharat",
+            "kode_kec": "071805",
+            "kecamatan": "Kec. Pagindar",
+            "npsn": 69948376,
+            "sekolah": "SMK NEGERI KUSUMA PAGINDAR",
+            "bentuk": "SMK",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Oct 2023 19:44:02",
+            "sekolah_id_enkrip": "EFC2D5A41FA790C45721"
+        }
+    ]
+}

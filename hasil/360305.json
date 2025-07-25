@@ -1,0 +1,46 @@
+{
+    "360300": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360305",
+            "kecamatan": "Kec. Bibida",
+            "npsn": 60302339,
+            "sekolah": "SD INPRES UGIDIMI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 19:31:44",
+            "sekolah_id_enkrip": "0670953EDA234144EB1F"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360305",
+            "kecamatan": "Kec. Bibida",
+            "npsn": 60302410,
+            "sekolah": "SD YPPK KUGAPA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Jan 2024 04:11:22",
+            "sekolah_id_enkrip": "A289517FBA62643082F6"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360305",
+            "kecamatan": "Kec. Bibida",
+            "npsn": "P9997410",
+            "sekolah": "PKBM ANAK CERIA PAPUA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "28 Aug 2023 20:45:03",
+            "sekolah_id_enkrip": "704923B60A9270948557"
+        }
+    ]
+}

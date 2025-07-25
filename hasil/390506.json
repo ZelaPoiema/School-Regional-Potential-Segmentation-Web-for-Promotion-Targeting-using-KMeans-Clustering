@@ -1,0 +1,74 @@
+{
+    "390500": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390506",
+            "kecamatan": "Kec. Abun",
+            "npsn": 69728595,
+            "sekolah": "SD INPRES 36 WAU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Oct 2023 09:52:25",
+            "sekolah_id_enkrip": "EAA0C0DAA211379D0CC9"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390506",
+            "kecamatan": "Kec. Abun",
+            "npsn": 69728604,
+            "sekolah": "SD NEGERI WAIBEM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 14:57:51",
+            "sekolah_id_enkrip": "5162EAEF195859E8D4F6"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390506",
+            "kecamatan": "Kec. Abun",
+            "npsn": 60404166,
+            "sekolah": "SD NEGERI WARMANDI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 09:34:49",
+            "sekolah_id_enkrip": "EE83882A1412A53506B0"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390506",
+            "kecamatan": "Kec. Abun",
+            "npsn": 60404172,
+            "sekolah": "SMP NEGERI ABUN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Jan 2024 04:04:01",
+            "sekolah_id_enkrip": "2E9E92FED281847F8832"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390506",
+            "kecamatan": "Kec. Abun",
+            "npsn": "P9996807",
+            "sekolah": "PKBM BUR ABUN",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "F5EE348FD0BCF97B06D4"
+        }
+    ]
+}

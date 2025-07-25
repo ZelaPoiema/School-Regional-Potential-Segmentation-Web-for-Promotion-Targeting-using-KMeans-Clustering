@@ -1,0 +1,46 @@
+{
+    "380100": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380124",
+            "kecamatan": "Kec. Wadangku",
+            "npsn": 60301474,
+            "sekolah": "SD INPRES WATLANGKU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Sep 2023 11:15:38",
+            "sekolah_id_enkrip": "A296FFF991AAF675B94E"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380124",
+            "kecamatan": "Kec. Wadangku",
+            "npsn": 60301489,
+            "sekolah": "SD INPRES YUMOSIMO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Dec 2023 03:03:43",
+            "sekolah_id_enkrip": "648AD0E76CB16388B4D0"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380124",
+            "kecamatan": "Kec. Wadangku",
+            "npsn": "P9997269",
+            "sekolah": "PKBM WALU",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Dec 2023 05:09:13",
+            "sekolah_id_enkrip": "A596E8EDACD1F75A9902"
+        }
+    ]
+}

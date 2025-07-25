@@ -1,0 +1,46 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380316",
+            "kecamatan": "Kec. Soba",
+            "npsn": 60303310,
+            "sekolah": "SD INPRES SOBA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Dec 2023 15:02:57",
+            "sekolah_id_enkrip": "565C355B9B6BC2E95CE4"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380316",
+            "kecamatan": "Kec. Soba",
+            "npsn": 69831634,
+            "sekolah": "SD NEGERI ALUGUNDIPMO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 12:57:24",
+            "sekolah_id_enkrip": "D9F636D0F53FC497CB8D"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380316",
+            "kecamatan": "Kec. Soba",
+            "npsn": 60303343,
+            "sekolah": "SMPN SOBA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Dec 2023 23:16:25",
+            "sekolah_id_enkrip": "50ED62256F159A940685"
+        }
+    ]
+}

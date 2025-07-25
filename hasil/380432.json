@@ -1,0 +1,32 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380432",
+            "kecamatan": "Kec. Yuneri",
+            "npsn": 60302248,
+            "sekolah": "SD NEGERI KANGGIMBUR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Aug 2023 06:17:48",
+            "sekolah_id_enkrip": "45E905093244129E1120"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380432",
+            "kecamatan": "Kec. Yuneri",
+            "npsn": "P9997470",
+            "sekolah": "PKBM DIMBA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "6B0DECCADD4BBA128C6B"
+        }
+    ]
+}

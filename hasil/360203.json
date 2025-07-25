@@ -1,0 +1,46 @@
+{
+    "360200": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360203",
+            "kecamatan": "Kec. Fawi",
+            "npsn": 60301930,
+            "sekolah": "SD INPRES FAWI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Aug 2023 10:53:33",
+            "sekolah_id_enkrip": "C13A659C5DAA6A04D361"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360203",
+            "kecamatan": "Kec. Fawi",
+            "npsn": 60301989,
+            "sekolah": "SMP Negeri Fawi",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Jan 2024 20:42:29",
+            "sekolah_id_enkrip": "CA8B106940D045437AA8"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360203",
+            "kecamatan": "Kec. Fawi",
+            "npsn": "P9954278",
+            "sekolah": "PKBM Fawi",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "15 Aug 2023 04:50:00",
+            "sekolah_id_enkrip": "EEC2DB4A08416E14651B"
+        }
+    ]
+}

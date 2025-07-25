@@ -1,0 +1,60 @@
+{
+    "250100": [
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250132",
+            "kecamatan": "Kec. Gresi Selatan",
+            "npsn": 69887192,
+            "sekolah": "Kuyake",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Apr 2022 08:27:30",
+            "sekolah_id_enkrip": "7EFDA3F78B1CEF4D176A"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250132",
+            "kecamatan": "Kec. Gresi Selatan",
+            "npsn": 60303571,
+            "sekolah": "SD PERSIAPAN BANGAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Sep 2023 08:11:54",
+            "sekolah_id_enkrip": "7A778DD1425A5EE78F69"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250132",
+            "kecamatan": "Kec. Gresi Selatan",
+            "npsn": 60300227,
+            "sekolah": "SD YPK DEKENING",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Sep 2023 17:26:30",
+            "sekolah_id_enkrip": "A6ED37C9CB6DADB56AB8"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250132",
+            "kecamatan": "Kec. Gresi Selatan",
+            "npsn": 69995952,
+            "sekolah": "SMP NEGERI BANGAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 07:33:59",
+            "sekolah_id_enkrip": "2A06AC7268692D3D3F5A"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "252000": [
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "252000",
+            "kabupaten_kota": "Kab. Keerom",
+            "kode_kec": "252001",
+            "kecamatan": "Kec. Web",
+            "npsn": 69880434,
+            "sekolah": "TK BONIFASIUS UBRUB",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "15 Nov 2021 18:40:12",
+            "sekolah_id_enkrip": "0E76AFC70A5F62FD1588"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "252000",
+            "kabupaten_kota": "Kab. Keerom",
+            "kode_kec": "252001",
+            "kecamatan": "Kec. Web",
+            "npsn": 60303076,
+            "sekolah": "SD INPRES DUBU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 04:35:10",
+            "sekolah_id_enkrip": "CDFEA9BABADB3E14626A"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "252000",
+            "kabupaten_kota": "Kab. Keerom",
+            "kode_kec": "252001",
+            "kecamatan": "Kec. Web",
+            "npsn": 60303883,
+            "sekolah": "SD YPPK AKARINDA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "25 Jan 2024 16:36:54",
+            "sekolah_id_enkrip": "329E09625A4FFDD516FD"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "252000",
+            "kabupaten_kota": "Kab. Keerom",
+            "kode_kec": "252001",
+            "kecamatan": "Kec. Web",
+            "npsn": 60303088,
+            "sekolah": "SD YPPK UBRUB",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "27 Jan 2024 17:20:12",
+            "sekolah_id_enkrip": "7E9A3902C55DF9C6615C"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "252000",
+            "kabupaten_kota": "Kab. Keerom",
+            "kode_kec": "252001",
+            "kecamatan": "Kec. Web",
+            "npsn": 60303089,
+            "sekolah": "SD YPPK YAMRAB",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Aug 2023 16:01:29",
+            "sekolah_id_enkrip": "DE0A7EF0EB78AE9BF27D"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "252000",
+            "kabupaten_kota": "Kab. Keerom",
+            "kode_kec": "252001",
+            "kecamatan": "Kec. Web",
+            "npsn": 60303098,
+            "sekolah": "SMP NEGERI 1 WEB",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Jan 2024 04:03:00",
+            "sekolah_id_enkrip": "0DB8DB550317B9846EB9"
+        }
+    ]
+}

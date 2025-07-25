@@ -1,0 +1,102 @@
+{
+    "320400": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320413",
+            "kecamatan": "Kec. Aranday",
+            "npsn": 70035164,
+            "sekolah": "TK MEKAR SARI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "44811471127C4F9132C8"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320413",
+            "kecamatan": "Kec. Aranday",
+            "npsn": 60401881,
+            "sekolah": "SD INPRES ARANDAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Sep 2023 08:39:21",
+            "sekolah_id_enkrip": "DC80EC046E789EB30225"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320413",
+            "kecamatan": "Kec. Aranday",
+            "npsn": 60401884,
+            "sekolah": "SD INPRES HTI 02 ARANDAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Sep 2023 19:48:17",
+            "sekolah_id_enkrip": "90BC866F610E8AA478AF"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320413",
+            "kecamatan": "Kec. Aranday",
+            "npsn": 60401889,
+            "sekolah": "SD INPRES KECAP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Jan 2024 18:32:57",
+            "sekolah_id_enkrip": "1E9B1C83C7C19549366E"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320413",
+            "kecamatan": "Kec. Aranday",
+            "npsn": 70000400,
+            "sekolah": "SD NEGERI YAKORA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 16:53:11",
+            "sekolah_id_enkrip": "BF9E591208864709FA59"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320413",
+            "kecamatan": "Kec. Aranday",
+            "npsn": 60403478,
+            "sekolah": "SD PERINTIS KM. BARU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "18 Oct 2023 10:29:26",
+            "sekolah_id_enkrip": "85FD7C48E4CAB8421BA6"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320413",
+            "kecamatan": "Kec. Aranday",
+            "npsn": 60403740,
+            "sekolah": "SMP NEGERI 2 ARANDAY",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "10 Nov 2023 15:28:55",
+            "sekolah_id_enkrip": "22DABAC68990BB4B65D3"
+        }
+    ]
+}

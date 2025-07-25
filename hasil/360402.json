@@ -1,0 +1,102 @@
+{
+    "360400": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360402",
+            "kecamatan": "Kec. Agimuga",
+            "npsn": 70001519,
+            "sekolah": "TK NEGERI FAKAFUKU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Sep 2023 15:52:19",
+            "sekolah_id_enkrip": "0026CB0DD148E2B8AE28"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360402",
+            "kecamatan": "Kec. Agimuga",
+            "npsn": 60302828,
+            "sekolah": "SD INPRES FAKAFUKU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 20:31:29",
+            "sekolah_id_enkrip": "4AE2E4E0770524CB7B85"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360402",
+            "kecamatan": "Kec. Agimuga",
+            "npsn": 60300857,
+            "sekolah": "SD YPPK BELAKMAKMA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Jan 2024 06:28:26",
+            "sekolah_id_enkrip": "C526DF4534820AFDB17A"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360402",
+            "kecamatan": "Kec. Agimuga",
+            "npsn": 60300856,
+            "sekolah": "SD YPPK BULUJALAUKI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "08 Dec 2023 06:18:43",
+            "sekolah_id_enkrip": "2F81273F988D2DF87B11"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360402",
+            "kecamatan": "Kec. Agimuga",
+            "npsn": 60302862,
+            "sekolah": "SD YPPK PUTSINARA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "15 Aug 2023 23:25:35",
+            "sekolah_id_enkrip": "698AC6306B163BB71C0A"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360402",
+            "kecamatan": "Kec. Agimuga",
+            "npsn": 60300836,
+            "sekolah": "SMP NEGERI AGIMUGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "20 Jan 2024 08:04:00",
+            "sekolah_id_enkrip": "514801414CE296A3936D"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360402",
+            "kecamatan": "Kec. Agimuga",
+            "npsn": "P9970032",
+            "sekolah": "PKBM SAIPA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "20 Nov 2023 18:15:15",
+            "sekolah_id_enkrip": "BE3A7451B70635323CDA"
+        }
+    ]
+}

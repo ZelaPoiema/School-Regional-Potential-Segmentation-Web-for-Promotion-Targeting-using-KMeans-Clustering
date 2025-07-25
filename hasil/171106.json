@@ -1,0 +1,102 @@
+{
+    "171100": [
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "171100",
+            "kabupaten_kota": "Kab. Bolaang Mongondow Timur",
+            "kode_kec": "171106",
+            "kecamatan": "Kec. Motongkad",
+            "npsn": 70042537,
+            "sekolah": "SD NEGERI 1 MOLOBOG TIMUR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Dec 2023 14:02:19",
+            "sekolah_id_enkrip": "CFBA66D9C67A6A26737D"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "171100",
+            "kabupaten_kota": "Kab. Bolaang Mongondow Timur",
+            "kode_kec": "171106",
+            "kecamatan": "Kec. Motongkad",
+            "npsn": 69728221,
+            "sekolah": "SD NEGERI 2 MOTONGKAD",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 07:40:10",
+            "sekolah_id_enkrip": "05094E3ABA32A8131171"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "171100",
+            "kabupaten_kota": "Kab. Bolaang Mongondow Timur",
+            "kode_kec": "171106",
+            "kecamatan": "Kec. Motongkad",
+            "npsn": 40100493,
+            "sekolah": "SD NEGERI I MOLOBOG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 20:05:39",
+            "sekolah_id_enkrip": "46407A9632DB2E065EAB"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "171100",
+            "kabupaten_kota": "Kab. Bolaang Mongondow Timur",
+            "kode_kec": "171106",
+            "kecamatan": "Kec. Motongkad",
+            "npsn": 40100503,
+            "sekolah": "SD NEGERI I MOTONGKAD",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 16:56:28",
+            "sekolah_id_enkrip": "F02247FB41B4ABEE0B98"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "171100",
+            "kabupaten_kota": "Kab. Bolaang Mongondow Timur",
+            "kode_kec": "171106",
+            "kecamatan": "Kec. Motongkad",
+            "npsn": 40100524,
+            "sekolah": "SD COKROAMINOTO MOTONGKAD",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Dec 2023 17:14:16",
+            "sekolah_id_enkrip": "06B6DAD09B2BC50AAB3E"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "171100",
+            "kabupaten_kota": "Kab. Bolaang Mongondow Timur",
+            "kode_kec": "171106",
+            "kecamatan": "Kec. Motongkad",
+            "npsn": 69728225,
+            "sekolah": "SMP NEGERI SATU ATAP ATOGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Jan 2024 11:03:58",
+            "sekolah_id_enkrip": "B309181241AF63EF5E68"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "171100",
+            "kabupaten_kota": "Kab. Bolaang Mongondow Timur",
+            "kode_kec": "171106",
+            "kecamatan": "Kec. Motongkad",
+            "npsn": 69728227,
+            "sekolah": "SMP SATAP Jiko",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 14:09:50",
+            "sekolah_id_enkrip": "19F3D15C8B8CF4AF4853"
+        }
+    ]
+}

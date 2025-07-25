@@ -1,0 +1,74 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380714",
+            "kecamatan": "Kec. Tiom Ollo",
+            "npsn": 70005516,
+            "sekolah": "PAUD NINUBRO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Oct 2023 10:03:05",
+            "sekolah_id_enkrip": "816F4A7A63CA87F3115A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380714",
+            "kecamatan": "Kec. Tiom Ollo",
+            "npsn": 60301498,
+            "sekolah": "SD NEGERI LONGGI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 06:17:36",
+            "sekolah_id_enkrip": "3564E195EE9F7CCE84CF"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380714",
+            "kecamatan": "Kec. Tiom Ollo",
+            "npsn": 70041329,
+            "sekolah": "SMP Negeri 2 Tiomneri",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Aug 2023 07:40:57",
+            "sekolah_id_enkrip": "C70562AB31B8DBE4144D"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380714",
+            "kecamatan": "Kec. Tiom Ollo",
+            "npsn": 69905073,
+            "sekolah": "SMA Negeri Tiomneri",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Sep 2023 11:56:41",
+            "sekolah_id_enkrip": "8DC212BC2F2944F5F019"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380714",
+            "kecamatan": "Kec. Tiom Ollo",
+            "npsn": "P9997461",
+            "sekolah": "PKBM NINUBRO",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "16 Jan 2024 18:05:50",
+            "sekolah_id_enkrip": "94885B0E7E9B2C492582"
+        }
+    ]
+}

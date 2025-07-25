@@ -1,0 +1,32 @@
+{
+    "340500": [
+        {
+            "kode_prop": "340000",
+            "propinsi": "Prov. Kalimantan Utara",
+            "kode_kab_kota": "340500",
+            "kabupaten_kota": "Kab. Nunukan",
+            "kode_kec": "340525",
+            "kecamatan": "Kec. Lumbis Hulu",
+            "npsn": 30402654,
+            "sekolah": "SD NEGERI 001 LUMBIS HULU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 10:56:01",
+            "sekolah_id_enkrip": "213EB83B191266FF2978"
+        },
+        {
+            "kode_prop": "340000",
+            "propinsi": "Prov. Kalimantan Utara",
+            "kode_kab_kota": "340500",
+            "kabupaten_kota": "Kab. Nunukan",
+            "kode_kec": "340525",
+            "kecamatan": "Kec. Lumbis Hulu",
+            "npsn": 30405233,
+            "sekolah": "SMP NEGERI 1 LUMBIS HULU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "09 Dec 2023 20:02:54",
+            "sekolah_id_enkrip": "007F9356BF28CBF6099A"
+        }
+    ]
+}

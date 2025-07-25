@@ -1,0 +1,32 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380422",
+            "kecamatan": "Kec. Timori",
+            "npsn": 60302204,
+            "sekolah": "SD INPRES BOLUBUR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Aug 2023 07:24:02",
+            "sekolah_id_enkrip": "84E90D389D6492A8EDB1"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380422",
+            "kecamatan": "Kec. Timori",
+            "npsn": 60302241,
+            "sekolah": "SD NEGERI BEREMO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Oct 2023 20:27:29",
+            "sekolah_id_enkrip": "3C8DB1568402C4EC091B"
+        }
+    ]
+}

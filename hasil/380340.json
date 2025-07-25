@@ -1,0 +1,74 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380340",
+            "kecamatan": "Kec. Bomela",
+            "npsn": 70044896,
+            "sekolah": "TK EFATA YAKPESMI BOMELA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "FB0F0FEE43F0F720894A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380340",
+            "kecamatan": "Kec. Bomela",
+            "npsn": 69831569,
+            "sekolah": "SD NEGERI YALMABI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Sep 2023 10:06:10",
+            "sekolah_id_enkrip": "FDB4E6DC7DA8F40DADA8"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380340",
+            "kecamatan": "Kec. Bomela",
+            "npsn": 69924478,
+            "sekolah": "SDN BOMELA YAHUKIMO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 22:54:32",
+            "sekolah_id_enkrip": "8C4EBE224EF63CC1D2B7"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380340",
+            "kecamatan": "Kec. Bomela",
+            "npsn": 69831607,
+            "sekolah": "SD YAKPESMI KEISJANSE KUBIYALAR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Dec 2023 11:06:38",
+            "sekolah_id_enkrip": "AE8EF90575F4E856C52D"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380340",
+            "kecamatan": "Kec. Bomela",
+            "npsn": 60302971,
+            "sekolah": "SD YPK BOMELA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Feb 2024 10:34:33",
+            "sekolah_id_enkrip": "1F3912B1CF4F3062AC3D"
+        }
+    ]
+}

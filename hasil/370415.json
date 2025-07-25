@@ -1,0 +1,60 @@
+{
+    "370400": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370415",
+            "kecamatan": "Kec. Kopay",
+            "npsn": 60304091,
+            "sekolah": "SD INPRES AIRO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 20:51:26",
+            "sekolah_id_enkrip": "5F089E180789F45C0503"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370415",
+            "kecamatan": "Kec. Kopay",
+            "npsn": 60304424,
+            "sekolah": "SD INPRES SINIPIT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 18:57:01",
+            "sekolah_id_enkrip": "CD4309615CB6DF9A2351"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370415",
+            "kecamatan": "Kec. Kopay",
+            "npsn": 60304113,
+            "sekolah": "SD PERSIAPAN NEGERI KAIPOM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Sep 2023 00:56:33",
+            "sekolah_id_enkrip": "58EEDAB5B8A1ABD34635"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370415",
+            "kecamatan": "Kec. Kopay",
+            "npsn": 60303767,
+            "sekolah": "SD YPPGI KAWEM",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Feb 2024 13:44:53",
+            "sekolah_id_enkrip": "8997BFB13DCF7B515321"
+        }
+    ]
+}

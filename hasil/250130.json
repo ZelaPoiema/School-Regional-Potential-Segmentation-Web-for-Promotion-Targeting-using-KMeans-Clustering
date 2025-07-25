@@ -1,0 +1,102 @@
+{
+    "250100": [
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250130",
+            "kecamatan": "Kec. Yokari",
+            "npsn": 70015319,
+            "sekolah": "KB. SION MEUKISI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "12 Oct 2023 20:15:21",
+            "sekolah_id_enkrip": "399A898CB3FE278498D3"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250130",
+            "kecamatan": "Kec. Yokari",
+            "npsn": 69887195,
+            "sekolah": "Mawar",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "18 Sep 2023 16:42:14",
+            "sekolah_id_enkrip": "259B5334C50D516060B3"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250130",
+            "kecamatan": "Kec. Yokari",
+            "npsn": 60300228,
+            "sekolah": "SD YPK BUKISI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Nov 2023 23:10:29",
+            "sekolah_id_enkrip": "104A4E7D6B03A17E3F60"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250130",
+            "kecamatan": "Kec. Yokari",
+            "npsn": 60300226,
+            "sekolah": "SD YPK DEMOI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "04 Oct 2023 20:40:12",
+            "sekolah_id_enkrip": "0BD23E5BEF012363C837"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250130",
+            "kecamatan": "Kec. Yokari",
+            "npsn": 60300197,
+            "sekolah": "SD YPK KAMTUMILENA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "03 Feb 2024 23:25:54",
+            "sekolah_id_enkrip": "4642CA324A1B174DFC17"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250130",
+            "kecamatan": "Kec. Yokari",
+            "npsn": 60303570,
+            "sekolah": "SD YPK MEUKISI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "27 Oct 2023 06:03:56",
+            "sekolah_id_enkrip": "E5A576E1D240B08AFAEC"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250130",
+            "kecamatan": "Kec. Yokari",
+            "npsn": 60303582,
+            "sekolah": "SMP SATU ATAP MEUKISI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 18:04:03",
+            "sekolah_id_enkrip": "1799B8CA41D68A62E9CE"
+        }
+    ]
+}

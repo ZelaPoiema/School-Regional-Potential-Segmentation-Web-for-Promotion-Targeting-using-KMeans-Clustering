@@ -1,0 +1,32 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380231",
+            "kecamatan": "Kec. Teiraplu",
+            "npsn": 69725983,
+            "sekolah": "SD INPRES TEIRAPLU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "07 Aug 2023 19:22:43",
+            "sekolah_id_enkrip": "87BA8BC5FF874F964669"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380231",
+            "kecamatan": "Kec. Teiraplu",
+            "npsn": 69987623,
+            "sekolah": "SMP NEGERI TEIRAPLU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 19:45:29",
+            "sekolah_id_enkrip": "8AF9435103DB32649751"
+        }
+    ]
+}

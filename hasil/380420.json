@@ -1,0 +1,60 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380420",
+            "kecamatan": "Kec. Gundagi",
+            "npsn": 70002485,
+            "sekolah": "PAUD IMANUEL",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "21 Nov 2023 08:18:04",
+            "sekolah_id_enkrip": "8DC07E1DF1336192E6EC"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380420",
+            "kecamatan": "Kec. Gundagi",
+            "npsn": 60302252,
+            "sekolah": "SD NEGERI KALARIN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Dec 2023 02:31:29",
+            "sekolah_id_enkrip": "A20AFD8B8602D9E447C0"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380420",
+            "kecamatan": "Kec. Gundagi",
+            "npsn": 60302259,
+            "sekolah": "SD NEGERI WORAGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Dec 2023 17:16:55",
+            "sekolah_id_enkrip": "86669DD9EA8ED81DE3A4"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380420",
+            "kecamatan": "Kec. Gundagi",
+            "npsn": "P2967371",
+            "sekolah": "PKBM GUNDAGI",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Dec 2023 12:42:14",
+            "sekolah_id_enkrip": "4B1A918933EA5813AF5B"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "370400": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370410",
+            "kecamatan": "Kec. Unir Sirau",
+            "npsn": 70004813,
+            "sekolah": "KB KOMOR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Jan 2024 18:56:14",
+            "sekolah_id_enkrip": "A0DC6AAA5F748CC9A336"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370410",
+            "kecamatan": "Kec. Unir Sirau",
+            "npsn": 69896479,
+            "sekolah": "SD Persiapan Negeri Onafai",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 23:22:05",
+            "sekolah_id_enkrip": "F874C99AB57DA29BB18C"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370410",
+            "kecamatan": "Kec. Unir Sirau",
+            "npsn": 60303754,
+            "sekolah": "SD YPPK KOMOR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Feb 2024 17:15:19",
+            "sekolah_id_enkrip": "AB1B17591F54DC15CE13"
+        }
+    ]
+}

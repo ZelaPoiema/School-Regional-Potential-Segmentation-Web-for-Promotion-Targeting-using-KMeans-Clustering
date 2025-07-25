@@ -1,0 +1,88 @@
+{
+    "390500": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390523",
+            "kecamatan": "Kec. Kebar Timur",
+            "npsn": 70007497,
+            "sekolah": "PAUD Manadur Inam",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "039DE53CFB1C6A0829D8"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390523",
+            "kecamatan": "Kec. Kebar Timur",
+            "npsn": 60402142,
+            "sekolah": "SD INPRES 19 IBUANARI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Sep 2023 13:09:47",
+            "sekolah_id_enkrip": "3218CED24BF383528CA7"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390523",
+            "kecamatan": "Kec. Kebar Timur",
+            "npsn": 69899497,
+            "sekolah": "SD INPRES PUBUAN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 12:38:32",
+            "sekolah_id_enkrip": "E69BE8B455A5514EDDE3"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390523",
+            "kecamatan": "Kec. Kebar Timur",
+            "npsn": 60402172,
+            "sekolah": "SD YPK INAM KEBAR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Mar 2023 16:41:48",
+            "sekolah_id_enkrip": "00BF5DEE8B64C6681FA4"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390523",
+            "kecamatan": "Kec. Kebar Timur",
+            "npsn": 60401393,
+            "sekolah": "SDS YPK INAM JANDURAU",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "04 Feb 2024 06:14:12",
+            "sekolah_id_enkrip": "507CFA8917912569A717"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390523",
+            "kecamatan": "Kec. Kebar Timur",
+            "npsn": 69888704,
+            "sekolah": "SMP NEGERI INAM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 18:54:39",
+            "sekolah_id_enkrip": "D3DA560485114B8477FC"
+        }
+    ]
+}

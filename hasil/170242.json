@@ -1,0 +1,74 @@
+{
+    "170200": [
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170200",
+            "kabupaten_kota": "Kab. Minahasa",
+            "kode_kec": "170242",
+            "kecamatan": "Kec. Tombariri Timur",
+            "npsn": 69989984,
+            "sekolah": "Taman Kanak-Kanak Eklesia",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "17 Nov 2023 17:34:22",
+            "sekolah_id_enkrip": "F847D6C1D594971EF99A"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170200",
+            "kabupaten_kota": "Kab. Minahasa",
+            "kode_kec": "170242",
+            "kecamatan": "Kec. Tombariri Timur",
+            "npsn": 69945008,
+            "sekolah": "TK GMIM EFRATA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "21 Aug 2023 19:35:59",
+            "sekolah_id_enkrip": "4D99BCB3F28ABEEB408A"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170200",
+            "kabupaten_kota": "Kab. Minahasa",
+            "kode_kec": "170242",
+            "kecamatan": "Kec. Tombariri Timur",
+            "npsn": 69945179,
+            "sekolah": "TK RUTH",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Aug 2023 23:19:39",
+            "sekolah_id_enkrip": "99F77F50615282470462"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170200",
+            "kabupaten_kota": "Kab. Minahasa",
+            "kode_kec": "170242",
+            "kecamatan": "Kec. Tombariri Timur",
+            "npsn": 69938164,
+            "sekolah": "SPS IMANUEL",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Aug 2023 00:13:30",
+            "sekolah_id_enkrip": "37AFCBDF6687FC7B83AD"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170200",
+            "kabupaten_kota": "Kab. Minahasa",
+            "kode_kec": "170242",
+            "kecamatan": "Kec. Tombariri Timur",
+            "npsn": 70041386,
+            "sekolah": "SMKN TOMBARIRI TIMUR",
+            "bentuk": "SMK",
+            "status": "Negeri",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "82DC7E09F4B765BCFE3E"
+        }
+    ]
+}

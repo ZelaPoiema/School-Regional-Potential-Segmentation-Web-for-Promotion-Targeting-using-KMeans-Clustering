@@ -1,0 +1,60 @@
+{
+    "360500": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360502",
+            "kecamatan": "Kec. Wangbe",
+            "npsn": 69954168,
+            "sekolah": "Paud Kasih Karunia",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "C4CB0D36EDFE4BF784EE"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360502",
+            "kecamatan": "Kec. Wangbe",
+            "npsn": 60301964,
+            "sekolah": "SD INPRES WANGBE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 09:39:46",
+            "sekolah_id_enkrip": "C9CF740BADD4016AAA28"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360502",
+            "kecamatan": "Kec. Wangbe",
+            "npsn": 69915369,
+            "sekolah": "SD NEGERI WANGBE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 10:26:24",
+            "sekolah_id_enkrip": "8A93AB3A889945DDCF46"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360502",
+            "kecamatan": "Kec. Wangbe",
+            "npsn": "P9997270",
+            "sekolah": "PKBM DAMAL BERA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "2A5BE7E3A05E7B6A1DE4"
+        }
+    ]
+}

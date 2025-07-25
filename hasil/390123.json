@@ -1,0 +1,74 @@
+{
+    "390100": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390123",
+            "kecamatan": "Kec. Aitinyo Raya",
+            "npsn": 69976916,
+            "sekolah": "TK-PAUD ANUGRAH BETHEL IKUF",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Jan 2024 06:20:49",
+            "sekolah_id_enkrip": "ACFB1F60BDAC8EE9C87B"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390123",
+            "kecamatan": "Kec. Aitinyo Raya",
+            "npsn": 60403951,
+            "sekolah": "SD YPK IMANUEL JITMAU",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "21 Jan 2024 19:55:40",
+            "sekolah_id_enkrip": "E94AF279319D294D60F8"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390123",
+            "kecamatan": "Kec. Aitinyo Raya",
+            "npsn": 60403815,
+            "sekolah": "SD YPK KAMBUSABO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Jan 2024 20:04:59",
+            "sekolah_id_enkrip": "AB9AEBF1E1EB9DA71BF6"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390123",
+            "kecamatan": "Kec. Aitinyo Raya",
+            "npsn": 60403827,
+            "sekolah": "SMP YPK 1 IMANUEL JITMAU",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Feb 2024 07:49:42",
+            "sekolah_id_enkrip": "B67F175727C9302084E2"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390123",
+            "kecamatan": "Kec. Aitinyo Raya",
+            "npsn": "P9999158",
+            "sekolah": "PKBM WETA NAKIN BRAT",
+            "bentuk": "PKBM",
+            "status": "Negeri",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "2002839018368C69C3F4"
+        }
+    ]
+}

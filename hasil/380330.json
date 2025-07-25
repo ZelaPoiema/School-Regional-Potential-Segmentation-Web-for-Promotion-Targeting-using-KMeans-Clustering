@@ -1,0 +1,32 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380330",
+            "kecamatan": "Kec. Puldama",
+            "npsn": 60303279,
+            "sekolah": "SD INPRES PULDAMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 13:44:21",
+            "sekolah_id_enkrip": "92C54C9A0BD1780528C5"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380330",
+            "kecamatan": "Kec. Puldama",
+            "npsn": 69924831,
+            "sekolah": "SDN YALISORO YAHUKIMO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 12:56:50",
+            "sekolah_id_enkrip": "AE6AC1A50E951E45684E"
+        }
+    ]
+}

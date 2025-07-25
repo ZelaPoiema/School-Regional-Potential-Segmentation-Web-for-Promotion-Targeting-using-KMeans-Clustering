@@ -1,0 +1,32 @@
+{
+    "360500": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360516",
+            "kecamatan": "Kec. Mage'abume",
+            "npsn": 60301936,
+            "sekolah": "SD INPRES JIGUNGGI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "07 May 2023 13:17:28",
+            "sekolah_id_enkrip": "C1CC38E7DEB388168EC9"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360516",
+            "kecamatan": "Kec. Mage'abume",
+            "npsn": 60301947,
+            "sekolah": "SD INPRES NIGILOME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Jan 2024 06:49:22",
+            "sekolah_id_enkrip": "77565C1A07843A5BE357"
+        }
+    ]
+}

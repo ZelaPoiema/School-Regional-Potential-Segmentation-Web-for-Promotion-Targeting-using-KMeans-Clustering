@@ -1,0 +1,46 @@
+{
+    "350400": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350407",
+            "kecamatan": "Nabawan",
+            "npsn": "9LN01031",
+            "sekolah": "CLC UNITED MALACCA 1&2",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 03:49:52",
+            "sekolah_id_enkrip": "B7924B3FC767FFC2B274"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350407",
+            "kecamatan": "Nabawan",
+            "npsn": "9LN01032",
+            "sekolah": "CLC UNITED MALACCA 3&4",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "20 Jan 2024 17:03:22",
+            "sekolah_id_enkrip": "5809913242F12793848F"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350407",
+            "kecamatan": "Nabawan",
+            "npsn": "9LN01037",
+            "sekolah": "CLC MATAKANA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "23 Jan 2024 18:37:03",
+            "sekolah_id_enkrip": "0D2F2A5D2A35C8486A8E"
+        }
+    ]
+}

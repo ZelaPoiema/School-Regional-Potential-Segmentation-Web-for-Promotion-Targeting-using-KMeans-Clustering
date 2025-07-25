@@ -1,0 +1,102 @@
+{
+    "320300": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320309",
+            "kecamatan": "Kec. Wamesa",
+            "npsn": 70000853,
+            "sekolah": "TK LAHAIROI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Aug 2023 02:35:04",
+            "sekolah_id_enkrip": "F4F03C5F8940834E2896"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320309",
+            "kecamatan": "Kec. Wamesa",
+            "npsn": 69992443,
+            "sekolah": "PAUD WOKUMBUAR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Sep 2023 03:41:36",
+            "sekolah_id_enkrip": "34C8AE9238DD8A5593FB"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320309",
+            "kecamatan": "Kec. Wamesa",
+            "npsn": 69944565,
+            "sekolah": "PAUD YUSUF KARUAN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Feb 2024 17:55:16",
+            "sekolah_id_enkrip": "5C6EBA7DBE5A002DEA5B"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320309",
+            "kecamatan": "Kec. Wamesa",
+            "npsn": 60401996,
+            "sekolah": "SD NEGERI AMBUAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 16:49:22",
+            "sekolah_id_enkrip": "D5FC1F55EF1BBD27CD25"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320309",
+            "kecamatan": "Kec. Wamesa",
+            "npsn": 60403385,
+            "sekolah": "SD NEGERI KARUAN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Oct 2023 13:18:49",
+            "sekolah_id_enkrip": "347D83177151CE0AF42A"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320309",
+            "kecamatan": "Kec. Wamesa",
+            "npsn": 60401968,
+            "sekolah": "SD NEGERI SABUBAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Jan 2024 09:40:15",
+            "sekolah_id_enkrip": "A5E74CB6FB2BA702920C"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320309",
+            "kecamatan": "Kec. Wamesa",
+            "npsn": 60403638,
+            "sekolah": "SMP SATU ATAP SABUBAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 16:30:53",
+            "sekolah_id_enkrip": "16B1A5BD6003E7F159D5"
+        }
+    ]
+}

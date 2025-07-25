@@ -1,0 +1,32 @@
+{
+    "350400": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350410",
+            "kecamatan": "Masapol Sipitang",
+            "npsn": "9LN01040",
+            "sekolah": "CLC GAMBEN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 18:59:17",
+            "sekolah_id_enkrip": "7E46B42B8329EECDFBE0"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350410",
+            "kecamatan": "Masapol Sipitang",
+            "npsn": "9LN01039",
+            "sekolah": "CLC NUSA BANGSA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Jan 2024 10:26:59",
+            "sekolah_id_enkrip": "AF574A328261CBE64775"
+        }
+    ]
+}

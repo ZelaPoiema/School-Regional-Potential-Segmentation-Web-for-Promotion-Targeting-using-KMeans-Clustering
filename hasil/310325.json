@@ -1,0 +1,60 @@
+{
+    "310300": [
+        {
+            "kode_prop": "310000",
+            "propinsi": "Prov. Kepulauan Riau",
+            "kode_kab_kota": "310300",
+            "kabupaten_kota": "Kab. Natuna",
+            "kode_kec": "310325",
+            "kecamatan": "Kec. Suak Midai",
+            "npsn": 69942421,
+            "sekolah": "TK ISLAM NURUL HIKMAH",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "27 Jan 2024 11:54:17",
+            "sekolah_id_enkrip": "5678E8EE40232A77BEC0"
+        },
+        {
+            "kode_prop": "310000",
+            "propinsi": "Prov. Kepulauan Riau",
+            "kode_kab_kota": "310300",
+            "kabupaten_kota": "Kab. Natuna",
+            "kode_kec": "310325",
+            "kecamatan": "Kec. Suak Midai",
+            "npsn": 69934077,
+            "sekolah": "KB RA KARTINI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "17 Jan 2024 05:27:36",
+            "sekolah_id_enkrip": "8DF65E26E58CB9104EFE"
+        },
+        {
+            "kode_prop": "310000",
+            "propinsi": "Prov. Kepulauan Riau",
+            "kode_kab_kota": "310300",
+            "kabupaten_kota": "Kab. Natuna",
+            "kode_kec": "310325",
+            "kecamatan": "Kec. Suak Midai",
+            "npsn": 11001167,
+            "sekolah": "SD NEGERI 001 BATU BELANAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 17:25:47",
+            "sekolah_id_enkrip": "B7D8BFDAF70E81C758CE"
+        },
+        {
+            "kode_prop": "310000",
+            "propinsi": "Prov. Kepulauan Riau",
+            "kode_kab_kota": "310300",
+            "kabupaten_kota": "Kab. Natuna",
+            "kode_kec": "310325",
+            "kecamatan": "Kec. Suak Midai",
+            "npsn": 11001305,
+            "sekolah": "SD NEGERI 002 GUNUNG JAMBAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 19:59:56",
+            "sekolah_id_enkrip": "ED0408D24BA6F4E3ACFE"
+        }
+    ]
+}

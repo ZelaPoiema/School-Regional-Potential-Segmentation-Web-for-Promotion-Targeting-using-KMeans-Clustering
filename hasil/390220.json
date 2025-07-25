@@ -1,0 +1,46 @@
+{
+    "390200": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390220",
+            "kecamatan": "Kec. Batanta Utara",
+            "npsn": 60403416,
+            "sekolah": "SD YPK EBENHEIZER AREFI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Jan 2024 12:55:29",
+            "sekolah_id_enkrip": "2E08829D4D3F53284770"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390220",
+            "kecamatan": "Kec. Batanta Utara",
+            "npsn": 60401850,
+            "sekolah": "SD YPK LAHAIROI YENSAWAI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Oct 2023 01:13:49",
+            "sekolah_id_enkrip": "74E5CCC44D821120808E"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390220",
+            "kecamatan": "Kec. Batanta Utara",
+            "npsn": 60403501,
+            "sekolah": "SMP NEGERI 16 RAJA AMPAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "07 Dec 2023 20:22:34",
+            "sekolah_id_enkrip": "96D289D62F534C589BC7"
+        }
+    ]
+}

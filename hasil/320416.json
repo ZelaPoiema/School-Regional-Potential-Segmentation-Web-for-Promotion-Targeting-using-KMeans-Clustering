@@ -1,0 +1,74 @@
+{
+    "320400": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320416",
+            "kecamatan": "Kec. Weriagar",
+            "npsn": 70003715,
+            "sekolah": "TK KARTINI II WERIAGAR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Jan 2024 09:49:58",
+            "sekolah_id_enkrip": "5C03479C6B6AF1225C35"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320416",
+            "kecamatan": "Kec. Weriagar",
+            "npsn": 70025706,
+            "sekolah": "KB KARTINI II WERIAGAR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "869B4464AA34D19E33A9"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320416",
+            "kecamatan": "Kec. Weriagar",
+            "npsn": 60401935,
+            "sekolah": "SD YPPK WERIAGAR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 16:34:46",
+            "sekolah_id_enkrip": "4D58FE6BE3A0FD56FCAC"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320416",
+            "kecamatan": "Kec. Weriagar",
+            "npsn": 60403658,
+            "sekolah": "SMP SATU ATAP WERIAGAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Dec 2023 10:58:07",
+            "sekolah_id_enkrip": "9126713959E3F260F157"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320416",
+            "kecamatan": "Kec. Weriagar",
+            "npsn": "P9934312",
+            "sekolah": "PKBM ABDI PAMONG PRAJA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Dec 2023 02:42:21",
+            "sekolah_id_enkrip": "19F86CC96E9606DD9E69"
+        }
+    ]
+}

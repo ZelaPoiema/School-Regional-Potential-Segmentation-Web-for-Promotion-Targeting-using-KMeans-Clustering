@@ -1,0 +1,102 @@
+{
+    "320100": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320115",
+            "kecamatan": "Kec. Kayauni",
+            "npsn": 69935360,
+            "sekolah": "PAUD ASSY-ASSAFIAH",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Aug 2023 09:21:26",
+            "sekolah_id_enkrip": "D8E1D76E928316A47C04"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320115",
+            "kecamatan": "Kec. Kayauni",
+            "npsn": 60401024,
+            "sekolah": "SD INPRES KABURBUR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 23:08:14",
+            "sekolah_id_enkrip": "A90AEA2A330347C7355C"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320115",
+            "kecamatan": "Kec. Kayauni",
+            "npsn": 60403587,
+            "sekolah": "SD Negeri Mananmur",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Nov 2023 18:42:12",
+            "sekolah_id_enkrip": "3E773DAC50402AD1853E"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320115",
+            "kecamatan": "Kec. Kayauni",
+            "npsn": 60403512,
+            "sekolah": "SD Negeri Nawatukar",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 10:14:18",
+            "sekolah_id_enkrip": "B51D721902B0295EF6D0"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320115",
+            "kecamatan": "Kec. Kayauni",
+            "npsn": 60403764,
+            "sekolah": "SD Negeri Ubadari",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 19:28:31",
+            "sekolah_id_enkrip": "E10A9B6FC02AE0786292"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320115",
+            "kecamatan": "Kec. Kayauni",
+            "npsn": 60401059,
+            "sekolah": "SD YPK KAYUNI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Jan 2024 19:23:34",
+            "sekolah_id_enkrip": "2E092DAA12DC343E9C91"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320115",
+            "kecamatan": "Kec. Kayauni",
+            "npsn": 60401064,
+            "sekolah": "SD YPK RANGKENDAK 1",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 19:02:47",
+            "sekolah_id_enkrip": "BF21E60D5A9FCF389DCC"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "350100": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350100",
+            "kabupaten_kota": "Belanda",
+            "kode_kec": "350101",
+            "kecamatan": "Wassenaar",
+            "npsn": 90101057,
+            "sekolah": "SD Sekolah Indonesia Den Haag",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 16:51:50",
+            "sekolah_id_enkrip": "E25CDAD61D860AC3C67E"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350100",
+            "kabupaten_kota": "Belanda",
+            "kode_kec": "350101",
+            "kecamatan": "Wassenaar",
+            "npsn": 90101058,
+            "sekolah": "SMP Sekolah Indonesia Den Haag",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 18:48:09",
+            "sekolah_id_enkrip": "8BE22B575C15C922AE2C"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350100",
+            "kabupaten_kota": "Belanda",
+            "kode_kec": "350101",
+            "kecamatan": "Wassenaar",
+            "npsn": 90101003,
+            "sekolah": "SMA Sekolah Indonesia Den Haag",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 18:44:50",
+            "sekolah_id_enkrip": "BB59C2C200B92C874245"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380221",
+            "kecamatan": "Kec. Oksamol",
+            "npsn": 70005940,
+            "sekolah": "TK CAHAYA HARAPAN PAPUA OKPA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 May 2023 20:26:32",
+            "sekolah_id_enkrip": "DC6BFD1E337CA5604CDD"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380221",
+            "kecamatan": "Kec. Oksamol",
+            "npsn": 70005941,
+            "sekolah": "TK CAHAYA HARAPAN PAPUA TINIBIL",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 May 2023 20:09:56",
+            "sekolah_id_enkrip": "B77175EDA2E7F35451FD"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380221",
+            "kecamatan": "Kec. Oksamol",
+            "npsn": 60302165,
+            "sekolah": "SD INPRES OKETWI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Aug 2023 20:16:13",
+            "sekolah_id_enkrip": "85C030FE02E8473DCB23"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380221",
+            "kecamatan": "Kec. Oksamol",
+            "npsn": 69725982,
+            "sekolah": "SD INPRES TINIBIL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Aug 2023 02:35:18",
+            "sekolah_id_enkrip": "661D7A5A7974BF681F4F"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380221",
+            "kecamatan": "Kec. Oksamol",
+            "npsn": 69987306,
+            "sekolah": "SMP NEGERI OKSAMOL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 18:46:17",
+            "sekolah_id_enkrip": "F9353F8E6A90A0D9687E"
+        }
+    ]
+}

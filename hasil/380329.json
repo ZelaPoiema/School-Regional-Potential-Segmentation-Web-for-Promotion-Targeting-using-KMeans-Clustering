@@ -1,0 +1,60 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380329",
+            "kecamatan": "Kec. Talambo",
+            "npsn": 60303284,
+            "sekolah": "SD INPRES LELAMBO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Dec 2023 13:32:32",
+            "sekolah_id_enkrip": "561CFED396969AF71498"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380329",
+            "kecamatan": "Kec. Talambo",
+            "npsn": 60303282,
+            "sekolah": "SD INPRES TIBUL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Sep 2023 09:10:55",
+            "sekolah_id_enkrip": "D7D7E487C9433CE38F82"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380329",
+            "kecamatan": "Kec. Talambo",
+            "npsn": 70039468,
+            "sekolah": "SD YAPESLI BELEROMON",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Jan 2024 13:37:36",
+            "sekolah_id_enkrip": "AA81D6221E22D995B401"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380329",
+            "kecamatan": "Kec. Talambo",
+            "npsn": 70044417,
+            "sekolah": "SMP YAKPESMI TALAMBO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "A77CBA2BC5ACA3B83560"
+        }
+    ]
+}

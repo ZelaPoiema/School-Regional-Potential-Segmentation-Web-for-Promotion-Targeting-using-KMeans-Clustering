@@ -1,0 +1,74 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380335",
+            "kecamatan": "Kec. Lolat",
+            "npsn": 60303265,
+            "sekolah": "SD INPRES LOLAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 15:01:13",
+            "sekolah_id_enkrip": "A66886664180690034EA"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380335",
+            "kecamatan": "Kec. Lolat",
+            "npsn": 69924477,
+            "sekolah": "SD NEGERI WEAWEN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Dec 2023 11:36:43",
+            "sekolah_id_enkrip": "9E8F6D49F73EB1C065BE"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380335",
+            "kecamatan": "Kec. Lolat",
+            "npsn": 60303270,
+            "sekolah": "SDN INPRES DINGGILA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Jan 2024 19:11:59",
+            "sekolah_id_enkrip": "25E4E27FE42980D67A8B"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380335",
+            "kecamatan": "Kec. Lolat",
+            "npsn": 69924471,
+            "sekolah": "SDN OHULUGA YAHUKIMO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 15:32:18",
+            "sekolah_id_enkrip": "247ECBB8DD35DB2C475F"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380335",
+            "kecamatan": "Kec. Lolat",
+            "npsn": 60303543,
+            "sekolah": "SMPN LOLAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jul 2023 12:22:18",
+            "sekolah_id_enkrip": "C27FD8EB9A95822F7FB6"
+        }
+    ]
+}

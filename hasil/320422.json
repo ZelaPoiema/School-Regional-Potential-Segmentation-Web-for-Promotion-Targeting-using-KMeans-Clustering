@@ -1,0 +1,32 @@
+{
+    "320400": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320422",
+            "kecamatan": "Kec. Masyeta",
+            "npsn": 60403648,
+            "sekolah": "SD INPRES KALIBIRU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 11:40:53",
+            "sekolah_id_enkrip": "455E45E79C34C5020289"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320422",
+            "kecamatan": "Kec. Masyeta",
+            "npsn": 60401894,
+            "sekolah": "SD INPRES MESYETA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 06:04:51",
+            "sekolah_id_enkrip": "F72AC08002E47DA90C2C"
+        }
+    ]
+}

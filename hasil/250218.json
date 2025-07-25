@@ -1,0 +1,102 @@
+{
+    "250200": [
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250218",
+            "kecamatan": "Kec. Yawosi",
+            "npsn": 70000237,
+            "sekolah": "SPS SILO SESUR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Jan 2024 10:43:24",
+            "sekolah_id_enkrip": "CE1289866EA7B1334FF4"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250218",
+            "kecamatan": "Kec. Yawosi",
+            "npsn": 70044000,
+            "sekolah": "SPS VIADALOROSA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "599243DBBD31125FF472"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250218",
+            "kecamatan": "Kec. Yawosi",
+            "npsn": 60300416,
+            "sekolah": "SD INPRES MARA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Nov 2023 09:32:21",
+            "sekolah_id_enkrip": "F0C0E266BFDD16E2FE0A"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250218",
+            "kecamatan": "Kec. Yawosi",
+            "npsn": 60300459,
+            "sekolah": "SD NEGERI SESUR BIAK UTARA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 12:57:24",
+            "sekolah_id_enkrip": "910BBA8D975C49E11968"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250218",
+            "kecamatan": "Kec. Yawosi",
+            "npsn": 60300467,
+            "sekolah": "SD YPK BOSNABRAIDI BIAK UTARA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Aug 2023 07:03:49",
+            "sekolah_id_enkrip": "0711ABB3E6A31855CED2"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250218",
+            "kecamatan": "Kec. Yawosi",
+            "npsn": 60300320,
+            "sekolah": "SD YPK SOOR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Aug 2023 03:44:49",
+            "sekolah_id_enkrip": "1C4959C720611836809B"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250218",
+            "kecamatan": "Kec. Yawosi",
+            "npsn": 60300335,
+            "sekolah": "SMP YPK SOOR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "21 Jan 2024 14:51:48",
+            "sekolah_id_enkrip": "3884812D91C7154A08D9"
+        }
+    ]
+}

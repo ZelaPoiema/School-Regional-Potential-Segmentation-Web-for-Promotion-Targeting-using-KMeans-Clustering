@@ -1,0 +1,102 @@
+{
+    "380100": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380105",
+            "kecamatan": "Kec. Bolakme",
+            "npsn": 69961868,
+            "sekolah": "KB PAUD KRISTEN KAWIYA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "16 Aug 2023 14:17:16",
+            "sekolah_id_enkrip": "EC77BEB7B74FC4E2004F"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380105",
+            "kecamatan": "Kec. Bolakme",
+            "npsn": 69949225,
+            "sekolah": "PAUD OBELOM BOLAKME",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Aug 2023 13:58:03",
+            "sekolah_id_enkrip": "6D7C456D8402E328646A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380105",
+            "kecamatan": "Kec. Bolakme",
+            "npsn": 60301386,
+            "sekolah": "SD INPRES BANDUA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "08 Oct 2023 07:26:12",
+            "sekolah_id_enkrip": "E50B3A15F69C17A3D06C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380105",
+            "kecamatan": "Kec. Bolakme",
+            "npsn": 60301388,
+            "sekolah": "SD INPRES BOLAKME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Nov 2023 02:25:04",
+            "sekolah_id_enkrip": "DE70EC3A76BBAB5F0143"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380105",
+            "kecamatan": "Kec. Bolakme",
+            "npsn": 60301441,
+            "sekolah": "SD INPRES MUNAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 20:03:35",
+            "sekolah_id_enkrip": "1BA846CC9EFE6B4CAD85"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380105",
+            "kecamatan": "Kec. Bolakme",
+            "npsn": 60301576,
+            "sekolah": "SMP NEGERI BOLAKME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Oct 2023 18:24:29",
+            "sekolah_id_enkrip": "4E17D5B73DF15AC418F1"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380105",
+            "kecamatan": "Kec. Bolakme",
+            "npsn": "P9998013",
+            "sekolah": "PKBM OBELOM BOLAKME",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "BC47B50B4C918FF91D62"
+        }
+    ]
+}

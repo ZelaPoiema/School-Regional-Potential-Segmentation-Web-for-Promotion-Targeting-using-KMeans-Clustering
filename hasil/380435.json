@@ -1,0 +1,46 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380435",
+            "kecamatan": "Kec. Telenggeme",
+            "npsn": 60302232,
+            "sekolah": "SD INPRES TELENGGEME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 01:30:40",
+            "sekolah_id_enkrip": "08CD4B9755D47CE86106"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380435",
+            "kecamatan": "Kec. Telenggeme",
+            "npsn": 60302242,
+            "sekolah": "SD NEGERI KIMUNUK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Jan 2024 18:59:56",
+            "sekolah_id_enkrip": "1679596C1F1FB1B7692A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380435",
+            "kecamatan": "Kec. Telenggeme",
+            "npsn": 60303704,
+            "sekolah": "SMP NEGERI SATU ATAP KAGI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 11:41:22",
+            "sekolah_id_enkrip": "8E9942607927C8B85C4C"
+        }
+    ]
+}

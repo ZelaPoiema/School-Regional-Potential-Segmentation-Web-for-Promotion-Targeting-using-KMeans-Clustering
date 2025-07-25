@@ -1,0 +1,32 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380412",
+            "kecamatan": "Kec. Konda/ Kondaga",
+            "npsn": 60302214,
+            "sekolah": "SD INPRES KONDA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Sep 2023 07:39:07",
+            "sekolah_id_enkrip": "3756711B56BEC860D138"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380412",
+            "kecamatan": "Kec. Konda/ Kondaga",
+            "npsn": "P2967412",
+            "sekolah": "PKBM KONDANU",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "21 Sep 2022 06:33:14",
+            "sekolah_id_enkrip": "FE079D65E8400CC5E17D"
+        }
+    ]
+}

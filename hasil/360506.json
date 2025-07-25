@@ -1,0 +1,102 @@
+{
+    "360500": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360506",
+            "kecamatan": "Kec. Sinak",
+            "npsn": 60304952,
+            "sekolah": "TK NEGERI KANDOE SINAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "20 Jan 2024 18:42:32",
+            "sekolah_id_enkrip": "7862E3C74DD555863216"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360506",
+            "kecamatan": "Kec. Sinak",
+            "npsn": 60301957,
+            "sekolah": "SD INPRES SINAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "07 Oct 2023 18:40:54",
+            "sekolah_id_enkrip": "DA70881B85CFD15741E8"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360506",
+            "kecamatan": "Kec. Sinak",
+            "npsn": 69915368,
+            "sekolah": "SD NEGERI KELMAME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Feb 2023 12:17:58",
+            "sekolah_id_enkrip": "7E9D5CEE9680F24ADC45"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360506",
+            "kecamatan": "Kec. Sinak",
+            "npsn": 60301988,
+            "sekolah": "SMP NEGERI 1 SINAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 20:22:36",
+            "sekolah_id_enkrip": "F38502D5E19BBEAFB12A"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360506",
+            "kecamatan": "Kec. Sinak",
+            "npsn": 69915353,
+            "sekolah": "SMA  NEGERI  1  SINAK",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 15:27:13",
+            "sekolah_id_enkrip": "1B3E75C279DD6E2838EB"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360506",
+            "kecamatan": "Kec. Sinak",
+            "npsn": 69822807,
+            "sekolah": "SMA YPPGI SINAK",
+            "bentuk": "SMA",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Feb 2024 12:01:05",
+            "sekolah_id_enkrip": "4CD0DFFBD877FECD8FE8"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360506",
+            "kecamatan": "Kec. Sinak",
+            "npsn": "P9963047",
+            "sekolah": "PKBM MATAHARI",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "23 Dec 2023 18:35:32",
+            "sekolah_id_enkrip": "4EAEE313429A9EBA2216"
+        }
+    ]
+}

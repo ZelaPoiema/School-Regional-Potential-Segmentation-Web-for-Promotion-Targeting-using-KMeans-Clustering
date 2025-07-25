@@ -1,0 +1,60 @@
+{
+    "390100": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390111",
+            "kecamatan": "Kec. Mare",
+            "npsn": 60403950,
+            "sekolah": "SD YPPK SEYA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Oct 2023 06:41:02",
+            "sekolah_id_enkrip": "59E0BF6BC28A77C162FC"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390111",
+            "kecamatan": "Kec. Mare",
+            "npsn": 60403813,
+            "sekolah": "SD YPPK ST. PAULUS SUN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Oct 2023 06:46:18",
+            "sekolah_id_enkrip": "40FA84AF7619220DCAC9"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390111",
+            "kecamatan": "Kec. Mare",
+            "npsn": 60401749,
+            "sekolah": "SD YPPK SUSWA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "03 Feb 2024 08:37:21",
+            "sekolah_id_enkrip": "D56D4A827E93ADA4BDFE"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390111",
+            "kecamatan": "Kec. Mare",
+            "npsn": 60403830,
+            "sekolah": "SMP NEGERI 1 MARE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Dec 2023 10:11:57",
+            "sekolah_id_enkrip": "0FF03E0BFEB9299B5166"
+        }
+    ]
+}

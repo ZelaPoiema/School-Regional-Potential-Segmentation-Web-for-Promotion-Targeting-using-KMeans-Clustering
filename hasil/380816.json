@@ -1,0 +1,32 @@
+{
+    "380800": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380816",
+            "kecamatan": "Kec. Yal",
+            "npsn": 69977084,
+            "sekolah": "SD NEGERI SAMBA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Aug 2023 14:31:26",
+            "sekolah_id_enkrip": "7920FBCA796E025F4106"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380816",
+            "kecamatan": "Kec. Yal",
+            "npsn": 60305285,
+            "sekolah": "SD Negeri Yal",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Aug 2023 17:54:38",
+            "sekolah_id_enkrip": "B1F7220B5D0908BB3325"
+        }
+    ]
+}

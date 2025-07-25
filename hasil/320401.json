@@ -1,0 +1,74 @@
+{
+    "320400": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320401",
+            "kecamatan": "Kec. Fafurwar",
+            "npsn": 70005978,
+            "sekolah": "TK SANTO MIKAEL TANIBA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Jan 2024 22:15:39",
+            "sekolah_id_enkrip": "3BFFB8AD79D9E7DCAA34"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320401",
+            "kecamatan": "Kec. Fafurwar",
+            "npsn": 70044328,
+            "sekolah": "TK YPPK SANTO PAULUS FRUATA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "846F28AE4E67C4CC269E"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320401",
+            "kecamatan": "Kec. Fafurwar",
+            "npsn": 60401926,
+            "sekolah": "SD YPPK FRUATA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "17 Jan 2024 18:30:05",
+            "sekolah_id_enkrip": "A8C3C1C5CA403C911FE5"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320401",
+            "kecamatan": "Kec. Fafurwar",
+            "npsn": 60401930,
+            "sekolah": "SD YPPK RIENDO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "17 Oct 2023 13:28:23",
+            "sekolah_id_enkrip": "596F59A10520507C4897"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320401",
+            "kecamatan": "Kec. Fafurwar",
+            "npsn": 60403495,
+            "sekolah": "SMP NEGERI FRUATA FAFURWAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Jan 2024 20:20:33",
+            "sekolah_id_enkrip": "178DB5A1251A0C96BAC1"
+        }
+    ]
+}

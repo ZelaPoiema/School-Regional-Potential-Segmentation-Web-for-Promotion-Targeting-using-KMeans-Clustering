@@ -1,0 +1,102 @@
+{
+    "380100": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380111",
+            "kecamatan": "Kec. Yalengga",
+            "npsn": 69915573,
+            "sekolah": "TK NAOR LANO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "08 Aug 2023 06:51:43",
+            "sekolah_id_enkrip": "225816ED89387BA41DB2"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380111",
+            "kecamatan": "Kec. Yalengga",
+            "npsn": 60301484,
+            "sekolah": "SD INPRES YALENGGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 08:44:59",
+            "sekolah_id_enkrip": "1B532222C8C9BBF4E027"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380111",
+            "kecamatan": "Kec. Yalengga",
+            "npsn": 60301542,
+            "sekolah": "SD YPPK ST ANTONIUS PILIMO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "18 Sep 2023 11:02:30",
+            "sekolah_id_enkrip": "0212FBB92E8E86057AF3"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380111",
+            "kecamatan": "Kec. Yalengga",
+            "npsn": 60301577,
+            "sekolah": "SMPN YALENGGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Jan 2024 21:53:35",
+            "sekolah_id_enkrip": "23170AD9AF96EEFA58A6"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380111",
+            "kecamatan": "Kec. Yalengga",
+            "npsn": 70005571,
+            "sekolah": "SMA NEGERI YALENGGA",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Sep 2023 15:12:49",
+            "sekolah_id_enkrip": "B07689530178BB97083D"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380111",
+            "kecamatan": "Kec. Yalengga",
+            "npsn": "P9996623",
+            "sekolah": "PKBM AKOREK",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "3E0D6382BBFDABF75091"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380111",
+            "kecamatan": "Kec. Yalengga",
+            "npsn": "P9934526",
+            "sekolah": "PKBM YALENGGA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "25 Aug 2023 06:38:58",
+            "sekolah_id_enkrip": "126A6BE34DFABA830A2D"
+        }
+    ]
+}

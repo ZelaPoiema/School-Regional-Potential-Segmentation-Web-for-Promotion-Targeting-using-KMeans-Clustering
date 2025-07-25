@@ -1,0 +1,60 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380406",
+            "kecamatan": "Kec. Wunim",
+            "npsn": 60302240,
+            "sekolah": "SD NEGERI AROMBOK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "18 Jan 2024 05:11:20",
+            "sekolah_id_enkrip": "3C0087F419A012B478B2"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380406",
+            "kecamatan": "Kec. Wunim",
+            "npsn": 60302256,
+            "sekolah": "SD NEGERI POKEGI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "18 Jan 2024 06:11:49",
+            "sekolah_id_enkrip": "8D33B7D2E9C1AE78C03B"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380406",
+            "kecamatan": "Kec. Wunim",
+            "npsn": 60302267,
+            "sekolah": "SD YPPGI WURINERI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "25 Jan 2024 05:01:20",
+            "sekolah_id_enkrip": "BA9669D094D93BB78AD5"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380406",
+            "kecamatan": "Kec. Wunim",
+            "npsn": 60302274,
+            "sekolah": "SMP NEGERI WUNIN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 20:26:58",
+            "sekolah_id_enkrip": "94E2EF0CDA2D3416205D"
+        }
+    ]
+}

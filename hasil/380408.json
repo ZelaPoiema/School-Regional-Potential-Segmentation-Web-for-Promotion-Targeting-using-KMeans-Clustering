@@ -1,0 +1,74 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380408",
+            "kecamatan": "Kec. Umagi",
+            "npsn": 60302207,
+            "sekolah": "SD INPRES GATINI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Oct 2023 19:03:06",
+            "sekolah_id_enkrip": "4DF776BE9C378EEA8FBA"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380408",
+            "kecamatan": "Kec. Umagi",
+            "npsn": 60302236,
+            "sekolah": "SD INPRES YALI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Dec 2023 12:09:16",
+            "sekolah_id_enkrip": "C8F0FD3AEBAA8324C8C3"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380408",
+            "kecamatan": "Kec. Umagi",
+            "npsn": 60302739,
+            "sekolah": "SD NEGERI KONEGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Jan 2024 20:40:28",
+            "sekolah_id_enkrip": "1DEB04D5F0CA11AFB7A3"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380408",
+            "kecamatan": "Kec. Umagi",
+            "npsn": 60302272,
+            "sekolah": "SMP NEGERI GATINI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Jan 2024 08:23:36",
+            "sekolah_id_enkrip": "7337B8D2DB19047F9947"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380408",
+            "kecamatan": "Kec. Umagi",
+            "npsn": "P2967419",
+            "sekolah": "PKBM UMAGI",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "18 Jan 2024 16:01:12",
+            "sekolah_id_enkrip": "EB37BDAFB93A5007C217"
+        }
+    ]
+}

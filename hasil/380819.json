@@ -1,0 +1,32 @@
+{
+    "380800": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380819",
+            "kecamatan": "Kec. Nirkuri",
+            "npsn": 69964251,
+            "sekolah": "SD NEGERI KURIGI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Aug 2023 07:40:45",
+            "sekolah_id_enkrip": "50E852EC9D69A232FA26"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380819",
+            "kecamatan": "Kec. Nirkuri",
+            "npsn": 69728015,
+            "sekolah": "SD Negeri Nirigibrik",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Dec 2023 14:49:48",
+            "sekolah_id_enkrip": "8588A39017FE369D7855"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "390500": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390518",
+            "kecamatan": "Kec. Tobouw",
+            "npsn": 69966041,
+            "sekolah": "TK ORA ET LABORA HOPMARE",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Aug 2023 16:07:42",
+            "sekolah_id_enkrip": "9B7D6E6749ED62A40D5C"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390518",
+            "kecamatan": "Kec. Tobouw",
+            "npsn": 70004373,
+            "sekolah": "PAUD Lahai-Roy Resye",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "17 Jan 2024 01:42:51",
+            "sekolah_id_enkrip": "E274DAED2616A2BB455D"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390518",
+            "kecamatan": "Kec. Tobouw",
+            "npsn": 69728607,
+            "sekolah": "SD YPK SAUBEBA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Jan 2024 14:10:30",
+            "sekolah_id_enkrip": "6B3E002BB17AE471AB33"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390518",
+            "kecamatan": "Kec. Tobouw",
+            "npsn": 69728610,
+            "sekolah": "SDS YPK SUKWES",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Dec 2023 21:40:40",
+            "sekolah_id_enkrip": "44315A2281C05058322E"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390518",
+            "kecamatan": "Kec. Tobouw",
+            "npsn": "P9957081",
+            "sekolah": "PKBM NU FAKUR",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "10 Jun 2022 11:21:18",
+            "sekolah_id_enkrip": "23F6A40852DB11AD42FA"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380344",
+            "kecamatan": "Kec. Kabianggama",
+            "npsn": 60303280,
+            "sekolah": "SD INPRES SARINGON",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 14:52:19",
+            "sekolah_id_enkrip": "15BBF74067BA85BC147C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380344",
+            "kecamatan": "Kec. Kabianggama",
+            "npsn": 70039697,
+            "sekolah": "SD CAHAYA HARAPAN PAPUA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "16AE5CCA72C1C46A3C0C"
+        }
+    ]
+}

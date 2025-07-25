@@ -1,0 +1,46 @@
+{
+    "170100": [
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170100",
+            "kabupaten_kota": "Kab. Bolaang Mongondow",
+            "kode_kec": "170136",
+            "kecamatan": "Kec. Dumoga Tengah",
+            "npsn": 69989723,
+            "sekolah": "PAUD MONOMPIA IBOLIAN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Dec 2023 06:00:33",
+            "sekolah_id_enkrip": "2C4A27BEEEA5F325F2DF"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170100",
+            "kabupaten_kota": "Kab. Bolaang Mongondow",
+            "kode_kec": "170136",
+            "kecamatan": "Kec. Dumoga Tengah",
+            "npsn": 69983885,
+            "sekolah": "KB CINTA URSULA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Aug 2023 18:22:16",
+            "sekolah_id_enkrip": "3EDA397879C894FE6F33"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170100",
+            "kabupaten_kota": "Kab. Bolaang Mongondow",
+            "kode_kec": "170136",
+            "kecamatan": "Kec. Dumoga Tengah",
+            "npsn": 40100577,
+            "sekolah": "SD KATOLIK SANTA MARIA KOSIO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "25 Nov 2023 06:47:04",
+            "sekolah_id_enkrip": "D73DB5EAB05119200D34"
+        }
+    ]
+}

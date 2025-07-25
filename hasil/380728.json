@@ -1,0 +1,60 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380728",
+            "kecamatan": "Kec. Kolawa",
+            "npsn": 60301421,
+            "sekolah": "SD INPRES LELAM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Aug 2023 14:24:35",
+            "sekolah_id_enkrip": "3B1FF7B133C8EB767D4E"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380728",
+            "kecamatan": "Kec. Kolawa",
+            "npsn": 60303491,
+            "sekolah": "SD YPPGI LULUGUME",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Aug 2023 23:15:43",
+            "sekolah_id_enkrip": "FFDEDF9800A190D6042C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380728",
+            "kecamatan": "Kec. Kolawa",
+            "npsn": 70041009,
+            "sekolah": "SMP Negeri 1 Kolawa Yagareme",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Aug 2023 12:44:40",
+            "sekolah_id_enkrip": "41BCB0179A0CB1633F1D"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380728",
+            "kecamatan": "Kec. Kolawa",
+            "npsn": "P2967465",
+            "sekolah": "PKBM LAMBUNIK",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "18 Jan 2024 12:30:24",
+            "sekolah_id_enkrip": "B12E582D1FA68B5D4778"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380436",
+            "kecamatan": "Kec. Anawi",
+            "npsn": 60302199,
+            "sekolah": "SD INPRES ANAWI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 20:11:13",
+            "sekolah_id_enkrip": "2BDCDE83D421ACA3CBD7"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380436",
+            "kecamatan": "Kec. Anawi",
+            "npsn": 60302276,
+            "sekolah": "SMP NEGERI SATU ATAP ANAWI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Dec 2023 18:49:36",
+            "sekolah_id_enkrip": "B4A638E6CFA6FDC13549"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380436",
+            "kecamatan": "Kec. Anawi",
+            "npsn": "P9996351",
+            "sekolah": "PKBM ANAWI",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Aug 2022 12:30:24",
+            "sekolah_id_enkrip": "4A0F8841BFDA703CABBC"
+        }
+    ]
+}

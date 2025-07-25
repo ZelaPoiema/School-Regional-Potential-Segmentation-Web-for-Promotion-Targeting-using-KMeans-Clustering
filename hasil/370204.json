@@ -1,0 +1,74 @@
+{
+    "370200": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370204",
+            "kecamatan": "Kec. Kouh",
+            "npsn": 60302071,
+            "sekolah": "SD INPRES NIOP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 00:01:27",
+            "sekolah_id_enkrip": "0236357743C10411CC3C"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370204",
+            "kecamatan": "Kec. Kouh",
+            "npsn": 60302095,
+            "sekolah": "SD YPPGI KAWAGIT",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "23 Oct 2023 16:52:28",
+            "sekolah_id_enkrip": "A31EDDFE68CA1281669A"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370204",
+            "kecamatan": "Kec. Kouh",
+            "npsn": 60302097,
+            "sekolah": "SD YPPGI KOUH",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "21 Dec 2023 13:37:38",
+            "sekolah_id_enkrip": "A74674B4DC806B527D92"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370204",
+            "kecamatan": "Kec. Kouh",
+            "npsn": 60302146,
+            "sekolah": "SMP YPPGI KOUH",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "25 Dec 2023 05:57:54",
+            "sekolah_id_enkrip": "9092747E550195A3F196"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370204",
+            "kecamatan": "Kec. Kouh",
+            "npsn": "P9962937",
+            "sekolah": "PKBM KOMAJA",
+            "bentuk": "PKBM",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Apr 2023 08:46:31",
+            "sekolah_id_enkrip": "1C7D2941BC5E6EB90EC5"
+        }
+    ]
+}

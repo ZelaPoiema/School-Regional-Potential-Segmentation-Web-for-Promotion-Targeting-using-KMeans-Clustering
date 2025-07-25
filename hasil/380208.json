@@ -1,0 +1,46 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380208",
+            "kecamatan": "Kec. Aboy",
+            "npsn": 69725976,
+            "sekolah": "SD INPRES ABOY",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Sep 2023 20:26:00",
+            "sekolah_id_enkrip": "F3C4AB9C5F872105C5C1"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380208",
+            "kecamatan": "Kec. Aboy",
+            "npsn": 69991547,
+            "sekolah": "SD INPRES LUBAN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "10 Aug 2023 19:37:58",
+            "sekolah_id_enkrip": "7FEE07BD2E8DD1FE739B"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380208",
+            "kecamatan": "Kec. Aboy",
+            "npsn": 69899885,
+            "sekolah": "SMP NEGERI ABOY",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Aug 2023 13:43:51",
+            "sekolah_id_enkrip": "2B5FC2F4E43B3861852E"
+        }
+    ]
+}

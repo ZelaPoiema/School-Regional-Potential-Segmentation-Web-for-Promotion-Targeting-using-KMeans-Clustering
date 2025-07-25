@@ -1,0 +1,60 @@
+{
+    "380100": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380130",
+            "kecamatan": "Kec. Silo Karno Doga",
+            "npsn": 70015810,
+            "sekolah": "KB PAUD SINAR KASIH IBU",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "27 Aug 2023 13:21:18",
+            "sekolah_id_enkrip": "6E22C4C4FAEBCC575FD6"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380130",
+            "kecamatan": "Kec. Silo Karno Doga",
+            "npsn": 69942514,
+            "sekolah": "PAUD WOOGI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Aug 2023 16:56:58",
+            "sekolah_id_enkrip": "2A8223FE198A2EC4E17A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380130",
+            "kecamatan": "Kec. Silo Karno Doga",
+            "npsn": 60301405,
+            "sekolah": "SD INPRES HOLASILI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Jan 2024 18:26:03",
+            "sekolah_id_enkrip": "382C66CB897ECFBFE342"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380130",
+            "kecamatan": "Kec. Silo Karno Doga",
+            "npsn": 60303549,
+            "sekolah": "SD NEGERI ANFOTPAGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 09:47:56",
+            "sekolah_id_enkrip": "3BA656B159FCA120A020"
+        }
+    ]
+}

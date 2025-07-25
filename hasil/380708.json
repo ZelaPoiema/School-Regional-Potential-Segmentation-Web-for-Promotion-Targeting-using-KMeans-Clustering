@@ -1,0 +1,88 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380708",
+            "kecamatan": "Kec. Tiomneri",
+            "npsn": 60301433,
+            "sekolah": "SD INPRES MILINGGAME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Nov 2023 20:18:09",
+            "sekolah_id_enkrip": "2745D6D3B7E9126F8CD7"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380708",
+            "kecamatan": "Kec. Tiomneri",
+            "npsn": 69938686,
+            "sekolah": "SD Negeri Kuwopaga",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 07:40:49",
+            "sekolah_id_enkrip": "AF67D02340BF84625878"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380708",
+            "kecamatan": "Kec. Tiomneri",
+            "npsn": 60301509,
+            "sekolah": "SD YPPGI BONANIP",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "20 Jan 2024 10:17:20",
+            "sekolah_id_enkrip": "AC8F6955483073763F11"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380708",
+            "kecamatan": "Kec. Tiomneri",
+            "npsn": 60304539,
+            "sekolah": "SMP NEGERI 1 TIOMNERI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Jan 2024 06:42:16",
+            "sekolah_id_enkrip": "020402EC394FAABDE136"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380708",
+            "kecamatan": "Kec. Tiomneri",
+            "npsn": "P9996909",
+            "sekolah": "PKBM KIBU",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "17 Jan 2024 19:04:03",
+            "sekolah_id_enkrip": "7366F03DD560C7C5B24F"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380708",
+            "kecamatan": "Kec. Tiomneri",
+            "npsn": "P9997762",
+            "sekolah": "PKBM OBELOM ANGGEN(OBA) KUAGI",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "18 Jan 2024 10:25:07",
+            "sekolah_id_enkrip": "6F404FFFA878868753EB"
+        }
+    ]
+}

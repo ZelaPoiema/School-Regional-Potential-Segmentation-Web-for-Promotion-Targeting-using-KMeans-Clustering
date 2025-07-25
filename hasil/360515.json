@@ -1,0 +1,32 @@
+{
+    "360500": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360515",
+            "kecamatan": "Kec. Sinak Barat",
+            "npsn": 60301914,
+            "sekolah": "SD INPRES GUNUNG KELABO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Dec 2022 19:04:42",
+            "sekolah_id_enkrip": "9C02E27EE9586A000555"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360515",
+            "kecamatan": "Kec. Sinak Barat",
+            "npsn": 60301971,
+            "sekolah": "SD INPRES YAURIA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "09 Mar 2023 12:49:32",
+            "sekolah_id_enkrip": "BB93EFA80E54EF143165"
+        }
+    ]
+}

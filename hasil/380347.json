@@ -1,0 +1,32 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380347",
+            "kecamatan": "Kec. Hilipuk",
+            "npsn": 60303273,
+            "sekolah": "SD INPRES HILIPUK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Jan 2024 19:50:47",
+            "sekolah_id_enkrip": "8F7F948EED6830566F27"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380347",
+            "kecamatan": "Kec. Hilipuk",
+            "npsn": 69831585,
+            "sekolah": "SD NEGERI HOMENDIKMU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Jan 2024 08:06:53",
+            "sekolah_id_enkrip": "1E1E71EC261D2C490FBC"
+        }
+    ]
+}

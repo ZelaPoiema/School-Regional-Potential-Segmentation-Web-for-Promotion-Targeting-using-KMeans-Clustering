@@ -1,0 +1,60 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380223",
+            "kecamatan": "Kec. Okbemtau",
+            "npsn": 70032358,
+            "sekolah": "KB GEMILANG BASER",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Aug 2022 19:26:06",
+            "sekolah_id_enkrip": "4A253AED9C12EC45F14B"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380223",
+            "kecamatan": "Kec. Okbemtau",
+            "npsn": 69991541,
+            "sekolah": "SD INPRES BASER",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "09 Aug 2023 20:17:07",
+            "sekolah_id_enkrip": "612EAF20060AF32485C7"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380223",
+            "kecamatan": "Kec. Okbemtau",
+            "npsn": 70002560,
+            "sekolah": "SD INPRES OKBEM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Aug 2023 21:17:54",
+            "sekolah_id_enkrip": "1D87C94A709A3844298C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380223",
+            "kecamatan": "Kec. Okbemtau",
+            "npsn": 60300983,
+            "sekolah": "SD INPRES OKNGAM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Aug 2023 20:26:04",
+            "sekolah_id_enkrip": "FF47444385449988CDA8"
+        }
+    ]
+}

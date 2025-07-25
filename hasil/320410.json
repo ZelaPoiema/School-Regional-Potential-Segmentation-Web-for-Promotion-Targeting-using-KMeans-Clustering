@@ -1,0 +1,102 @@
+{
+    "320400": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320410",
+            "kecamatan": "Kec. Tuhiba",
+            "npsn": 60725761,
+            "sekolah": "TKN PGRI TUHIBA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 10:18:11",
+            "sekolah_id_enkrip": "177FDAC9AB0CD9C9DB8D"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320410",
+            "kecamatan": "Kec. Tuhiba",
+            "npsn": 60403671,
+            "sekolah": "TK YAPIS AL-HIDAYAH SIBENA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Jan 2024 14:47:20",
+            "sekolah_id_enkrip": "8789D2DA51BE7B3ED0FC"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320410",
+            "kecamatan": "Kec. Tuhiba",
+            "npsn": 70008398,
+            "sekolah": "KB NEGERI HERLINA 1",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Dec 2023 19:55:12",
+            "sekolah_id_enkrip": "651F8A0E99A6FFF396F3"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320410",
+            "kecamatan": "Kec. Tuhiba",
+            "npsn": 60401899,
+            "sekolah": "SD INPRES SIBENA I",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 13:47:28",
+            "sekolah_id_enkrip": "10F6A9437EC47BF63BF8"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320410",
+            "kecamatan": "Kec. Tuhiba",
+            "npsn": 60401900,
+            "sekolah": "SD INPRES SIBENA II",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 06:28:23",
+            "sekolah_id_enkrip": "33EE0F364C83A87E1F0A"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320410",
+            "kecamatan": "Kec. Tuhiba",
+            "npsn": 60401934,
+            "sekolah": "SD YPPK TUHIBA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 19:15:42",
+            "sekolah_id_enkrip": "38B303FAF641C7CD7DE7"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320410",
+            "kecamatan": "Kec. Tuhiba",
+            "npsn": 60401946,
+            "sekolah": "SMPN SIBENA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 12:55:47",
+            "sekolah_id_enkrip": "4BC91B25465522ECFE12"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "360300": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360307",
+            "kecamatan": "Kec. Siriwo",
+            "npsn": 60302289,
+            "sekolah": "SD INPRES DADOU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "11 Nov 2023 20:02:42",
+            "sekolah_id_enkrip": "819C939E115DD941EC05"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360307",
+            "kecamatan": "Kec. Siriwo",
+            "npsn": 69893650,
+            "sekolah": "SD INPRES EUGAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Oct 2023 20:53:38",
+            "sekolah_id_enkrip": "F71C8393C3B992148503"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360307",
+            "kecamatan": "Kec. Siriwo",
+            "npsn": 69893651,
+            "sekolah": "SD INPRES MUGU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Oct 2023 20:07:17",
+            "sekolah_id_enkrip": "B303AC3CD2EB8D01B690"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360307",
+            "kecamatan": "Kec. Siriwo",
+            "npsn": 69893652,
+            "sekolah": "SD INPRES UWOYUPI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Oct 2023 20:24:26",
+            "sekolah_id_enkrip": "C3D7E456FF2A59D654FF"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360307",
+            "kecamatan": "Kec. Siriwo",
+            "npsn": 60304905,
+            "sekolah": "SMP Negeri Satap Siriwo",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Oct 2023 19:00:09",
+            "sekolah_id_enkrip": "0714B309405E3D0147C4"
+        }
+    ]
+}

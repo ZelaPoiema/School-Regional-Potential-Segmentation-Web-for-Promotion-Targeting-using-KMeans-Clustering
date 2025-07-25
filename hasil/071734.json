@@ -1,0 +1,60 @@
+{
+    "071700": [
+        {
+            "kode_prop": "070000",
+            "propinsi": "Prov. Sumatera Utara",
+            "kode_kab_kota": "071700",
+            "kabupaten_kota": "Kab. Nias Selatan",
+            "kode_kec": "071734",
+            "kecamatan": "Kec. Simuk",
+            "npsn": 10258523,
+            "sekolah": "SD NEGERI 071137 SILINA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 08:36:22",
+            "sekolah_id_enkrip": "03AFDAFF35252929C4C3"
+        },
+        {
+            "kode_prop": "070000",
+            "propinsi": "Prov. Sumatera Utara",
+            "kode_kab_kota": "071700",
+            "kabupaten_kota": "Kab. Nias Selatan",
+            "kode_kec": "071734",
+            "kecamatan": "Kec. Simuk",
+            "npsn": 10258524,
+            "sekolah": "SD NEGERI 074072 SIMUK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 09:22:59",
+            "sekolah_id_enkrip": "39341495301801836908"
+        },
+        {
+            "kode_prop": "070000",
+            "propinsi": "Prov. Sumatera Utara",
+            "kode_kab_kota": "071700",
+            "kabupaten_kota": "Kab. Nias Selatan",
+            "kode_kec": "071734",
+            "kecamatan": "Kec. Simuk",
+            "npsn": 10258206,
+            "sekolah": "SMP NEGERI 1 PULAU SIMUK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 11:48:12",
+            "sekolah_id_enkrip": "5F5CF33A7CAE3D0DDBF3"
+        },
+        {
+            "kode_prop": "070000",
+            "propinsi": "Prov. Sumatera Utara",
+            "kode_kab_kota": "071700",
+            "kabupaten_kota": "Kab. Nias Selatan",
+            "kode_kec": "071734",
+            "kecamatan": "Kec. Simuk",
+            "npsn": 10262146,
+            "sekolah": "SMA NEGERI 1 SATU ATAP PULAU SIMUK",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 12:00:30",
+            "sekolah_id_enkrip": "72B182AE9B29DD322C6A"
+        }
+    ]
+}

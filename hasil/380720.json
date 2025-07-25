@@ -1,0 +1,46 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380720",
+            "kecamatan": "Kec. Gollo",
+            "npsn": 60301422,
+            "sekolah": "SD INPRES LIBOME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Jan 2024 21:06:17",
+            "sekolah_id_enkrip": "C1F046942BF02E14DEB4"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380720",
+            "kecamatan": "Kec. Gollo",
+            "npsn": 60302957,
+            "sekolah": "SD NEGERI LIBO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Jan 2024 17:29:59",
+            "sekolah_id_enkrip": "2DB5BCB7BC7F1FDC2A10"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380720",
+            "kecamatan": "Kec. Gollo",
+            "npsn": "P9952671",
+            "sekolah": "PKBM YANEKO",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "18 Jan 2024 13:30:50",
+            "sekolah_id_enkrip": "5C5E02AE9AC0593B9FEC"
+        }
+    ]
+}

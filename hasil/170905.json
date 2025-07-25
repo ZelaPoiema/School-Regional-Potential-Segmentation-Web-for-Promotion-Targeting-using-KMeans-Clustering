@@ -1,0 +1,102 @@
+{
+    "170900": [
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170900",
+            "kabupaten_kota": "Kab. Kepulauan Siau Tagulandang Biaro",
+            "kode_kec": "170905",
+            "kecamatan": "Kec. Siau Tengah",
+            "npsn": 69880665,
+            "sekolah": "TK NEGERI PEMBINA SIAU TENGAH",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 10:57:15",
+            "sekolah_id_enkrip": "54DCF01B39FCE038C52B"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170900",
+            "kabupaten_kota": "Kab. Kepulauan Siau Tagulandang Biaro",
+            "kode_kec": "170905",
+            "kecamatan": "Kec. Siau Tengah",
+            "npsn": 69880661,
+            "sekolah": "TK PINTU ELOK SALILI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "27 Aug 2023 22:27:52",
+            "sekolah_id_enkrip": "686403B4DBD1A7238979"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170900",
+            "kabupaten_kota": "Kab. Kepulauan Siau Tagulandang Biaro",
+            "kode_kec": "170905",
+            "kecamatan": "Kec. Siau Tengah",
+            "npsn": 40104675,
+            "sekolah": "SD NEGERI DOMPASE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 19:01:07",
+            "sekolah_id_enkrip": "A127D3864C6D849C0879"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170900",
+            "kabupaten_kota": "Kab. Kepulauan Siau Tagulandang Biaro",
+            "kode_kec": "170905",
+            "kecamatan": "Kec. Siau Tengah",
+            "npsn": 40104655,
+            "sekolah": "SD GMIST BUKIT HOREB LAI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Jan 2024 08:46:48",
+            "sekolah_id_enkrip": "AAE1BC0FDF6F8678F4E7"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170900",
+            "kabupaten_kota": "Kab. Kepulauan Siau Tagulandang Biaro",
+            "kode_kec": "170905",
+            "kecamatan": "Kec. Siau Tengah",
+            "npsn": 40104664,
+            "sekolah": "SD GMIST MARANATHA BEONG",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Jan 2024 12:35:39",
+            "sekolah_id_enkrip": "139895CB4545D20E030D"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170900",
+            "kabupaten_kota": "Kab. Kepulauan Siau Tagulandang Biaro",
+            "kode_kec": "170905",
+            "kecamatan": "Kec. Siau Tengah",
+            "npsn": 40104668,
+            "sekolah": "SD GMIST PINTU ELOK SALILI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "10 Oct 2023 07:25:14",
+            "sekolah_id_enkrip": "2F71E9E501767ECE7B90"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170900",
+            "kabupaten_kota": "Kab. Kepulauan Siau Tagulandang Biaro",
+            "kode_kec": "170905",
+            "kecamatan": "Kec. Siau Tengah",
+            "npsn": 40104763,
+            "sekolah": "SMP NEGERI 2 SIAU BARAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 11:17:11",
+            "sekolah_id_enkrip": "EDC75E7F65544324DAA4"
+        }
+    ]
+}

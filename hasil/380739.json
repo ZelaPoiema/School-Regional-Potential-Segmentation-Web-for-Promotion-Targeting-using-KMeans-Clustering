@@ -1,0 +1,60 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380739",
+            "kecamatan": "Kec. Melagi",
+            "npsn": 60301427,
+            "sekolah": "SD INPRES MALAGAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Jan 2024 21:48:50",
+            "sekolah_id_enkrip": "CA01FA9513E1067DF71A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380739",
+            "kecamatan": "Kec. Melagi",
+            "npsn": 60302955,
+            "sekolah": "SD NEGERI WABIRAGI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Jan 2024 02:31:13",
+            "sekolah_id_enkrip": "8B63E6B014571143024E"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380739",
+            "kecamatan": "Kec. Melagi",
+            "npsn": 60303788,
+            "sekolah": "SMP NEGERI 1 MALAGAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 04:58:23",
+            "sekolah_id_enkrip": "2E5CEEB893F33252847A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380739",
+            "kecamatan": "Kec. Melagi",
+            "npsn": "P2967455",
+            "sekolah": "PKBM LOGANAM",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "20 Jan 2024 14:51:27",
+            "sekolah_id_enkrip": "4D5E240C9F12316CCC4B"
+        }
+    ]
+}

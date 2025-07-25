@@ -1,0 +1,32 @@
+{
+    "360500": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360510",
+            "kecamatan": "Kec. Beoga Barat",
+            "npsn": 70004575,
+            "sekolah": "PAUD KELMABET",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "3D4CDF0F5B0A2E52B670"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360510",
+            "kecamatan": "Kec. Beoga Barat",
+            "npsn": 60301940,
+            "sekolah": "SD INPRES KELMABET",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Oct 2023 17:47:43",
+            "sekolah_id_enkrip": "12E1B0278F00EF49C04C"
+        }
+    ]
+}

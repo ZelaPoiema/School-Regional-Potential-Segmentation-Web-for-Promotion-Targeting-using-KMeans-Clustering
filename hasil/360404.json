@@ -1,0 +1,102 @@
+{
+    "360400": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360404",
+            "kecamatan": "Kec. Mimika Barat",
+            "npsn": 69904728,
+            "sekolah": "TK YPPK BINTANG LAUT KOKONAU",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 22:12:00",
+            "sekolah_id_enkrip": "691457644A6000C2BB82"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360404",
+            "kecamatan": "Kec. Mimika Barat",
+            "npsn": 60304852,
+            "sekolah": "SD Negeri Aparuka",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 08:20:13",
+            "sekolah_id_enkrip": "C8215252F384774F5A50"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360404",
+            "kecamatan": "Kec. Mimika Barat",
+            "npsn": 69992169,
+            "sekolah": "SD NEGERI KOKONAO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 02:06:52",
+            "sekolah_id_enkrip": "1E8161790FF4DE7E85AC"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360404",
+            "kecamatan": "Kec. Mimika Barat",
+            "npsn": 60302856,
+            "sekolah": "SD YPPK KOKONAO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Feb 2024 17:53:20",
+            "sekolah_id_enkrip": "BDAF2F0CBE223486E04D"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360404",
+            "kecamatan": "Kec. Mimika Barat",
+            "npsn": 60302883,
+            "sekolah": "SMP YPPK LE COCQ D`ARMANDVILLE KOKONAO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "11 Jan 2024 23:03:38",
+            "sekolah_id_enkrip": "6DBE20EC46CE56990799"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360404",
+            "kecamatan": "Kec. Mimika Barat",
+            "npsn": 60302889,
+            "sekolah": "SMAN 3 TIMIKA",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 20:27:59",
+            "sekolah_id_enkrip": "E7A7CCE4445A2773F09A"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360400",
+            "kabupaten_kota": "Kab. Mimika",
+            "kode_kec": "360404",
+            "kecamatan": "Kec. Mimika Barat",
+            "npsn": "P9959985",
+            "sekolah": "PKBM KOKONAO",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Feb 2024 21:08:42",
+            "sekolah_id_enkrip": "81EECCC8AE44233045D1"
+        }
+    ]
+}

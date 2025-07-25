@@ -1,0 +1,46 @@
+{
+    "390500": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390527",
+            "kecamatan": "Kec. Amberbaken Barat",
+            "npsn": 60402158,
+            "sekolah": "SD INPRES 03 SAUKOREM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 20:00:45",
+            "sekolah_id_enkrip": "C6DD8AC775F4CEB9527E"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390527",
+            "kecamatan": "Kec. Amberbaken Barat",
+            "npsn": 60402156,
+            "sekolah": "SD INPRES 53 SAMFARMUN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 18:07:42",
+            "sekolah_id_enkrip": "F154DCCFCE0264EFA0EE"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390527",
+            "kecamatan": "Kec. Amberbaken Barat",
+            "npsn": 60401487,
+            "sekolah": "SD YPK 06 BETHEL IMBUAN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "04 Feb 2024 02:00:45",
+            "sekolah_id_enkrip": "F7663035F979E8810423"
+        }
+    ]
+}

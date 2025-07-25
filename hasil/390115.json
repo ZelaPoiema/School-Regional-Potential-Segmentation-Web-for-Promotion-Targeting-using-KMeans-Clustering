@@ -1,0 +1,74 @@
+{
+    "390100": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390115",
+            "kecamatan": "Kec. Ayamaru Selatan",
+            "npsn": 70029828,
+            "sekolah": "TK PAUD ELIM SEMBARO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "11 Nov 2023 14:04:54",
+            "sekolah_id_enkrip": "745DC08E7D6D4317219B"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390115",
+            "kecamatan": "Kec. Ayamaru Selatan",
+            "npsn": 60403939,
+            "sekolah": "SD NEGERI 1 KOMA KOMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 09:49:30",
+            "sekolah_id_enkrip": "B0C845069D44E975A54C"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390115",
+            "kecamatan": "Kec. Ayamaru Selatan",
+            "npsn": 60401721,
+            "sekolah": "SD YPK BETHEL SAUF",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "28 Nov 2023 07:18:57",
+            "sekolah_id_enkrip": "887833853E2B922B7365"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390115",
+            "kecamatan": "Kec. Ayamaru Selatan",
+            "npsn": 60401724,
+            "sekolah": "SD YPK SEMBARO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "20 Jan 2024 15:57:16",
+            "sekolah_id_enkrip": "F2FEBC7276CAE6691EF4"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390115",
+            "kecamatan": "Kec. Ayamaru Selatan",
+            "npsn": 69967153,
+            "sekolah": "SMP NEGERI 3 AYAMARU SELATAN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 15:05:46",
+            "sekolah_id_enkrip": "C92B12B7CB80E310F32E"
+        }
+    ]
+}

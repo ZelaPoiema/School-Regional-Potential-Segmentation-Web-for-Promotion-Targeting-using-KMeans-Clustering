@@ -1,0 +1,32 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380336",
+            "kecamatan": "Kec. Soloikma",
+            "npsn": 69924484,
+            "sekolah": "SD NEGERI SENGOKLA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 06:19:22",
+            "sekolah_id_enkrip": "A57A3694E761A89A42B4"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380336",
+            "kecamatan": "Kec. Soloikma",
+            "npsn": 60304970,
+            "sekolah": "SDN BANGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Sep 2023 06:58:46",
+            "sekolah_id_enkrip": "9567771574178F7127C3"
+        }
+    ]
+}

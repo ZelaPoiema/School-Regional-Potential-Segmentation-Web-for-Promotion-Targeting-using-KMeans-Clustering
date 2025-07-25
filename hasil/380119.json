@@ -1,0 +1,74 @@
+{
+    "380100": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380119",
+            "kecamatan": "Kec. Itlay Hisage",
+            "npsn": 70042740,
+            "sekolah": "KB PAUD WETNI SILIMO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "8D917AC330C25A651149"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380119",
+            "kecamatan": "Kec. Itlay Hisage",
+            "npsn": 69981080,
+            "sekolah": "PAUD SANTHO YOHANES YOGONIMA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "23 Jan 2024 14:39:41",
+            "sekolah_id_enkrip": "2CFADF1BC88D8EDCF926"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380119",
+            "kecamatan": "Kec. Itlay Hisage",
+            "npsn": 60301463,
+            "sekolah": "SD INPRES SUMINIKAMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Sep 2023 07:48:20",
+            "sekolah_id_enkrip": "8B5A1216694C51954AE3"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380119",
+            "kecamatan": "Kec. Itlay Hisage",
+            "npsn": 60301482,
+            "sekolah": "SD INPRES WUROBA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 18:04:30",
+            "sekolah_id_enkrip": "4063D20EB6ED1484E2A5"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380119",
+            "kecamatan": "Kec. Itlay Hisage",
+            "npsn": "P9997267",
+            "sekolah": "PKBM YOMAIT",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "CBF1A98E8AD35792D1C2"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "380800": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380827",
+            "kecamatan": "Kec. Pija",
+            "npsn": 60301407,
+            "sekolah": "SD Inpres Hupatma",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Oct 2023 15:00:19",
+            "sekolah_id_enkrip": "99BE1E424D6056B182DD"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380827",
+            "kecamatan": "Kec. Pija",
+            "npsn": 70040972,
+            "sekolah": "SD Negeri Yerikho",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "10 Oct 2023 18:43:24",
+            "sekolah_id_enkrip": "F6201125076516267934"
+        }
+    ]
+}

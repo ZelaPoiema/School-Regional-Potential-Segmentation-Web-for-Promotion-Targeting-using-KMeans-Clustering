@@ -1,0 +1,74 @@
+{
+    "370400": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370425",
+            "kecamatan": "Kec. Sor Ep",
+            "npsn": 70003998,
+            "sekolah": "KB CINDERELLA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Oct 2023 17:38:22",
+            "sekolah_id_enkrip": "740A0F8D93F41BE3F29D"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370425",
+            "kecamatan": "Kec. Sor Ep",
+            "npsn": 70000825,
+            "sekolah": "KB SOREP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 09:01:40",
+            "sekolah_id_enkrip": "1262F17618B388AB41D7"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370425",
+            "kecamatan": "Kec. Sor Ep",
+            "npsn": 60303639,
+            "sekolah": "SD INPRES BECO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Sep 2023 14:31:59",
+            "sekolah_id_enkrip": "5EF42F3727979B0E5CFF"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370425",
+            "kecamatan": "Kec. Sor Ep",
+            "npsn": 60303643,
+            "sekolah": "SD INPRES YUNI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 13:52:04",
+            "sekolah_id_enkrip": "AD4BFC8AEA42551DEFD4"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370425",
+            "kecamatan": "Kec. Sor Ep",
+            "npsn": 69896427,
+            "sekolah": "SD Persiapan Negeri Fakan",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 08:00:35",
+            "sekolah_id_enkrip": "A83445091F11A2B4303E"
+        }
+    ]
+}

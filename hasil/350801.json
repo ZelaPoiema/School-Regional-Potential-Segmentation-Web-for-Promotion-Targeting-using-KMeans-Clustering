@@ -1,0 +1,74 @@
+{
+    "350800": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350800",
+            "kabupaten_kota": "Arab Saudi",
+            "kode_kec": "350801",
+            "kecamatan": "Riyadh",
+            "npsn": 90101045,
+            "sekolah": "SEKOLAH INDONESIA RIYADH TINGKAT TK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Jan 2024 15:25:16",
+            "sekolah_id_enkrip": "FDEA638CA0BB6198ECFD"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350800",
+            "kabupaten_kota": "Arab Saudi",
+            "kode_kec": "350801",
+            "kecamatan": "Riyadh",
+            "npsn": 90101007,
+            "sekolah": "SEKOLAH INDONESIA RIYADH TINGKAT SD",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 18:49:00",
+            "sekolah_id_enkrip": "EC3A19ED83F1C0CBCD0E"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350800",
+            "kabupaten_kota": "Arab Saudi",
+            "kode_kec": "350801",
+            "kecamatan": "Riyadh",
+            "npsn": 90101008,
+            "sekolah": "SEKOLAH INDONESIA RIYADH TINGKAT SMP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 01:29:58",
+            "sekolah_id_enkrip": "3C564DBE64A19AACCAA5"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350800",
+            "kabupaten_kota": "Arab Saudi",
+            "kode_kec": "350801",
+            "kecamatan": "Riyadh",
+            "npsn": 90101009,
+            "sekolah": "SEKOLAH INDONESIA RIYADH TINGKAT SMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 16:56:48",
+            "sekolah_id_enkrip": "B9209922DD8A74A7920A"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350800",
+            "kabupaten_kota": "Arab Saudi",
+            "kode_kec": "350801",
+            "kecamatan": "Riyadh",
+            "npsn": "P9970436",
+            "sekolah": "PKBM Sekolah Indonesia Riyadh",
+            "bentuk": "PKBM",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 16:14:54",
+            "sekolah_id_enkrip": "91EAA6A930DDD0C040A0"
+        }
+    ]
+}

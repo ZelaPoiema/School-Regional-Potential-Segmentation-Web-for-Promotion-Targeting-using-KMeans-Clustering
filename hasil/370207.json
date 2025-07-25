@@ -1,0 +1,74 @@
+{
+    "370200": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370207",
+            "kecamatan": "Kec. Kombut",
+            "npsn": 69964810,
+            "sekolah": "TK. HATI KUDUS MOKBIRAN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 04:14:55",
+            "sekolah_id_enkrip": "39548D68AC2026C3BD78"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370207",
+            "kecamatan": "Kec. Kombut",
+            "npsn": 60302102,
+            "sekolah": "SD YPPK AMUAN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Jan 2024 03:51:41",
+            "sekolah_id_enkrip": "AA7F2E72F58E79224DB1"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370207",
+            "kecamatan": "Kec. Kombut",
+            "npsn": 60302116,
+            "sekolah": "SD YPPK KAWANGTET",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Aug 2023 20:50:07",
+            "sekolah_id_enkrip": "B40DB607E0B454467DEB"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370207",
+            "kecamatan": "Kec. Kombut",
+            "npsn": 60303701,
+            "sekolah": "SD YPPK KOMBUT",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Aug 2023 20:30:54",
+            "sekolah_id_enkrip": "662920F7E65AEEA433B0"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370207",
+            "kecamatan": "Kec. Kombut",
+            "npsn": 60302121,
+            "sekolah": "SD YPPK MOKBIRAN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "07 Dec 2023 17:14:28",
+            "sekolah_id_enkrip": "CA5170F2E841534939BA"
+        }
+    ]
+}

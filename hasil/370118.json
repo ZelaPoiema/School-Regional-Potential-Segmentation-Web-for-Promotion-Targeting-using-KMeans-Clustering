@@ -1,0 +1,102 @@
+{
+    "370100": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370118",
+            "kecamatan": "Kec. Tabonji",
+            "npsn": 60300721,
+            "sekolah": "SD INPRES YOMUKA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Oct 2023 18:26:41",
+            "sekolah_id_enkrip": "61EE964403EA4DE61AE7"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370118",
+            "kecamatan": "Kec. Tabonji",
+            "npsn": 60304546,
+            "sekolah": "SD NEGERI YERAHA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 13:02:18",
+            "sekolah_id_enkrip": "89EA9FCF2716BB7C4192"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370118",
+            "kecamatan": "Kec. Tabonji",
+            "npsn": 60300568,
+            "sekolah": "SD YPPK BAMOL",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "10 Nov 2023 21:43:21",
+            "sekolah_id_enkrip": "B9CC8763286157C9FE51"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370118",
+            "kecamatan": "Kec. Tabonji",
+            "npsn": 60300590,
+            "sekolah": "SD YPPK IROMORO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "18 Jan 2024 14:03:19",
+            "sekolah_id_enkrip": "7D5676EB32C8F12C6ECC"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370118",
+            "kecamatan": "Kec. Tabonji",
+            "npsn": 60300580,
+            "sekolah": "SD YPPK KONJOMBANDO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Jan 2024 14:37:26",
+            "sekolah_id_enkrip": "5D5DA9BEF187906AD915"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370118",
+            "kecamatan": "Kec. Tabonji",
+            "npsn": 60300557,
+            "sekolah": "SD YPPK TABONJI/SUAM",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Jan 2024 19:52:19",
+            "sekolah_id_enkrip": "4043D0FC5721604DECFC"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370118",
+            "kecamatan": "Kec. Tabonji",
+            "npsn": 60304698,
+            "sekolah": "SMP PERS TABONJI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Jan 2024 17:28:32",
+            "sekolah_id_enkrip": "0D29CD4E7671AD71F56C"
+        }
+    ]
+}

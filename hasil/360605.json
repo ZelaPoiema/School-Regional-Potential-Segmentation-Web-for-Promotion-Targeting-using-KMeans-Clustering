@@ -1,0 +1,74 @@
+{
+    "360600": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360600",
+            "kabupaten_kota": "Kab. Dogiyai",
+            "kode_kec": "360605",
+            "kecamatan": "Kec. Sukikai Selatan",
+            "npsn": 60302964,
+            "sekolah": "SD INPRES SAIKONAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Aug 2023 13:34:27",
+            "sekolah_id_enkrip": "9863B65FE0979CA32D03"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360600",
+            "kabupaten_kota": "Kab. Dogiyai",
+            "kode_kec": "360605",
+            "kecamatan": "Kec. Sukikai Selatan",
+            "npsn": 60303605,
+            "sekolah": "SD NEGERI EGIPA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Aug 2023 21:35:19",
+            "sekolah_id_enkrip": "983C8C7CCDE170D85496"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360600",
+            "kabupaten_kota": "Kab. Dogiyai",
+            "kode_kec": "360605",
+            "kecamatan": "Kec. Sukikai Selatan",
+            "npsn": 60303604,
+            "sekolah": "SD NEGERI IYARO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "18 Aug 2023 12:04:50",
+            "sekolah_id_enkrip": "FCF2C0791803267AA7B7"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360600",
+            "kabupaten_kota": "Kab. Dogiyai",
+            "kode_kec": "360605",
+            "kecamatan": "Kec. Sukikai Selatan",
+            "npsn": 60303602,
+            "sekolah": "SD NEGERI UNITO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "18 Jan 2024 21:56:25",
+            "sekolah_id_enkrip": "E99DB0FFB848B6E80817"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360600",
+            "kabupaten_kota": "Kab. Dogiyai",
+            "kode_kec": "360605",
+            "kecamatan": "Kec. Sukikai Selatan",
+            "npsn": 60303603,
+            "sekolah": "SD YPPK BIDAU",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Aug 2023 08:12:37",
+            "sekolah_id_enkrip": "84A6EE7F3EAE8401E567"
+        }
+    ]
+}

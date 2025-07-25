@@ -1,0 +1,88 @@
+{
+    "380100": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380125",
+            "kecamatan": "Kec. Pisugi",
+            "npsn": 69972920,
+            "sekolah": "KB PAUD OLEP (ONE LINE EDUCATION PAPUA)",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "14 Jan 2024 19:37:01",
+            "sekolah_id_enkrip": "D6F06E9498C99B49F5ED"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380125",
+            "kecamatan": "Kec. Pisugi",
+            "npsn": 69949481,
+            "sekolah": "PAUD-TK YPPK BUNDA MARIA PIKHE",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Jan 2024 04:41:59",
+            "sekolah_id_enkrip": "BDE4161673CBDEAA301E"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380125",
+            "kecamatan": "Kec. Pisugi",
+            "npsn": 60301379,
+            "sekolah": "SD INPRES AIKIMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 15:37:38",
+            "sekolah_id_enkrip": "7768C64670F14A9FC6AA"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380125",
+            "kecamatan": "Kec. Pisugi",
+            "npsn": 70038371,
+            "sekolah": "SD OLEP",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Jan 2024 12:39:12",
+            "sekolah_id_enkrip": "BE73F5EB9625B34D8387"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380125",
+            "kecamatan": "Kec. Pisugi",
+            "npsn": 60301541,
+            "sekolah": "SD YPPK BUNDA MARIA PIKHE",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Jan 2024 14:20:05",
+            "sekolah_id_enkrip": "D4F835CFC6B5FDAE287E"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380125",
+            "kecamatan": "Kec. Pisugi",
+            "npsn": "P9997958",
+            "sekolah": "PKBM PABUMA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "27 Dec 2023 23:40:32",
+            "sekolah_id_enkrip": "95B52B02BF193AE7CDF8"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "370100": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370113",
+            "kecamatan": "Kec. Animha",
+            "npsn": 60300569,
+            "sekolah": "SD YPPK BAAD",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "23 Nov 2023 03:18:23",
+            "sekolah_id_enkrip": "A7ACC6E4DED272B4AA1A"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370113",
+            "kecamatan": "Kec. Animha",
+            "npsn": 60300587,
+            "sekolah": "SD YPPK KAIZA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "24 Jan 2024 12:27:46",
+            "sekolah_id_enkrip": "97242C07CDE832958F6B"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370113",
+            "kecamatan": "Kec. Animha",
+            "npsn": 60300531,
+            "sekolah": "SD YPPK SENEGI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Dec 2023 17:46:02",
+            "sekolah_id_enkrip": "B59C9D6FF9FBA5146F53"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370113",
+            "kecamatan": "Kec. Animha",
+            "npsn": 60300545,
+            "sekolah": "SD YPPK ST PETRUS KOA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "24 Jan 2024 12:11:20",
+            "sekolah_id_enkrip": "18E01100DFE0F05D0D65"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370113",
+            "kecamatan": "Kec. Animha",
+            "npsn": 60300549,
+            "sekolah": "SD YPPK WAYAU",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Jan 2024 14:48:39",
+            "sekolah_id_enkrip": "E06A111A9717D5BBC1B1"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370113",
+            "kecamatan": "Kec. Animha",
+            "npsn": 60302710,
+            "sekolah": "SMP NEGERI WAYAU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 10:30:18",
+            "sekolah_id_enkrip": "C645987A66B065961D7D"
+        }
+    ]
+}

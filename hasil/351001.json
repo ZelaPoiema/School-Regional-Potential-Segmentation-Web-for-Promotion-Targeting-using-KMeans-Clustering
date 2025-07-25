@@ -1,0 +1,60 @@
+{
+    "351000": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "351000",
+            "kabupaten_kota": "Singapura",
+            "kode_kec": "351001",
+            "kecamatan": "Singapura",
+            "npsn": 90101020,
+            "sekolah": "SEKOLAH INDONESIA (SINGAPURA) TINGKAT SD",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 10:53:31",
+            "sekolah_id_enkrip": "8BFA68EA0EA4BCCB2E11"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "351000",
+            "kabupaten_kota": "Singapura",
+            "kode_kec": "351001",
+            "kecamatan": "Singapura",
+            "npsn": 90101021,
+            "sekolah": "SEKOLAH INDONESIA (SINGAPURA) TINGKAT SMP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 08:17:44",
+            "sekolah_id_enkrip": "FECE25ADD7D421D4EBA7"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "351000",
+            "kabupaten_kota": "Singapura",
+            "kode_kec": "351001",
+            "kecamatan": "Singapura",
+            "npsn": 90101022,
+            "sekolah": "SEKOLAH INDONESIA (SINGAPURA) TINGKAT SMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 09:53:42",
+            "sekolah_id_enkrip": "307363C17C4F88792BFD"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "351000",
+            "kabupaten_kota": "Singapura",
+            "kode_kec": "351001",
+            "kecamatan": "Singapura",
+            "npsn": "P9960029",
+            "sekolah": "PKBM P3K SI LUAR NEGERI SINGAPURA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 22:04:02",
+            "sekolah_id_enkrip": "F99AE8C6D5EC7F14D540"
+        }
+    ]
+}

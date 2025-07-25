@@ -1,0 +1,32 @@
+{
+    "370200": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370219",
+            "kecamatan": "Kec. Ki",
+            "npsn": 60302086,
+            "sekolah": "SD NEGERI METTO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "08 Nov 2023 13:32:04",
+            "sekolah_id_enkrip": "5E8F51D42CC85FF0F240"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370219",
+            "kecamatan": "Kec. Ki",
+            "npsn": 69946394,
+            "sekolah": "SMP NEGERI UJUNG KIA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 08:38:12",
+            "sekolah_id_enkrip": "2F535C9B68A4D91CCBC0"
+        }
+    ]
+}

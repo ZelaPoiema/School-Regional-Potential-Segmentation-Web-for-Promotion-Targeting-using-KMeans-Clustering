@@ -1,0 +1,88 @@
+{
+    "390200": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390217",
+            "kecamatan": "Kec. Kepulauan Sembilan",
+            "npsn": 69933819,
+            "sekolah": "SPS. ORA`ETLABORA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Jan 2024 19:02:02",
+            "sekolah_id_enkrip": "E57F6150DDF08F7FED73"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390217",
+            "kecamatan": "Kec. Kepulauan Sembilan",
+            "npsn": 60403863,
+            "sekolah": "SD NEGERI 22 PULAU TIKUS",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 20:06:05",
+            "sekolah_id_enkrip": "22D729BE4799878240CB"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390217",
+            "kecamatan": "Kec. Kepulauan Sembilan",
+            "npsn": 60403864,
+            "sekolah": "SD NEGERI 31 SATU KORANO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 08:56:59",
+            "sekolah_id_enkrip": "EFEA8D07279CE41EE5F3"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390217",
+            "kecamatan": "Kec. Kepulauan Sembilan",
+            "npsn": 60401830,
+            "sekolah": "SD YPK EFATA WEJIM",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "15 Jan 2024 15:06:16",
+            "sekolah_id_enkrip": "0E6E4E842401DA81CCF5"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390217",
+            "kecamatan": "Kec. Kepulauan Sembilan",
+            "npsn": 60403780,
+            "sekolah": "SMP NEGERI 20 RAJA AMPAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 12:34:58",
+            "sekolah_id_enkrip": "C285CEBC44B447B2088B"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390217",
+            "kecamatan": "Kec. Kepulauan Sembilan",
+            "npsn": 60404143,
+            "sekolah": "SMA NEGERI 13 RAJA AMPAT",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 07:37:36",
+            "sekolah_id_enkrip": "82C97F423B382F781697"
+        }
+    ]
+}

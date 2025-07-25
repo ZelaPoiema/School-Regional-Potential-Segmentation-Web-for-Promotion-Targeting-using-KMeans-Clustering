@@ -1,0 +1,32 @@
+{
+    "250200": [
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250219",
+            "kecamatan": "Kec. Bondifuar",
+            "npsn": 60300380,
+            "sekolah": "SD INPRES SANSUNDI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 19:14:59",
+            "sekolah_id_enkrip": "573901C66401B8D904E1"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250219",
+            "kecamatan": "Kec. Bondifuar",
+            "npsn": 69829156,
+            "sekolah": "SMP NEGERI 1 BONDIFUAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 18:24:03",
+            "sekolah_id_enkrip": "C5653B90CDA60C5694B9"
+        }
+    ]
+}

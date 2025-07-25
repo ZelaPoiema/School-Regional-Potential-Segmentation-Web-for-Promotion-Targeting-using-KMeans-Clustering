@@ -1,0 +1,88 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380704",
+            "kecamatan": "Kec. Gamelia",
+            "npsn": 60301391,
+            "sekolah": "SD INPRES DANIME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Aug 2023 18:50:59",
+            "sekolah_id_enkrip": "961E8699A7C7B613ACFA"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380704",
+            "kecamatan": "Kec. Gamelia",
+            "npsn": 60301416,
+            "sekolah": "SD INPRES KORRI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Aug 2023 19:19:40",
+            "sekolah_id_enkrip": "6D4C0CC73E5F58E61EAE"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380704",
+            "kecamatan": "Kec. Gamelia",
+            "npsn": 60301448,
+            "sekolah": "SD INPRES PAPANI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Dec 2023 21:50:14",
+            "sekolah_id_enkrip": "23CEBC002545DBA9D43A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380704",
+            "kecamatan": "Kec. Gamelia",
+            "npsn": 60301487,
+            "sekolah": "SD INPRES YILAM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Aug 2023 17:43:23",
+            "sekolah_id_enkrip": "395DEA2C612F9C3F0510"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380704",
+            "kecamatan": "Kec. Gamelia",
+            "npsn": 60300785,
+            "sekolah": "SMP NEGERI 1 GAMELIA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Jan 2024 12:25:53",
+            "sekolah_id_enkrip": "BD1E6C44454BA23C7465"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380704",
+            "kecamatan": "Kec. Gamelia",
+            "npsn": "P9998441",
+            "sekolah": "PKBM FIRAWUN",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "23 Jan 2024 10:39:56",
+            "sekolah_id_enkrip": "14170318A840F28B0418"
+        }
+    ]
+}

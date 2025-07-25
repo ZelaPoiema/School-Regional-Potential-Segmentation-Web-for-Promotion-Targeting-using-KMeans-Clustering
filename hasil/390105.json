@@ -1,0 +1,88 @@
+{
+    "390100": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390105",
+            "kecamatan": "Kec. Aitinyo Barat",
+            "npsn": 70032813,
+            "sekolah": "TK-PAUD SION PERMAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "11 Nov 2023 14:26:08",
+            "sekolah_id_enkrip": "835D2FDFEA936BB96844"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390105",
+            "kecamatan": "Kec. Aitinyo Barat",
+            "npsn": 60401651,
+            "sekolah": "SD INPRES 12 KAMBUFATEM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Jan 2024 11:10:33",
+            "sekolah_id_enkrip": "DC99AD717B08EDACACEF"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390105",
+            "kecamatan": "Kec. Aitinyo Barat",
+            "npsn": 70001880,
+            "sekolah": "SD NEGERI FATASE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "20 Jan 2024 16:15:37",
+            "sekolah_id_enkrip": "F49A74D09330AF6ABD5A"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390105",
+            "kecamatan": "Kec. Aitinyo Barat",
+            "npsn": 70001879,
+            "sekolah": "SD NEGERI HOSYO BANAH",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 21:01:48",
+            "sekolah_id_enkrip": "9B8F6178636322104934"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390105",
+            "kecamatan": "Kec. Aitinyo Barat",
+            "npsn": 60403829,
+            "sekolah": "SMP NEGERI 1 ATINYO BARAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 14:49:51",
+            "sekolah_id_enkrip": "EC11EC45665D01472E1D"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390105",
+            "kecamatan": "Kec. Aitinyo Barat",
+            "npsn": "P9998336",
+            "sekolah": "PKBM KAMFAS",
+            "bentuk": "PKBM",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Jan 2024 17:47:26",
+            "sekolah_id_enkrip": "0F13DC7985BFF69579D4"
+        }
+    ]
+}

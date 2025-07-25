@@ -1,0 +1,60 @@
+{
+    "360300": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360306",
+            "kecamatan": "Kec. Dumadama",
+            "npsn": 69949567,
+            "sekolah": "TK BOOTE JAYA DUMA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "15 Dec 2023 23:22:24",
+            "sekolah_id_enkrip": "7CF45CDF4D2CD6C6C9C4"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360306",
+            "kecamatan": "Kec. Dumadama",
+            "npsn": 60302359,
+            "sekolah": "SD YPPGI DUMA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Aug 2023 20:45:53",
+            "sekolah_id_enkrip": "4BFD5AA712ACBD54FE7B"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360306",
+            "kecamatan": "Kec. Dumadama",
+            "npsn": 60302424,
+            "sekolah": "SD YPPK WAITAPA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "13 Oct 2023 21:51:37",
+            "sekolah_id_enkrip": "FB68F0A5843583E24521"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360306",
+            "kecamatan": "Kec. Dumadama",
+            "npsn": "P9984238",
+            "sekolah": "PKBM DUMA JAYA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Dec 2023 11:46:26",
+            "sekolah_id_enkrip": "02E18CF226D064D2D93E"
+        }
+    ]
+}

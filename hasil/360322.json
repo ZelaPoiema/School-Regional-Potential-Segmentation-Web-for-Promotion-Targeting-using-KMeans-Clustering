@@ -1,0 +1,88 @@
+{
+    "360300": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360322",
+            "kecamatan": "Kec. Aweida",
+            "npsn": 69965850,
+            "sekolah": "TK ENOUDA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "25 Jan 2024 15:30:41",
+            "sekolah_id_enkrip": "3A6991B2D06F714FC699"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360322",
+            "kecamatan": "Kec. Aweida",
+            "npsn": 70015694,
+            "sekolah": "TK PAUD TAGAPE JERNIH",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Aug 2023 17:50:10",
+            "sekolah_id_enkrip": "478EA59D7C8D3099AD8B"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360322",
+            "kecamatan": "Kec. Aweida",
+            "npsn": 60302312,
+            "sekolah": "SD INPRES TUGUWAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Nov 2023 06:30:41",
+            "sekolah_id_enkrip": "60E83E46721D82482F6E"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360322",
+            "kecamatan": "Kec. Aweida",
+            "npsn": 60302358,
+            "sekolah": "SD YPPGI DETA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Jan 2024 12:51:46",
+            "sekolah_id_enkrip": "8DF93E73309F419471E5"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360322",
+            "kecamatan": "Kec. Aweida",
+            "npsn": 69944454,
+            "sekolah": "SMP NEGERI 1 DETA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Jan 2024 04:46:23",
+            "sekolah_id_enkrip": "4923ECD4F460D7662EC8"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360322",
+            "kecamatan": "Kec. Aweida",
+            "npsn": "P9980090",
+            "sekolah": "PKBM GUBIWO",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Jan 2024 07:58:44",
+            "sekolah_id_enkrip": "FA2383BCE90543A48064"
+        }
+    ]
+}

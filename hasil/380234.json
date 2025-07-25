@@ -1,0 +1,32 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380234",
+            "kecamatan": "Kec. Nongme",
+            "npsn": 69991111,
+            "sekolah": "SD INPRES NONGME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Aug 2023 21:12:28",
+            "sekolah_id_enkrip": "219B9F603B76DFC0C674"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380234",
+            "kecamatan": "Kec. Nongme",
+            "npsn": "P9998690",
+            "sekolah": "PKBM BENUNE DOMUMEK",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Aug 2023 19:40:44",
+            "sekolah_id_enkrip": "D691001021EF2F64E2DF"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "380800": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380808",
+            "kecamatan": "Kec. Gearek",
+            "npsn": 60305281,
+            "sekolah": "SD Negeri Tripid",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 20:27:04",
+            "sekolah_id_enkrip": "E82DB7BE1B7CF5890D44"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380808",
+            "kecamatan": "Kec. Gearek",
+            "npsn": 60304903,
+            "sekolah": "SMP Negeri Gearek",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Dec 2023 12:48:03",
+            "sekolah_id_enkrip": "8F9F038200263E556E8C"
+        }
+    ]
+}

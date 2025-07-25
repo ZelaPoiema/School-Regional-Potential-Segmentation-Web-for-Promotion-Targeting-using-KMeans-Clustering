@@ -1,0 +1,60 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380313",
+            "kecamatan": "Kec. Pasema",
+            "npsn": 69935969,
+            "sekolah": "PAUD MAMA PAPUA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "15 Dec 2023 08:21:16",
+            "sekolah_id_enkrip": "872434695B89EF0C0684"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380313",
+            "kecamatan": "Kec. Pasema",
+            "npsn": 60303377,
+            "sekolah": "SD INPRES PASEMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Dec 2023 19:35:11",
+            "sekolah_id_enkrip": "798076333D98B18A3297"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380313",
+            "kecamatan": "Kec. Pasema",
+            "npsn": 60303323,
+            "sekolah": "SMPN PASEMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Jan 2024 10:09:48",
+            "sekolah_id_enkrip": "AC0075034DD4313ECE53"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380313",
+            "kecamatan": "Kec. Pasema",
+            "npsn": "P9970107",
+            "sekolah": "PKBM Pasema",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "8CB500CCB66FABC4F9B7"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "390200": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390205",
+            "kecamatan": "Kec. Kepulauan Ayau",
+            "npsn": 69922074,
+            "sekolah": "PAUD SILO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "04 Nov 2023 11:50:32",
+            "sekolah_id_enkrip": "25A712BE30DE4495DB9B"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390205",
+            "kecamatan": "Kec. Kepulauan Ayau",
+            "npsn": 60401849,
+            "sekolah": "SD YPK IMANUEL YENKAWIR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Oct 2023 17:23:31",
+            "sekolah_id_enkrip": "86DCC6A865CE30C49327"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390205",
+            "kecamatan": "Kec. Kepulauan Ayau",
+            "npsn": 60401824,
+            "sekolah": "SD YPK SILO DOREHKAR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "03 Oct 2023 17:39:28",
+            "sekolah_id_enkrip": "6DDCA3B0C8E69148E9AF"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390205",
+            "kecamatan": "Kec. Kepulauan Ayau",
+            "npsn": 60401870,
+            "sekolah": "SMP NEGERI 8 RAJA AMPAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 04:34:51",
+            "sekolah_id_enkrip": "1EE8BCC7A8096BFC61D6"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "390200": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390224",
+            "kecamatan": "Kec. Ayau",
+            "npsn": 60401784,
+            "sekolah": "SD INPRES 13 RENI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Nov 2023 08:18:57",
+            "sekolah_id_enkrip": "F547336F993187472467"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390224",
+            "kecamatan": "Kec. Ayau",
+            "npsn": 69964063,
+            "sekolah": "SD NEGERI 42 ABIDON",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Sep 2023 07:26:12",
+            "sekolah_id_enkrip": "701BB957F42688C10460"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390224",
+            "kecamatan": "Kec. Ayau",
+            "npsn": 60401836,
+            "sekolah": "SD YPK BETHANIA RUTUM",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "08 Oct 2023 10:04:01",
+            "sekolah_id_enkrip": "FDF14F279DF7EC37BF9B"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390224",
+            "kecamatan": "Kec. Ayau",
+            "npsn": 60401829,
+            "sekolah": "SD YPK ELIM MEOSBEKWAN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "23 Jan 2024 18:08:17",
+            "sekolah_id_enkrip": "A36BE26BCBCDE9CB7F31"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390224",
+            "kecamatan": "Kec. Ayau",
+            "npsn": 60404144,
+            "sekolah": "SMP NEGERI 24 RAJA AMPAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 07:36:51",
+            "sekolah_id_enkrip": "DA3AC05DFCFE04D53024"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390224",
+            "kecamatan": "Kec. Ayau",
+            "npsn": 60403787,
+            "sekolah": "SMA NEGERI 9 RAJA AMPAT",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 15:06:06",
+            "sekolah_id_enkrip": "7986342FE5147BFE2438"
+        }
+    ]
+}

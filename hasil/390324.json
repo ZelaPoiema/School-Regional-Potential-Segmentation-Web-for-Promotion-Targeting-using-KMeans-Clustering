@@ -1,0 +1,60 @@
+{
+    "390300": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390324",
+            "kecamatan": "Kec. Fokour",
+            "npsn": 70004329,
+            "sekolah": "TK HARAPAN PASIR PUTIH",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Aug 2023 13:06:52",
+            "sekolah_id_enkrip": "323C4264202E9303A5A5"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390324",
+            "kecamatan": "Kec. Fokour",
+            "npsn": 60401675,
+            "sekolah": "SD INPRES 143 WELEK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 11:39:47",
+            "sekolah_id_enkrip": "6C9EEDD1C7E5A70E917C"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390324",
+            "kecamatan": "Kec. Fokour",
+            "npsn": 60401674,
+            "sekolah": "SD INPRES 23 PASIR PUTIH",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 05:49:38",
+            "sekolah_id_enkrip": "E60CC69487E333AB425C"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390324",
+            "kecamatan": "Kec. Fokour",
+            "npsn": 69787901,
+            "sekolah": "SMP NEGERI 1 PASIR PUTIH",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 09:47:30",
+            "sekolah_id_enkrip": "911B3883D59749093BCC"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380717",
+            "kecamatan": "Kec. Wereka",
+            "npsn": 70032815,
+            "sekolah": "SD Negeri Tabukeker",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Aug 2023 12:21:05",
+            "sekolah_id_enkrip": "E8C7B5042E6DCD925E0D"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380717",
+            "kecamatan": "Kec. Wereka",
+            "npsn": "P9998457",
+            "sekolah": "PKBM TIMI",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Jan 2024 13:50:47",
+            "sekolah_id_enkrip": "1EFDEBEC8962B63CF323"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380227",
+            "kecamatan": "Kec. Weime",
+            "npsn": 70005325,
+            "sekolah": "PAUD BERKAT CERDAS",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Aug 2023 19:46:55",
+            "sekolah_id_enkrip": "42C721C0651BD0B9E428"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380227",
+            "kecamatan": "Kec. Weime",
+            "npsn": 70002126,
+            "sekolah": "SD INPRES MERPASIKNE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "10 Aug 2023 19:43:42",
+            "sekolah_id_enkrip": "01B7DD0904ADCA332771"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380227",
+            "kecamatan": "Kec. Weime",
+            "npsn": 60302171,
+            "sekolah": "SD INPRES TARAMLU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 12:35:34",
+            "sekolah_id_enkrip": "C812E6E39D9030EB9680"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380227",
+            "kecamatan": "Kec. Weime",
+            "npsn": 69959509,
+            "sekolah": "SMP NEGERI WEIME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Jan 2024 10:28:28",
+            "sekolah_id_enkrip": "8822B666C8FC1EC0712C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380227",
+            "kecamatan": "Kec. Weime",
+            "npsn": "P9998149",
+            "sekolah": "PKBM LIMBUN",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Aug 2023 16:47:23",
+            "sekolah_id_enkrip": "CFAEC467D6F4A52D6798"
+        }
+    ]
+}

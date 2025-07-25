@@ -1,0 +1,32 @@
+{
+    "370400": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370408",
+            "kecamatan": "Kec. Suru-suru",
+            "npsn": 60303739,
+            "sekolah": "SD PERSIAPAN NEGERI SURU-SURU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 13:20:56",
+            "sekolah_id_enkrip": "6EDDCB28B47021366BDD"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370408",
+            "kecamatan": "Kec. Suru-suru",
+            "npsn": 70032207,
+            "sekolah": "SD YPPGI YENUSUKU",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "25 Aug 2023 16:29:40",
+            "sekolah_id_enkrip": "A9C8C74D19D3003C0975"
+        }
+    ]
+}

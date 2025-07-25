@@ -1,0 +1,88 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380220",
+            "kecamatan": "Kec. Okhika",
+            "npsn": 70038042,
+            "sekolah": "TK NEGERI OKHIKA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "D14922C275B736989D62"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380220",
+            "kecamatan": "Kec. Okhika",
+            "npsn": 60300992,
+            "sekolah": "SD INPRES BAKONAIP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "09 Aug 2023 20:28:27",
+            "sekolah_id_enkrip": "7250C117D3C19BF4FEA0"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380220",
+            "kecamatan": "Kec. Okhika",
+            "npsn": 60300995,
+            "sekolah": "SD INPRES DOPDON",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "10 Aug 2023 19:15:35",
+            "sekolah_id_enkrip": "1A2E317C1716875B2BC3"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380220",
+            "kecamatan": "Kec. Okhika",
+            "npsn": 60300985,
+            "sekolah": "SD INPRES OKELWEL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Aug 2023 21:22:36",
+            "sekolah_id_enkrip": "6345AC23A6994E622010"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380220",
+            "kecamatan": "Kec. Okhika",
+            "npsn": 69991551,
+            "sekolah": "SD INPRES OKTENENG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Aug 2023 22:01:06",
+            "sekolah_id_enkrip": "79C42C8FB869C696BE1A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380220",
+            "kecamatan": "Kec. Okhika",
+            "npsn": 69726518,
+            "sekolah": "SMP NEGERI BAKONAIP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Aug 2023 09:30:42",
+            "sekolah_id_enkrip": "6172959B814468BC7950"
+        }
+    ]
+}

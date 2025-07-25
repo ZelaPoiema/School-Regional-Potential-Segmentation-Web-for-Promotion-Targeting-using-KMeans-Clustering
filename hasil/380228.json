@@ -1,0 +1,32 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380228",
+            "kecamatan": "Kec. Murkim",
+            "npsn": 70032357,
+            "sekolah": "KB GEMILANG BIAS",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Aug 2022 20:19:09",
+            "sekolah_id_enkrip": "0B1EA230CC9714E8BFB7"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380228",
+            "kecamatan": "Kec. Murkim",
+            "npsn": 69726191,
+            "sekolah": "SD INPRES BIAS",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "09 Aug 2023 19:52:28",
+            "sekolah_id_enkrip": "BC11EA2047C87E187199"
+        }
+    ]
+}

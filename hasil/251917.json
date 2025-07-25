@@ -1,0 +1,32 @@
+{
+    "251900": [
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "251900",
+            "kabupaten_kota": "Kab. Sarmi",
+            "kode_kec": "251917",
+            "kecamatan": "Kec. Sobey",
+            "npsn": 69960826,
+            "sekolah": "TK SUMSAR BAGAISERWAR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Dec 2023 17:19:05",
+            "sekolah_id_enkrip": "477750D3CF4703D3EFBD"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "251900",
+            "kabupaten_kota": "Kab. Sarmi",
+            "kode_kec": "251917",
+            "kecamatan": "Kec. Sobey",
+            "npsn": 69965942,
+            "sekolah": "SPS ELIM BAGAISERWAR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Oct 2023 08:27:50",
+            "sekolah_id_enkrip": "0AA43593EC4815B1F4C8"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "370200": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370208",
+            "kecamatan": "Kec. Iniyandit",
+            "npsn": 70036108,
+            "sekolah": "TK PAUD NEGERI GOROMBON",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Oct 2023 16:43:01",
+            "sekolah_id_enkrip": "B50FA8D4900F77BF49CE"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370208",
+            "kecamatan": "Kec. Iniyandit",
+            "npsn": 60302060,
+            "sekolah": "SD INPRES AUTRIOP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 19:22:58",
+            "sekolah_id_enkrip": "4B4C815F46D42A21FE16"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370208",
+            "kecamatan": "Kec. Iniyandit",
+            "npsn": 60302075,
+            "sekolah": "SD INPRES TETOP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 10:01:59",
+            "sekolah_id_enkrip": "286B500B1509438F0D87"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370208",
+            "kecamatan": "Kec. Iniyandit",
+            "npsn": 60302082,
+            "sekolah": "SD NEGERI EREMOP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 08:47:54",
+            "sekolah_id_enkrip": "44B62B559F627B8FA202"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370208",
+            "kecamatan": "Kec. Iniyandit",
+            "npsn": 60302124,
+            "sekolah": "SD YPPK OGENETAN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Feb 2024 20:07:29",
+            "sekolah_id_enkrip": "3F31654493EF6C319A25"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370208",
+            "kecamatan": "Kec. Iniyandit",
+            "npsn": 70029265,
+            "sekolah": "SMP NEGERI INIYANDIT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Sep 2023 20:07:51",
+            "sekolah_id_enkrip": "8A6054741D0068CB6CA3"
+        }
+    ]
+}

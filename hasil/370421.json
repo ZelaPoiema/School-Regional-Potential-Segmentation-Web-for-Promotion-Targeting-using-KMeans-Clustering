@@ -1,0 +1,60 @@
+{
+    "370400": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370421",
+            "kecamatan": "Kec. Aswi",
+            "npsn": 60303712,
+            "sekolah": "SD INPRES WIYAGAS",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Sep 2023 15:30:36",
+            "sekolah_id_enkrip": "E36D402BA6FF531E5084"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370421",
+            "kecamatan": "Kec. Aswi",
+            "npsn": 60304951,
+            "sekolah": "SD PERSIAPAN NEGERI BAGAIR 2",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Aug 2023 19:15:43",
+            "sekolah_id_enkrip": "809E58ED3D8B22A8089E"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370421",
+            "kecamatan": "Kec. Aswi",
+            "npsn": 60304988,
+            "sekolah": "SD PERSIAPAN NEGERI PIRAMAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 19:24:50",
+            "sekolah_id_enkrip": "0E0F91327CFD0FE3C99F"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370421",
+            "kecamatan": "Kec. Aswi",
+            "npsn": 69896430,
+            "sekolah": "SD Persiapan Negeri Tauro",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 11:54:54",
+            "sekolah_id_enkrip": "546F684AD33EAFD1F40B"
+        }
+    ]
+}

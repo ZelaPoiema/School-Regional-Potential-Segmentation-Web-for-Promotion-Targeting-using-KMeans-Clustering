@@ -1,0 +1,88 @@
+{
+    "360100": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360100",
+            "kabupaten_kota": "Kab. Nabire",
+            "kode_kec": "360108",
+            "kecamatan": "Kec. Teluk Umar",
+            "npsn": 60301781,
+            "sekolah": "SD Negeri Inpres Bawei",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "09 Oct 2023 02:35:40",
+            "sekolah_id_enkrip": "FCAE5587310F2FE78731"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360100",
+            "kabupaten_kota": "Kab. Nabire",
+            "kode_kec": "360108",
+            "kecamatan": "Kec. Teluk Umar",
+            "npsn": 60301806,
+            "sekolah": "SD Negeri Inpres Yeretuar",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Oct 2023 18:29:20",
+            "sekolah_id_enkrip": "FBD33AF6CD0CDBE9DC20"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360100",
+            "kabupaten_kota": "Kab. Nabire",
+            "kode_kec": "360108",
+            "kecamatan": "Kec. Teluk Umar",
+            "npsn": 60301818,
+            "sekolah": "SD YPK Inri Napan Yaur",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "12 Aug 2023 00:01:47",
+            "sekolah_id_enkrip": "922AF04B6576FC40B27E"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360100",
+            "kabupaten_kota": "Kab. Nabire",
+            "kode_kec": "360108",
+            "kecamatan": "Kec. Teluk Umar",
+            "npsn": 60301814,
+            "sekolah": "SD YPK Ottow Geisler Goni",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Sep 2023 16:39:53",
+            "sekolah_id_enkrip": "2A4BAC19365CF55616C8"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360100",
+            "kabupaten_kota": "Kab. Nabire",
+            "kode_kec": "360108",
+            "kecamatan": "Kec. Teluk Umar",
+            "npsn": 60301873,
+            "sekolah": "SMP Negeri 1 Teluk Umar",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 23:28:36",
+            "sekolah_id_enkrip": "B24FB999E218AE289BAD"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360100",
+            "kabupaten_kota": "Kab. Nabire",
+            "kode_kec": "360108",
+            "kecamatan": "Kec. Teluk Umar",
+            "npsn": "P9960055",
+            "sekolah": "PKBM Gihon",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Jan 2024 08:29:40",
+            "sekolah_id_enkrip": "430AEEF1270A673C20DE"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "320300": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320301",
+            "kecamatan": "Kec. Naikere",
+            "npsn": 60401963,
+            "sekolah": "SD INPRES KUKUYEDA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 15:49:03",
+            "sekolah_id_enkrip": "D124D872622596CEF017"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320301",
+            "kecamatan": "Kec. Naikere",
+            "npsn": 60728558,
+            "sekolah": "SD NEGERI NAIKERE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Jan 2024 19:35:39",
+            "sekolah_id_enkrip": "672FE247A67E6BA7C3E3"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320301",
+            "kecamatan": "Kec. Naikere",
+            "npsn": 69947037,
+            "sekolah": "SD NEGERI OYA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 19:15:18",
+            "sekolah_id_enkrip": "AFA5F1A5DCC840451A2F"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320301",
+            "kecamatan": "Kec. Naikere",
+            "npsn": 69965731,
+            "sekolah": "SD Negeri Undurara",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Jan 2024 10:43:49",
+            "sekolah_id_enkrip": "85886D56D1FBC006B5DF"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320301",
+            "kecamatan": "Kec. Naikere",
+            "npsn": 70031690,
+            "sekolah": "SD NEGERI YABORE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Jan 2024 11:27:22",
+            "sekolah_id_enkrip": "6E1984332D10692B54D0"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320301",
+            "kecamatan": "Kec. Naikere",
+            "npsn": 69989678,
+            "sekolah": "SDN SARARTI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 18:42:21",
+            "sekolah_id_enkrip": "63F29DDD40441EE38E89"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320301",
+            "kecamatan": "Kec. Naikere",
+            "npsn": 69989677,
+            "sekolah": "SMPN NAIKERE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 02:10:35",
+            "sekolah_id_enkrip": "636A54F78958508D20A7"
+        }
+    ]
+}

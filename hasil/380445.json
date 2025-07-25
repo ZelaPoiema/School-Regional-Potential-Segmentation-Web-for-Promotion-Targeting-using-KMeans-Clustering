@@ -1,0 +1,46 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380445",
+            "kecamatan": "Kec. Biuk",
+            "npsn": 60302210,
+            "sekolah": "SD INPRES GUBURINI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Jan 2024 01:10:14",
+            "sekolah_id_enkrip": "1F51480BFD423041DDF5"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380445",
+            "kecamatan": "Kec. Biuk",
+            "npsn": 60302255,
+            "sekolah": "SD NEGERI NELAWI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Nov 2023 09:38:09",
+            "sekolah_id_enkrip": "7F09BA6406183765D307"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380445",
+            "kecamatan": "Kec. Biuk",
+            "npsn": 69974565,
+            "sekolah": "SD NEGERI YILUK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 08:57:00",
+            "sekolah_id_enkrip": "029BDECBE896087ABD1C"
+        }
+    ]
+}

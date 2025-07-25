@@ -1,0 +1,102 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380323",
+            "kecamatan": "Kec. Ubahak",
+            "npsn": 60303378,
+            "sekolah": "SD INPRES PINIPINTOK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Jan 2024 14:16:45",
+            "sekolah_id_enkrip": "C4867D89FB187176DE6F"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380323",
+            "kecamatan": "Kec. Ubahak",
+            "npsn": 60303379,
+            "sekolah": "SD INPRES SANGGALPUNU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Jan 2024 14:07:27",
+            "sekolah_id_enkrip": "5294F90ABEF735B7D78B"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380323",
+            "kecamatan": "Kec. Ubahak",
+            "npsn": 70040498,
+            "sekolah": "SD NEGERI NISIKNI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Jan 2024 15:53:33",
+            "sekolah_id_enkrip": "6BC82F2B6861E8E86165"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380323",
+            "kecamatan": "Kec. Ubahak",
+            "npsn": 69831609,
+            "sekolah": "SD YAPESLI URUNGE",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Aug 2023 00:28:58",
+            "sekolah_id_enkrip": "2FC91F3CDBD26F534240"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380323",
+            "kecamatan": "Kec. Ubahak",
+            "npsn": 60303295,
+            "sekolah": "SD YPK WALLEY",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Dec 2023 10:12:03",
+            "sekolah_id_enkrip": "45AD37402134C0C0AD2A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380323",
+            "kecamatan": "Kec. Ubahak",
+            "npsn": 60303545,
+            "sekolah": "SMPN UBAHAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Jan 2024 14:52:46",
+            "sekolah_id_enkrip": "62A48EEAB9DE049465AD"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380323",
+            "kecamatan": "Kec. Ubahak",
+            "npsn": 70043843,
+            "sekolah": "SMP YAPESLI SESOM",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "80BEB4B4506624984378"
+        }
+    ]
+}

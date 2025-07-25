@@ -1,0 +1,60 @@
+{
+    "350500": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350500",
+            "kabupaten_kota": "Myanmar",
+            "kode_kec": "350501",
+            "kecamatan": "Yangon",
+            "npsn": 69972622,
+            "sekolah": "TK SEKOLAH INDONESIA YANGON",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "1429957401669CDE310E"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350500",
+            "kabupaten_kota": "Myanmar",
+            "kode_kec": "350501",
+            "kecamatan": "Yangon",
+            "npsn": 90101029,
+            "sekolah": "SEKOLAH SI YANGON TINGKAT SD",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 10:42:09",
+            "sekolah_id_enkrip": "A03CAB4A8501E7119D73"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350500",
+            "kabupaten_kota": "Myanmar",
+            "kode_kec": "350501",
+            "kecamatan": "Yangon",
+            "npsn": 90101030,
+            "sekolah": "SEKOLAH SI YANGON TINGKAT SMP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 10:56:10",
+            "sekolah_id_enkrip": "0AD2C8B900F4439990E0"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350500",
+            "kabupaten_kota": "Myanmar",
+            "kode_kec": "350501",
+            "kecamatan": "Yangon",
+            "npsn": 90101031,
+            "sekolah": "SEKOLAH SI YANGON TINGKAT SMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 10:27:35",
+            "sekolah_id_enkrip": "286DC9EC67B680BEA899"
+        }
+    ]
+}

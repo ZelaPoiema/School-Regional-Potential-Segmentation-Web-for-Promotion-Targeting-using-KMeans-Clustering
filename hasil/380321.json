@@ -1,0 +1,102 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380321",
+            "kecamatan": "Kec. Kosarek",
+            "npsn": 70033169,
+            "sekolah": "TK Wana Walinge",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "40FECE528609B80AE5D0"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380321",
+            "kecamatan": "Kec. Kosarek",
+            "npsn": 60303374,
+            "sekolah": "SD INPRES KOSAREK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Dec 2023 06:14:50",
+            "sekolah_id_enkrip": "5CC4F232E80CAB696DC7"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380321",
+            "kecamatan": "Kec. Kosarek",
+            "npsn": 69831608,
+            "sekolah": "SD YAPESLI MINE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Aug 2023 00:39:50",
+            "sekolah_id_enkrip": "BF10AEB75045499FCC64"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380321",
+            "kecamatan": "Kec. Kosarek",
+            "npsn": 69831610,
+            "sekolah": "SD YAPESLI WENPUT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Aug 2023 01:12:38",
+            "sekolah_id_enkrip": "9AEADB393AE180A2B432"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380321",
+            "kecamatan": "Kec. Kosarek",
+            "npsn": 70032686,
+            "sekolah": "SD WANA WALINGE",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Dec 2023 22:20:38",
+            "sekolah_id_enkrip": "D0F21C86C55BFA767747"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380321",
+            "kecamatan": "Kec. Kosarek",
+            "npsn": 69726479,
+            "sekolah": "SMPN KOSAREK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "08 Dec 2023 22:25:23",
+            "sekolah_id_enkrip": "0B26DA4141E2D007DD0D"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380321",
+            "kecamatan": "Kec. Kosarek",
+            "npsn": "P9998470",
+            "sekolah": "PKBM WANA WALINGE",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Nov 2023 23:39:48",
+            "sekolah_id_enkrip": "2D6B5839D51387EAF26F"
+        }
+    ]
+}

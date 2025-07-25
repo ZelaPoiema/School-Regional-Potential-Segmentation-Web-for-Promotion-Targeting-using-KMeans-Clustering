@@ -1,0 +1,46 @@
+{
+    "390100": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390120",
+            "kecamatan": "Kec. Ayamaru Tengah",
+            "npsn": 70008865,
+            "sekolah": "TK GECEMANI FIANE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Nov 2023 08:33:30",
+            "sekolah_id_enkrip": "5E89207C1D9744FCD645"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390120",
+            "kecamatan": "Kec. Ayamaru Tengah",
+            "npsn": 70005522,
+            "sekolah": "SD NEGERI BAWY",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Jan 2024 23:03:09",
+            "sekolah_id_enkrip": "790455284E448254DBB3"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390120",
+            "kecamatan": "Kec. Ayamaru Tengah",
+            "npsn": 60401706,
+            "sekolah": "SD YPK MARANATHA KARTAPURA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Feb 2024 08:08:22",
+            "sekolah_id_enkrip": "EEF56B3DC8066DE4CB02"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380407",
+            "kecamatan": "Kec. Wina",
+            "npsn": 60302238,
+            "sekolah": "SD INPRES YOGWEME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Oct 2023 10:25:10",
+            "sekolah_id_enkrip": "C9BC29ADEF020DF0E856"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380407",
+            "kecamatan": "Kec. Wina",
+            "npsn": 60303896,
+            "sekolah": "SD NEGERI WINA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Jan 2024 10:02:15",
+            "sekolah_id_enkrip": "4FCD9F19529AA46EDAB8"
+        }
+    ]
+}

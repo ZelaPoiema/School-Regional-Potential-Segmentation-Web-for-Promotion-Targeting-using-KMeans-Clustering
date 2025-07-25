@@ -1,0 +1,102 @@
+{
+    "390200": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390209",
+            "kecamatan": "Kec. Teluk Mayalibit",
+            "npsn": 69923160,
+            "sekolah": "PAUD. SION",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Jan 2024 13:41:32",
+            "sekolah_id_enkrip": "15045E3543E0201B7D4E"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390209",
+            "kecamatan": "Kec. Teluk Mayalibit",
+            "npsn": 60403855,
+            "sekolah": "SD NEGERI 30 MUMES",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 17:54:19",
+            "sekolah_id_enkrip": "24C829BD78A1D7AC08A8"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390209",
+            "kecamatan": "Kec. Teluk Mayalibit",
+            "npsn": 69963196,
+            "sekolah": "SD NEGERI 43 WARENGKRIS",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 21:16:39",
+            "sekolah_id_enkrip": "EC6FF26093B55D4FF1B1"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390209",
+            "kecamatan": "Kec. Teluk Mayalibit",
+            "npsn": 60401817,
+            "sekolah": "SD YAPIS LOPINTOL",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Jan 2024 13:06:38",
+            "sekolah_id_enkrip": "61DDC8FD894955BE84B6"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390209",
+            "kecamatan": "Kec. Teluk Mayalibit",
+            "npsn": 60401840,
+            "sekolah": "SD YPK EBENHEIZER SELEGOF",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Sep 2023 06:47:26",
+            "sekolah_id_enkrip": "EDF0B2BB797C615443A6"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390209",
+            "kecamatan": "Kec. Teluk Mayalibit",
+            "npsn": 60401844,
+            "sekolah": "SD YPK SION WARSAMBIN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "03 Feb 2024 05:02:47",
+            "sekolah_id_enkrip": "F2802F5FB7E7556C90EB"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390209",
+            "kecamatan": "Kec. Teluk Mayalibit",
+            "npsn": 60401863,
+            "sekolah": "SMP NEGERI 12 RAJA AMPAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 20:29:34",
+            "sekolah_id_enkrip": "0C5743BC1172CA0978F5"
+        }
+    ]
+}

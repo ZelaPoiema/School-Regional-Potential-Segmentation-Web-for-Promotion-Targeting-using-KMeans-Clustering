@@ -1,0 +1,60 @@
+{
+    "370400": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370414",
+            "kecamatan": "Kec. Der Koumur",
+            "npsn": 60303771,
+            "sekolah": "SD INPRES KUMURAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 07:13:52",
+            "sekolah_id_enkrip": "0DC39C7511684B33F0C9"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370414",
+            "kecamatan": "Kec. Der Koumur",
+            "npsn": 60303782,
+            "sekolah": "SD INPRES YANKAP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 16:12:13",
+            "sekolah_id_enkrip": "041D91BC4D48AF6C6FFA"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370414",
+            "kecamatan": "Kec. Der Koumur",
+            "npsn": 70032564,
+            "sekolah": "SD PERSIAPAN NEGERI AMKAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 10:37:49",
+            "sekolah_id_enkrip": "366C6027A61C5720C1A4"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370414",
+            "kecamatan": "Kec. Der Koumur",
+            "npsn": 70042476,
+            "sekolah": "SMP PERSIAPAN NEGERI DER KOUMUR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Jan 2024 14:41:46",
+            "sekolah_id_enkrip": "111BFA9186024EE49A9A"
+        }
+    ]
+}

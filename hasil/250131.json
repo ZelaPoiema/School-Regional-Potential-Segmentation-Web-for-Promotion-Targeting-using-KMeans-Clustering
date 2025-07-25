@@ -1,0 +1,102 @@
+{
+    "250100": [
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250131",
+            "kecamatan": "Kec. Ravenirara",
+            "npsn": 69910032,
+            "sekolah": "KNAMBENG",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Aug 2023 04:55:44",
+            "sekolah_id_enkrip": "432B7221FE8DF22F3D39"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250131",
+            "kecamatan": "Kec. Ravenirara",
+            "npsn": 69887194,
+            "sekolah": "Wari",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "9BCBCC28F640CF27E802"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250131",
+            "kecamatan": "Kec. Ravenirara",
+            "npsn": 60300114,
+            "sekolah": "SD NEGERI YONGSU KECIL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Sep 2023 08:14:16",
+            "sekolah_id_enkrip": "02B32C3E6794064184C8"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250131",
+            "kecamatan": "Kec. Ravenirara",
+            "npsn": 60300110,
+            "sekolah": "SDN ORMU KECIL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Jan 2024 06:34:49",
+            "sekolah_id_enkrip": "EA92C778176AE89C969D"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250131",
+            "kecamatan": "Kec. Ravenirara",
+            "npsn": 60300209,
+            "sekolah": "SD YPK ORMU WARI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "15 Jan 2024 20:34:11",
+            "sekolah_id_enkrip": "41629CFEA1632DF40F28"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250131",
+            "kecamatan": "Kec. Ravenirara",
+            "npsn": 60300260,
+            "sekolah": "SD YPK YONGSU SPARI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Nov 2023 07:45:01",
+            "sekolah_id_enkrip": "33D23E8A033CE1952797"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250100",
+            "kabupaten_kota": "Kab. Jayapura",
+            "kode_kec": "250131",
+            "kecamatan": "Kec. Ravenirara",
+            "npsn": 70042327,
+            "sekolah": "SMP SATU ATAP RAVENI RARA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 15:06:35",
+            "sekolah_id_enkrip": "51C749B2066ACD6392FD"
+        }
+    ]
+}

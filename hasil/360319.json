@@ -1,0 +1,32 @@
+{
+    "360300": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360319",
+            "kecamatan": "Kec. Baya Biru",
+            "npsn": 70042672,
+            "sekolah": "TK EFATA MATADI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "A970B46F4360A31BEE8D"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360319",
+            "kecamatan": "Kec. Baya Biru",
+            "npsn": 69918919,
+            "sekolah": "SD NEGERI BAYABIRU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Oct 2023 14:37:01",
+            "sekolah_id_enkrip": "0941761918C1174F9A86"
+        }
+    ]
+}

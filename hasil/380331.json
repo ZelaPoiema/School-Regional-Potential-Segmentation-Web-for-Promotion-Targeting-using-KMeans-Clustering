@@ -1,0 +1,32 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380331",
+            "kecamatan": "Kec. Endomen",
+            "npsn": 60303272,
+            "sekolah": "SD INPRES ENDOMEN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Jan 2024 14:55:59",
+            "sekolah_id_enkrip": "89E5D13A40D43422CE55"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380331",
+            "kecamatan": "Kec. Endomen",
+            "npsn": 69924830,
+            "sekolah": "SD NEGERI OKLOMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 14:26:18",
+            "sekolah_id_enkrip": "DD62AF90986982C28630"
+        }
+    ]
+}

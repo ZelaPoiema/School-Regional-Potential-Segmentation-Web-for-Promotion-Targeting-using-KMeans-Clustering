@@ -1,0 +1,102 @@
+{
+    "390100": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390108",
+            "kecamatan": "Kec. Ayamaru",
+            "npsn": 69970503,
+            "sekolah": "TK-PAUD YERUSSALEM AYAMARU",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "25 Jan 2024 09:16:15",
+            "sekolah_id_enkrip": "3E9D4841509097C8ACFB"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390108",
+            "kecamatan": "Kec. Ayamaru",
+            "npsn": 69981815,
+            "sekolah": "TK-PAUD YPK LAHAI-ROI MEFKAJIM",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "11 Nov 2023 15:29:23",
+            "sekolah_id_enkrip": "2F3A02FD3274A353F21E"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390108",
+            "kecamatan": "Kec. Ayamaru",
+            "npsn": 60401657,
+            "sekolah": "SD INPRES 14 AYAMARU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 10:51:16",
+            "sekolah_id_enkrip": "C911B66B844C5C77D68A"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390108",
+            "kecamatan": "Kec. Ayamaru",
+            "npsn": 60401659,
+            "sekolah": "SD INPRES 142 FIANE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Jan 2024 00:10:52",
+            "sekolah_id_enkrip": "76472C5B404E7D856AB3"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390108",
+            "kecamatan": "Kec. Ayamaru",
+            "npsn": 69899730,
+            "sekolah": "SD YPK LAHAI ROI MEFKAJIM",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Feb 2024 10:59:35",
+            "sekolah_id_enkrip": "824E35FE1968EA1037B3"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390108",
+            "kecamatan": "Kec. Ayamaru",
+            "npsn": 60401762,
+            "sekolah": "SMP NEGERI 1 AYAMARU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Dec 2023 21:44:59",
+            "sekolah_id_enkrip": "0812892F9C085A45AFCC"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390108",
+            "kecamatan": "Kec. Ayamaru",
+            "npsn": 60401774,
+            "sekolah": "SMA NEGERI 1 AYAMARU",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 12:25:40",
+            "sekolah_id_enkrip": "A23E53EDF4736AAA5C78"
+        }
+    ]
+}

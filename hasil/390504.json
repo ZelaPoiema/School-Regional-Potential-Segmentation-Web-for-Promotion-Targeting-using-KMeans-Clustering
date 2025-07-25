@@ -1,0 +1,60 @@
+{
+    "390500": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390504",
+            "kecamatan": "Kec. Kwoor",
+            "npsn": 70004374,
+            "sekolah": "PAUD Bainos Kwoor",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Jan 2024 14:45:11",
+            "sekolah_id_enkrip": "E00D1CFFE9F52B908FB5"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390504",
+            "kecamatan": "Kec. Kwoor",
+            "npsn": 69728597,
+            "sekolah": "SD INPRES 83 HOPMARE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 14:58:38",
+            "sekolah_id_enkrip": "F5F33A23B9A3B6872FA8"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390504",
+            "kecamatan": "Kec. Kwoor",
+            "npsn": 60401313,
+            "sekolah": "SD YPK EFATA KWOOR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 09:15:46",
+            "sekolah_id_enkrip": "F021858301836574397B"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390504",
+            "kecamatan": "Kec. Kwoor",
+            "npsn": 69888672,
+            "sekolah": "SMP NEGERI KWOOR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 04:28:25",
+            "sekolah_id_enkrip": "D27C11039481AB2FD010"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "360300": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360304",
+            "kecamatan": "Kec. Bogabaida",
+            "npsn": 70015623,
+            "sekolah": "TK NEGERI BOGOBAIDA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "8B48683156BE80634D47"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360304",
+            "kecamatan": "Kec. Bogabaida",
+            "npsn": 60302288,
+            "sekolah": "SD INPRES BOGOBAIDA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Sep 2023 16:31:47",
+            "sekolah_id_enkrip": "F95EA048C2B978E4CF18"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360304",
+            "kecamatan": "Kec. Bogabaida",
+            "npsn": 60302375,
+            "sekolah": "SD YPPGI NAWIPAUWO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "09 Oct 2023 09:45:29",
+            "sekolah_id_enkrip": "6EF2C26702AEBDD7ADB2"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360304",
+            "kecamatan": "Kec. Bogabaida",
+            "npsn": 60302418,
+            "sekolah": "SD YPPK TIGIMUYA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "28 Jan 2024 04:55:56",
+            "sekolah_id_enkrip": "00A995E3B305749BBFE2"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360304",
+            "kecamatan": "Kec. Bogabaida",
+            "npsn": "P2967438",
+            "sekolah": "PKBM Piyaiye",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Oct 2023 09:37:39",
+            "sekolah_id_enkrip": "04B89865B76438AE5479"
+        }
+    ]
+}

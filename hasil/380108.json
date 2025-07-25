@@ -1,0 +1,74 @@
+{
+    "380100": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380108",
+            "kecamatan": "Kec. Wolo",
+            "npsn": 69950827,
+            "sekolah": "TK HOSANNA SAID WOLLO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Aug 2023 23:17:53",
+            "sekolah_id_enkrip": "280B75F2818B16A09931"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380108",
+            "kecamatan": "Kec. Wolo",
+            "npsn": 60301479,
+            "sekolah": "SD NEGERI WOLO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Nov 2023 04:32:28",
+            "sekolah_id_enkrip": "6B8AE4520AE9123BF724"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380108",
+            "kecamatan": "Kec. Wolo",
+            "npsn": 60302989,
+            "sekolah": "SMP NEGERI WOLO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Jan 2024 23:32:15",
+            "sekolah_id_enkrip": "73073BCB0746EF9AFEAD"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380108",
+            "kecamatan": "Kec. Wolo",
+            "npsn": "P9998182",
+            "sekolah": "PKBM HOSANA WOLLO",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Aug 2023 23:55:13",
+            "sekolah_id_enkrip": "FB81813046BEA6BBF83C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380108",
+            "kecamatan": "Kec. Wolo",
+            "npsn": "P9934381",
+            "sekolah": "PKBM WOLLO",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "17 Aug 2023 06:17:51",
+            "sekolah_id_enkrip": "620AF477446DA23E81B1"
+        }
+    ]
+}

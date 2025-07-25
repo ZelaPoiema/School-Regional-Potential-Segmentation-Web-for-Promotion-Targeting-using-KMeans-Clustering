@@ -1,0 +1,60 @@
+{
+    "350200": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350200",
+            "kabupaten_kota": "Japan",
+            "kode_kec": "350201",
+            "kecamatan": "Tokyo",
+            "npsn": 90101023,
+            "sekolah": "Sekolah SI Tokyo Tingkat SD",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 14:38:03",
+            "sekolah_id_enkrip": "5BC50FF2B12FEAF22B79"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350200",
+            "kabupaten_kota": "Japan",
+            "kode_kec": "350201",
+            "kecamatan": "Tokyo",
+            "npsn": 90101024,
+            "sekolah": "Sekolah SI Tokyo Tingkat SMP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Jan 2024 12:56:31",
+            "sekolah_id_enkrip": "E3071DDCF492B7BB0F51"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350200",
+            "kabupaten_kota": "Japan",
+            "kode_kec": "350201",
+            "kecamatan": "Tokyo",
+            "npsn": 90101025,
+            "sekolah": "Sekolah SI Tokyo Tingkat SMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 11:43:28",
+            "sekolah_id_enkrip": "E665F83074133A4716FE"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350200",
+            "kabupaten_kota": "Japan",
+            "kode_kec": "350201",
+            "kecamatan": "Tokyo",
+            "npsn": "P9997325",
+            "sekolah": "PKBM NISHIO DARUSSALAM",
+            "bentuk": "PKBM",
+            "status": "Negeri",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "4C8832392096AB709E3A"
+        }
+    ]
+}

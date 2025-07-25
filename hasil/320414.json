@@ -1,0 +1,60 @@
+{
+    "320400": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320414",
+            "kecamatan": "Kec. Kamundan",
+            "npsn": 70002970,
+            "sekolah": "TK PGRI 2 KAMUNDAN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "15 Jun 2023 19:05:18",
+            "sekolah_id_enkrip": "DD7A60D9A4CB126766E4"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320414",
+            "kecamatan": "Kec. Kamundan",
+            "npsn": 60401940,
+            "sekolah": "SD NEGERI KALITAMI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 19:55:44",
+            "sekolah_id_enkrip": "1013E0FF4490A7A8725F"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320414",
+            "kecamatan": "Kec. Kamundan",
+            "npsn": 60403655,
+            "sekolah": "SMP SATU ATAP KALITAMI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 06:48:48",
+            "sekolah_id_enkrip": "A712FDF2E57AE0EFEEF8"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320414",
+            "kecamatan": "Kec. Kamundan",
+            "npsn": 69879194,
+            "sekolah": "SMA NEGERI KAMUNDAN",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Jan 2024 12:23:39",
+            "sekolah_id_enkrip": "001A03607C843DC6CE50"
+        }
+    ]
+}

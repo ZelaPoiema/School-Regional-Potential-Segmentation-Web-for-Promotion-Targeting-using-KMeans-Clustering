@@ -1,0 +1,32 @@
+{
+    "360500": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360518",
+            "kecamatan": "Kec. Ilaga Utara",
+            "npsn": 60301944,
+            "sekolah": "SD INPRES MAYUBERI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Dec 2023 11:36:28",
+            "sekolah_id_enkrip": "3CB246A0751921EF2207"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360518",
+            "kecamatan": "Kec. Ilaga Utara",
+            "npsn": 69960617,
+            "sekolah": "SD Negeri Paluga",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 18:54:56",
+            "sekolah_id_enkrip": "55CE03706CB1A1663095"
+        }
+    ]
+}

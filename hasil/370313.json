@@ -1,0 +1,88 @@
+{
+    "370300": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370300",
+            "kabupaten_kota": "Kab. Mappi",
+            "kode_kec": "370313",
+            "kecamatan": "Kec. Bamgi",
+            "npsn": 70028749,
+            "sekolah": "KB YIMU YELOBA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 19:22:03",
+            "sekolah_id_enkrip": "067DB37E894FA2CBC021"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370300",
+            "kabupaten_kota": "Kab. Mappi",
+            "kode_kec": "370313",
+            "kecamatan": "Kec. Bamgi",
+            "npsn": 60303174,
+            "sekolah": "SD NEGERI SINO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 06:48:19",
+            "sekolah_id_enkrip": "B4AE3A7D6B7A9AEF80BC"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370300",
+            "kabupaten_kota": "Kab. Mappi",
+            "kode_kec": "370313",
+            "kecamatan": "Kec. Bamgi",
+            "npsn": 60303201,
+            "sekolah": "SD YPPK KONEBI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "24 Nov 2023 12:56:55",
+            "sekolah_id_enkrip": "FCC67E76BA4B7CB68369"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370300",
+            "kabupaten_kota": "Kab. Mappi",
+            "kode_kec": "370313",
+            "kecamatan": "Kec. Bamgi",
+            "npsn": 60303225,
+            "sekolah": "SD YPPK ST PETRUS SIBI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "21 Oct 2023 17:44:10",
+            "sekolah_id_enkrip": "0DB52649332D68F5B6B6"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370300",
+            "kabupaten_kota": "Kab. Mappi",
+            "kode_kec": "370313",
+            "kecamatan": "Kec. Bamgi",
+            "npsn": 60303229,
+            "sekolah": "SD YPPK ST.THERESIA TAGAIMON",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "03 Feb 2024 19:41:40",
+            "sekolah_id_enkrip": "FED91A0AFC725E59EA28"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370300",
+            "kabupaten_kota": "Kab. Mappi",
+            "kode_kec": "370313",
+            "kecamatan": "Kec. Bamgi",
+            "npsn": 60303242,
+            "sekolah": "SD YPPK YELOBA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Jan 2024 12:32:24",
+            "sekolah_id_enkrip": "30D4762A70F4BE81CF6F"
+        }
+    ]
+}

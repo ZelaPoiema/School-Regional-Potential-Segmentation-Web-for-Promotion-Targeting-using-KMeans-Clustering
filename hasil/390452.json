@@ -1,0 +1,46 @@
+{
+    "390400": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390452",
+            "kecamatan": "Kec. Hobard",
+            "npsn": 60401325,
+            "sekolah": "SD NEGERI 8 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Dec 2023 19:38:44",
+            "sekolah_id_enkrip": "ED930A2181A8D6EFBDCA"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390452",
+            "kecamatan": "Kec. Hobard",
+            "npsn": 70035490,
+            "sekolah": "SMP Negeri 31 Kabupaten Sorong",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Jan 2024 16:17:23",
+            "sekolah_id_enkrip": "6DE0DD9E2AD4CC1B3040"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390452",
+            "kecamatan": "Kec. Hobard",
+            "npsn": "P9984827",
+            "sekolah": "PKBM SINAR PAGI",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Aug 2023 23:09:19",
+            "sekolah_id_enkrip": "E8A02D850C2125394D4A"
+        }
+    ]
+}

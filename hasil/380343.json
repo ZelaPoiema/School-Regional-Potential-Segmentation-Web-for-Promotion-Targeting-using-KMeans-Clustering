@@ -1,0 +1,88 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380343",
+            "kecamatan": "Kec. Sobaham",
+            "npsn": 69831593,
+            "sekolah": "SD NEGERI BALINGGAMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 15:36:43",
+            "sekolah_id_enkrip": "28932C0AA4EF1C0FFC98"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380343",
+            "kecamatan": "Kec. Sobaham",
+            "npsn": 69831601,
+            "sekolah": "SD NEGERI SEHOL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 15:27:33",
+            "sekolah_id_enkrip": "40E76D80EE64FC566604"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380343",
+            "kecamatan": "Kec. Sobaham",
+            "npsn": 69831603,
+            "sekolah": "SD NEGERI SOBAHAM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Dec 2023 10:58:34",
+            "sekolah_id_enkrip": "1924EFEFD1EDF451DC17"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380343",
+            "kecamatan": "Kec. Sobaham",
+            "npsn": 69924501,
+            "sekolah": "SD KRISTEN ANUGRAH SOBAHAM YAHUKIMO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "21 Dec 2023 12:43:41",
+            "sekolah_id_enkrip": "12F94958D287D8357EA0"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380343",
+            "kecamatan": "Kec. Sobaham",
+            "npsn": 69924468,
+            "sekolah": "SMP KRISTEN SOBAHAM YAHUKIMO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "21 Oct 2023 19:27:42",
+            "sekolah_id_enkrip": "A5F3736F198221216278"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380343",
+            "kecamatan": "Kec. Sobaham",
+            "npsn": "P9970142",
+            "sekolah": "PKBM Sobaham",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "27 Sep 2023 11:14:18",
+            "sekolah_id_enkrip": "77DEBFCCB18E5DD677A3"
+        }
+    ]
+}

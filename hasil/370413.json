@@ -1,0 +1,74 @@
+{
+    "370400": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370413",
+            "kecamatan": "Kec. Jetsy",
+            "npsn": 70011548,
+            "sekolah": "TK PERSIAPAN NEGERI JETSY",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Jan 2024 20:46:45",
+            "sekolah_id_enkrip": "16FC92BEFFD1B87DE9FC"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370413",
+            "kecamatan": "Kec. Jetsy",
+            "npsn": 60303745,
+            "sekolah": "SD INPRES MANEP SIMINI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Dec 2023 03:41:11",
+            "sekolah_id_enkrip": "175AD3B736264ED0B19C"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370413",
+            "kecamatan": "Kec. Jetsy",
+            "npsn": 60303635,
+            "sekolah": "SD NEGERI PAU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 08:06:17",
+            "sekolah_id_enkrip": "236FE63918F19709F86F"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370413",
+            "kecamatan": "Kec. Jetsy",
+            "npsn": 60303641,
+            "sekolah": "SD YPPK AMBOREB",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Feb 2024 12:38:58",
+            "sekolah_id_enkrip": "B8D05F748C699F1BF049"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370413",
+            "kecamatan": "Kec. Jetsy",
+            "npsn": 60303645,
+            "sekolah": "SD YPPK WARSE",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "04 Feb 2024 19:12:54",
+            "sekolah_id_enkrip": "F4CA55A4CD963C15EAE3"
+        }
+    ]
+}

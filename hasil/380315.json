@@ -1,0 +1,88 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380315",
+            "kecamatan": "Kec. Mugi",
+            "npsn": 60303303,
+            "sekolah": "SD INPRES HITUGI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 11:52:59",
+            "sekolah_id_enkrip": "3DA2371112E88E1C86B8"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380315",
+            "kecamatan": "Kec. Mugi",
+            "npsn": 60303308,
+            "sekolah": "SD INPRES SEIMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Dec 2023 20:54:49",
+            "sekolah_id_enkrip": "8553402B3A1B2AC1AEED"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380315",
+            "kecamatan": "Kec. Mugi",
+            "npsn": 69725945,
+            "sekolah": "SD INPRES WUSEREM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Dec 2023 19:28:32",
+            "sekolah_id_enkrip": "40EEE279698C1BAA0105"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380315",
+            "kecamatan": "Kec. Mugi",
+            "npsn": 60303288,
+            "sekolah": "SDN MUGI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jul 2023 09:13:06",
+            "sekolah_id_enkrip": "38E3AB957AD337787FE7"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380315",
+            "kecamatan": "Kec. Mugi",
+            "npsn": 60303321,
+            "sekolah": "SD YPK SYOKOIMO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Feb 2024 13:25:36",
+            "sekolah_id_enkrip": "C89E889B51E2823CBEFA"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380315",
+            "kecamatan": "Kec. Mugi",
+            "npsn": 60303544,
+            "sekolah": "SMPN MUGI HITUGI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 01:11:47",
+            "sekolah_id_enkrip": "B23AA3216B52F1B310B7"
+        }
+    ]
+}

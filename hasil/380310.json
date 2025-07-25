@@ -1,0 +1,32 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380310",
+            "kecamatan": "Kec. Wusama",
+            "npsn": 60303387,
+            "sekolah": "SD NEGERI WUSAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Dec 2023 21:10:58",
+            "sekolah_id_enkrip": "8E7138E06BF1A1482D9E"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380310",
+            "kecamatan": "Kec. Wusama",
+            "npsn": 60303539,
+            "sekolah": "SDN WUSAMU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Jan 2024 02:37:18",
+            "sekolah_id_enkrip": "A398751035CAB11C6D55"
+        }
+    ]
+}

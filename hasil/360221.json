@@ -1,0 +1,60 @@
+{
+    "360200": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360221",
+            "kecamatan": "Kec. Waegi",
+            "npsn": 60301919,
+            "sekolah": "SD INPRES AMBIT-MBIT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Jan 2024 22:46:59",
+            "sekolah_id_enkrip": "F9196269840C0D2DD9DE"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360221",
+            "kecamatan": "Kec. Waegi",
+            "npsn": 70032698,
+            "sekolah": "SD NEGERI PAGARGOM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 14:21:18",
+            "sekolah_id_enkrip": "873DF17684DC7BDF37C5"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360221",
+            "kecamatan": "Kec. Waegi",
+            "npsn": 70032187,
+            "sekolah": "SD NEGERI WURUNIGIME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 07:00:44",
+            "sekolah_id_enkrip": "00670708CE46F250E91A"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360221",
+            "kecamatan": "Kec. Waegi",
+            "npsn": 69861166,
+            "sekolah": "SMA Negeri Ilu",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Jan 2024 09:30:23",
+            "sekolah_id_enkrip": "4E95C762CC0C2E7EC0C0"
+        }
+    ]
+}

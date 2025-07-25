@@ -1,0 +1,74 @@
+{
+    "390100": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390122",
+            "kecamatan": "Kec. Aitinyo Tengah",
+            "npsn": 70012690,
+            "sekolah": "SD NEGERI KASAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Dec 2023 12:21:26",
+            "sekolah_id_enkrip": "02E3EF10EBD3CF370EFA"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390122",
+            "kecamatan": "Kec. Aitinyo Tengah",
+            "npsn": 60401696,
+            "sekolah": "SD YPK EWAY",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 12:06:31",
+            "sekolah_id_enkrip": "35B99DD93AA99BC672FC"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390122",
+            "kecamatan": "Kec. Aitinyo Tengah",
+            "npsn": 60403818,
+            "sekolah": "SD YPK PERSIAPAN EROKWERO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "14 Jan 2024 17:19:59",
+            "sekolah_id_enkrip": "347FDBA5F8FCAC67E0E7"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390122",
+            "kecamatan": "Kec. Aitinyo Tengah",
+            "npsn": 60403819,
+            "sekolah": "SD YPK PERSIAPAN SABUN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "04 Feb 2024 10:17:56",
+            "sekolah_id_enkrip": "AC07F778FC31B878628E"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390122",
+            "kecamatan": "Kec. Aitinyo Tengah",
+            "npsn": 60403826,
+            "sekolah": "SMP NEGERI 1 AITINYO TENGAH",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Jan 2024 01:25:33",
+            "sekolah_id_enkrip": "6ECCA1ABBC7B7C902006"
+        }
+    ]
+}

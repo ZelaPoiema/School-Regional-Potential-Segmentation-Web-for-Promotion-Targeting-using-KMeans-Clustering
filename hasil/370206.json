@@ -1,0 +1,102 @@
+{
+    "370200": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370206",
+            "kecamatan": "Kec. Bomakia",
+            "npsn": 60302057,
+            "sekolah": "SD INPRES AIFO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Dec 2023 21:02:10",
+            "sekolah_id_enkrip": "4B39DEF1F7FDA8698787"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370206",
+            "kecamatan": "Kec. Bomakia",
+            "npsn": 60302076,
+            "sekolah": "SD INPRES UNI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 05:47:50",
+            "sekolah_id_enkrip": "0A50C04E280772D65C0A"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370206",
+            "kecamatan": "Kec. Bomakia",
+            "npsn": 69946408,
+            "sekolah": "SD NEGERI PERSIAPAN SOMI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Nov 2022 21:22:31",
+            "sekolah_id_enkrip": "CCFC960D1D5282B794E8"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370206",
+            "kecamatan": "Kec. Bomakia",
+            "npsn": 70031783,
+            "sekolah": "SD NEGERI WOMU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Dec 2023 07:57:24",
+            "sekolah_id_enkrip": "5C4C186C14E30164ADA9"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370206",
+            "kecamatan": "Kec. Bomakia",
+            "npsn": 60302093,
+            "sekolah": "SD YPPGI BOMA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Jan 2024 05:37:09",
+            "sekolah_id_enkrip": "52EF6B08DF4C31A4253F"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370206",
+            "kecamatan": "Kec. Bomakia",
+            "npsn": 60302143,
+            "sekolah": "SMP NEGERI PERSIAPAN BOMAKIA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Dec 2023 09:29:07",
+            "sekolah_id_enkrip": "02710C7D70A0F2DC8C51"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370206",
+            "kecamatan": "Kec. Bomakia",
+            "npsn": "P9957015",
+            "sekolah": "PKBM Aumkomkor",
+            "bentuk": "PKBM",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Aug 2023 08:00:01",
+            "sekolah_id_enkrip": "F22914932F15FAB4F77B"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "370100": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370122",
+            "kecamatan": "Kec. Kontuar",
+            "npsn": 70004505,
+            "sekolah": "PAUD MANDFUAT",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Jan 2024 11:00:22",
+            "sekolah_id_enkrip": "45C7C0188214B3CBB176"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370122",
+            "kecamatan": "Kec. Kontuar",
+            "npsn": 60300656,
+            "sekolah": "SD INPRES KAWE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "08 Oct 2023 19:49:36",
+            "sekolah_id_enkrip": "3B719F4CBB746A70E30F"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370122",
+            "kecamatan": "Kec. Kontuar",
+            "npsn": 69725732,
+            "sekolah": "SD INPRES SIBENDA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 09:59:05",
+            "sekolah_id_enkrip": "347181FD3AF24561226C"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370122",
+            "kecamatan": "Kec. Kontuar",
+            "npsn": 70005296,
+            "sekolah": "SD NEGERI PEMBRI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 21:24:51",
+            "sekolah_id_enkrip": "FD6EFAC81815C17592F1"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370122",
+            "kecamatan": "Kec. Kontuar",
+            "npsn": 60304949,
+            "sekolah": "SD NEGERI WETAU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 11:04:38",
+            "sekolah_id_enkrip": "F1D522E8C3BFD89EA21A"
+        }
+    ]
+}

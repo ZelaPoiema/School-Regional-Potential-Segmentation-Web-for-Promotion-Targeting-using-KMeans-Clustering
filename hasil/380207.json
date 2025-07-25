@@ -1,0 +1,32 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380207",
+            "kecamatan": "Kec. Kiwirok Timur",
+            "npsn": 60302166,
+            "sekolah": "SD INPRES OKHIM II",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Aug 2023 21:34:17",
+            "sekolah_id_enkrip": "42F9D7191BDD44A11AB1"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380207",
+            "kecamatan": "Kec. Kiwirok Timur",
+            "npsn": 60302167,
+            "sekolah": "SD INPRES OKYOP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Aug 2023 20:44:36",
+            "sekolah_id_enkrip": "05DC13F1AC52CA5D0860"
+        }
+    ]
+}

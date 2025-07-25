@@ -1,0 +1,32 @@
+{
+    "360500": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360524",
+            "kecamatan": "Kec. Gome Utara",
+            "npsn": 60301963,
+            "sekolah": "SD INPRES TUANGGI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Oct 2023 04:18:38",
+            "sekolah_id_enkrip": "54A39DEEE62522BBD858"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360524",
+            "kecamatan": "Kec. Gome Utara",
+            "npsn": 60301983,
+            "sekolah": "SD YPPK MUNDIDOK",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "25 Aug 2023 12:08:38",
+            "sekolah_id_enkrip": "61F8B80770190EBBC286"
+        }
+    ]
+}

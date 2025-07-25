@@ -1,0 +1,102 @@
+{
+    "390300": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390325",
+            "kecamatan": "Kec. Salkma",
+            "npsn": 60401660,
+            "sekolah": "SD INPRES 152 MLABOLO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 21:38:23",
+            "sekolah_id_enkrip": "3F3574D27AF953961EA3"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390325",
+            "kecamatan": "Kec. Salkma",
+            "npsn": 60401673,
+            "sekolah": "SD INPRES 153 KLAMIT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 04:47:46",
+            "sekolah_id_enkrip": "7E961D6DF2D6159805E9"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390325",
+            "kecamatan": "Kec. Salkma",
+            "npsn": 69965320,
+            "sekolah": "SD PERSIAPAN ALMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 19:39:15",
+            "sekolah_id_enkrip": "27F31CC2FC3AFC4562A3"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390325",
+            "kecamatan": "Kec. Salkma",
+            "npsn": 60401681,
+            "sekolah": "SD YPK KOFALIT",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "03 Feb 2024 21:24:03",
+            "sekolah_id_enkrip": "D5F9D4EC98D392BFC365"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390325",
+            "kecamatan": "Kec. Salkma",
+            "npsn": 60403381,
+            "sekolah": "SMP NEGERI 1 SAWIAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Oct 2023 12:45:53",
+            "sekolah_id_enkrip": "6BAAC1D04DB7867AB809"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390325",
+            "kecamatan": "Kec. Salkma",
+            "npsn": 70043299,
+            "sekolah": "SMA NEGERI 1 KLAMIT",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 17:12:08",
+            "sekolah_id_enkrip": "33B5351B3ABD0066B7F4"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390325",
+            "kecamatan": "Kec. Salkma",
+            "npsn": "P9954374",
+            "sekolah": "PKBM  KLENOK",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Sep 2023 03:38:34",
+            "sekolah_id_enkrip": "DF04B4137734B85A2ED4"
+        }
+    ]
+}

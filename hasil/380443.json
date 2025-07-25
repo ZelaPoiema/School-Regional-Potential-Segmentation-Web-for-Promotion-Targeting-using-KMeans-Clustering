@@ -1,0 +1,46 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380443",
+            "kecamatan": "Kec. Bogonuk",
+            "npsn": 60302201,
+            "sekolah": "SD INPRES BOGONUK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 08:40:59",
+            "sekolah_id_enkrip": "79AB45D6D443DDA0934C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380443",
+            "kecamatan": "Kec. Bogonuk",
+            "npsn": 60302740,
+            "sekolah": "SD NEGERI TOLINERI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Jan 2024 10:32:05",
+            "sekolah_id_enkrip": "36D2FF95CA34F0E952FF"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380443",
+            "kecamatan": "Kec. Bogonuk",
+            "npsn": "P9997473",
+            "sekolah": "PKBM YUMAGANERI",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "20 Dec 2023 11:35:02",
+            "sekolah_id_enkrip": "514731A02B0E8A4AD533"
+        }
+    ]
+}

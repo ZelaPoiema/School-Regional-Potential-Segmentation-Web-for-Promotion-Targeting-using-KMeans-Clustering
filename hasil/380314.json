@@ -1,0 +1,32 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380314",
+            "kecamatan": "Kec. Hogio",
+            "npsn": 60303376,
+            "sekolah": "SD INPRES PAIMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Dec 2023 07:24:05",
+            "sekolah_id_enkrip": "923DB2E8B00F1CF38B7C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380314",
+            "kecamatan": "Kec. Hogio",
+            "npsn": 69831579,
+            "sekolah": "SD NEGERI PAIMA 2",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 10:01:14",
+            "sekolah_id_enkrip": "9027EE8F68F3FAE90C35"
+        }
+    ]
+}

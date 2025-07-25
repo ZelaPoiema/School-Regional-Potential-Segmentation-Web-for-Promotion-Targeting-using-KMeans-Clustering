@@ -1,0 +1,74 @@
+{
+    "320300": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320310",
+            "kecamatan": "Kec. Roswar",
+            "npsn": 69939242,
+            "sekolah": "Paud MIOSWAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 08:47:30",
+            "sekolah_id_enkrip": "716C040823A6A30A1F6E"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320310",
+            "kecamatan": "Kec. Roswar",
+            "npsn": 69962990,
+            "sekolah": "TK  MOSCHE YOMBER SYEIWAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 08:34:18",
+            "sekolah_id_enkrip": "D5E3F271C4A59D1F604F"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320310",
+            "kecamatan": "Kec. Roswar",
+            "npsn": 60401972,
+            "sekolah": "SD INPRES WAPRAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 08:41:56",
+            "sekolah_id_enkrip": "C030B6888AD54189BB4A"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320310",
+            "kecamatan": "Kec. Roswar",
+            "npsn": 60401975,
+            "sekolah": "SD INPRES YOMBER",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 07:21:30",
+            "sekolah_id_enkrip": "47616B641EE0A910AA46"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320310",
+            "kecamatan": "Kec. Roswar",
+            "npsn": 69955203,
+            "sekolah": "SMP SATAP ROSWAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 09:10:34",
+            "sekolah_id_enkrip": "4038338DB3AB1B88095F"
+        }
+    ]
+}

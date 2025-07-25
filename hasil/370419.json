@@ -1,0 +1,102 @@
+{
+    "370400": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370419",
+            "kecamatan": "Kec. Betcbamu",
+            "npsn": 70028524,
+            "sekolah": "KB CAWUT BIWAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 09:24:11",
+            "sekolah_id_enkrip": "95F22F0705DF3228DAD3"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370419",
+            "kecamatan": "Kec. Betcbamu",
+            "npsn": 70041589,
+            "sekolah": "KB YOUW KAP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Aug 2023 23:05:13",
+            "sekolah_id_enkrip": "18D5BAD268A0C40A2E9C"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370419",
+            "kecamatan": "Kec. Betcbamu",
+            "npsn": 69787832,
+            "sekolah": "SD INPRES OMANESEP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Aug 2023 16:00:57",
+            "sekolah_id_enkrip": "38CCDC9A1F8F738FA241"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370419",
+            "kecamatan": "Kec. Betcbamu",
+            "npsn": 60303717,
+            "sekolah": "SD INPRES YOUW",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 07:04:57",
+            "sekolah_id_enkrip": "F6CE4DB9D41CBDA0E81D"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370419",
+            "kecamatan": "Kec. Betcbamu",
+            "npsn": 69787829,
+            "sekolah": "SD PERSIAPAN NEGERI KAWET",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 20:35:26",
+            "sekolah_id_enkrip": "1E9167755F1F90CB1B40"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370419",
+            "kecamatan": "Kec. Betcbamu",
+            "npsn": 69787830,
+            "sekolah": "SD PERSIAPAN NEGERI WARKAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 13:15:52",
+            "sekolah_id_enkrip": "6660A3AE1ECFF1964570"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370419",
+            "kecamatan": "Kec. Betcbamu",
+            "npsn": 60303727,
+            "sekolah": "SD YPPK BIWAR LAUT",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Feb 2024 07:59:29",
+            "sekolah_id_enkrip": "3567F195FF8CDEC59766"
+        }
+    ]
+}

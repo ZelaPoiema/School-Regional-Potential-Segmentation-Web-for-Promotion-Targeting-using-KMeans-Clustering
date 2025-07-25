@@ -1,0 +1,46 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380444",
+            "kecamatan": "Kec. Li Anogomma",
+            "npsn": 70011048,
+            "sekolah": "TK NEGERI LONGGOBOMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "20 Nov 2023 18:52:55",
+            "sekolah_id_enkrip": "82842DF310B9EB10539B"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380444",
+            "kecamatan": "Kec. Li Anogomma",
+            "npsn": 60302206,
+            "sekolah": "SD INPRES EREMBUR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "11 Oct 2023 20:06:17",
+            "sekolah_id_enkrip": "7AAE9C91101C11B9C96A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380444",
+            "kecamatan": "Kec. Li Anogomma",
+            "npsn": 70011049,
+            "sekolah": "SD NEGERI LONGGOBOMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "20 Sep 2023 17:59:18",
+            "sekolah_id_enkrip": "2B6D6336F996C1787544"
+        }
+    ]
+}

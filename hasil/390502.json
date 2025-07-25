@@ -1,0 +1,60 @@
+{
+    "390500": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390502",
+            "kecamatan": "Kec. Miyah",
+            "npsn": 70004993,
+            "sekolah": "PAUD Gabriella Miyah",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "48DE4D7E5F4A9BAB6C2A"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390502",
+            "kecamatan": "Kec. Miyah",
+            "npsn": 69728601,
+            "sekolah": "SDN SIAKWA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Jan 2024 19:27:52",
+            "sekolah_id_enkrip": "F675EFEBBFDB6C51A06F"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390502",
+            "kecamatan": "Kec. Miyah",
+            "npsn": 70005733,
+            "sekolah": "SD YPPK Santo Markus",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "08 Dec 2023 08:55:44",
+            "sekolah_id_enkrip": "5CB9542BF9C380DD4205"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390502",
+            "kecamatan": "Kec. Miyah",
+            "npsn": 69728612,
+            "sekolah": "SD YPPK Santo Welhemus Ayapokiar",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "13 Jan 2024 18:50:14",
+            "sekolah_id_enkrip": "4390CF37A83FCF351C75"
+        }
+    ]
+}

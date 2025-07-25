@@ -1,0 +1,46 @@
+{
+    "350600": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350600",
+            "kabupaten_kota": "Filipina",
+            "kode_kec": "350601",
+            "kecamatan": "Davao City",
+            "npsn": 90101032,
+            "sekolah": "SEKOLAH SI DAVAO TINGKAT SD",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Sep 2023 14:46:32",
+            "sekolah_id_enkrip": "1B1FD88BA69F9CCF2399"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350600",
+            "kabupaten_kota": "Filipina",
+            "kode_kec": "350601",
+            "kecamatan": "Davao City",
+            "npsn": 90101033,
+            "sekolah": "SEKOLAH SI DAVAO TINGKAT SMP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "11 Sep 2023 14:56:04",
+            "sekolah_id_enkrip": "1A0F73ACC5016D0A46A3"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350600",
+            "kabupaten_kota": "Filipina",
+            "kode_kec": "350601",
+            "kecamatan": "Davao City",
+            "npsn": 90101034,
+            "sekolah": "SEKOLAH SI DAVAO TINGKAT SMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Oct 2023 09:46:34",
+            "sekolah_id_enkrip": "D0CF918A7EA7150AD02F"
+        }
+    ]
+}

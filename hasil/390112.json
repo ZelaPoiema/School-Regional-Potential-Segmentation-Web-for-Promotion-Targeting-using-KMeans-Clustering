@@ -1,0 +1,88 @@
+{
+    "390100": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390112",
+            "kecamatan": "Kec. Aifat Timur Tengah",
+            "npsn": 60403383,
+            "sekolah": "SD YPPK AIFAM",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "11 Nov 2023 13:35:21",
+            "sekolah_id_enkrip": "D3DE95D53658C1E488CD"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390112",
+            "kecamatan": "Kec. Aifat Timur Tengah",
+            "npsn": 60401742,
+            "sekolah": "SD YPPK AISAWIAT KAMAT",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "11 Nov 2023 11:33:47",
+            "sekolah_id_enkrip": "674246933AA67605362A"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390112",
+            "kecamatan": "Kec. Aifat Timur Tengah",
+            "npsn": 60401738,
+            "sekolah": "SD YPPK AYATA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "07 Dec 2023 14:29:37",
+            "sekolah_id_enkrip": "6534965648FF62F177F0"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390112",
+            "kecamatan": "Kec. Aifat Timur Tengah",
+            "npsn": 60403822,
+            "sekolah": "SD YPPK KAHRIO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Jan 2024 19:53:32",
+            "sekolah_id_enkrip": "AEBEAF7B80A78D1D7350"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390112",
+            "kecamatan": "Kec. Aifat Timur Tengah",
+            "npsn": 70009962,
+            "sekolah": "SD YPPK PERSIAPAN AIKUS",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Aug 2023 18:02:11",
+            "sekolah_id_enkrip": "45C0E47B80AC48C9F0E6"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390112",
+            "kecamatan": "Kec. Aifat Timur Tengah",
+            "npsn": 60403828,
+            "sekolah": "SMP NEGERI 1 AIFAT TIMUR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 19:36:40",
+            "sekolah_id_enkrip": "6FF9755E1C848E99E410"
+        }
+    ]
+}

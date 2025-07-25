@@ -1,0 +1,74 @@
+{
+    "390100": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390104",
+            "kecamatan": "Kec. Aifat Selatan",
+            "npsn": 60403821,
+            "sekolah": "SD INPRES PERSIAPAN TAHSIMARA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 18:58:25",
+            "sekolah_id_enkrip": "7FDDE22C3568D893B82D"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390104",
+            "kecamatan": "Kec. Aifat Selatan",
+            "npsn": 60401698,
+            "sekolah": "SD YPK EBEN HAISER FUOG",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "12 Sep 2023 19:03:49",
+            "sekolah_id_enkrip": "8971099DE92E23BA3DEE"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390104",
+            "kecamatan": "Kec. Aifat Selatan",
+            "npsn": 69988993,
+            "sekolah": "SD YPK KANAAN SORRY",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "28 Jan 2024 19:58:56",
+            "sekolah_id_enkrip": "8BCB0D96EEB64CA8D27A"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390104",
+            "kecamatan": "Kec. Aifat Selatan",
+            "npsn": 60401709,
+            "sekolah": "SD YPK KISOR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "24 Jan 2024 19:18:15",
+            "sekolah_id_enkrip": "CF3D43443CBD7702D65E"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390104",
+            "kecamatan": "Kec. Aifat Selatan",
+            "npsn": 60403943,
+            "sekolah": "SD YPPK SABAH",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Feb 2024 11:56:34",
+            "sekolah_id_enkrip": "027BB0601D08EA92638C"
+        }
+    ]
+}

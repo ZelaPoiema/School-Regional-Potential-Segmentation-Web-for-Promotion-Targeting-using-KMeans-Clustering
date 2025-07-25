@@ -1,0 +1,88 @@
+{
+    "390200": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390221",
+            "kecamatan": "Kec. Salawati Barat",
+            "npsn": 69923970,
+            "sekolah": "PAUD. EBENHAIZER",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Mar 2023 10:43:25",
+            "sekolah_id_enkrip": "649133660336A384D704"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390221",
+            "kecamatan": "Kec. Salawati Barat",
+            "npsn": 60401786,
+            "sekolah": "SD INPRES 21 KALIAM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Dec 2023 12:04:24",
+            "sekolah_id_enkrip": "BAC3FDF96CEB115D985F"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390221",
+            "kecamatan": "Kec. Salawati Barat",
+            "npsn": 60403857,
+            "sekolah": "SD NEGERI 26 KALWAL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 07:59:57",
+            "sekolah_id_enkrip": "46DFDB4AE13DB84919BD"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390221",
+            "kecamatan": "Kec. Salawati Barat",
+            "npsn": 69728397,
+            "sekolah": "SD NEGERI 36 WAYOM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Jan 2024 16:25:12",
+            "sekolah_id_enkrip": "EE31DA01E69F1CD634FD"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390221",
+            "kecamatan": "Kec. Salawati Barat",
+            "npsn": 60401842,
+            "sekolah": "SD YPK EBENHEIZER SOLOL",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "14 Jan 2024 14:48:33",
+            "sekolah_id_enkrip": "E447B7756847ED3D1A2E"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390221",
+            "kecamatan": "Kec. Salawati Barat",
+            "npsn": 60404146,
+            "sekolah": "SMP NEGERI 26 RAJA AMPAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 19:59:46",
+            "sekolah_id_enkrip": "6D2904669C17B6DA9A7C"
+        }
+    ]
+}

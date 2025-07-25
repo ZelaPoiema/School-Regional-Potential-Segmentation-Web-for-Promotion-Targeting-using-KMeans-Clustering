@@ -1,0 +1,102 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380707",
+            "kecamatan": "Kec. Balingga",
+            "npsn": 69953106,
+            "sekolah": "PAUD DAMAI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Aug 2023 15:01:28",
+            "sekolah_id_enkrip": "6F1BCACFC234CA055CDC"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380707",
+            "kecamatan": "Kec. Balingga",
+            "npsn": 69953784,
+            "sekolah": "PAUD TIMO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Sep 2023 13:05:04",
+            "sekolah_id_enkrip": "EB7FFEDA4D81972E4798"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380707",
+            "kecamatan": "Kec. Balingga",
+            "npsn": 60301385,
+            "sekolah": "SD INPRES BALINGGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Sep 2023 10:29:57",
+            "sekolah_id_enkrip": "92759C5F3B49BA5AAAF4"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380707",
+            "kecamatan": "Kec. Balingga",
+            "npsn": 60301389,
+            "sekolah": "SD INPRES BRUME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Jan 2024 19:49:52",
+            "sekolah_id_enkrip": "197F533DCF0B54E7268F"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380707",
+            "kecamatan": "Kec. Balingga",
+            "npsn": 60304054,
+            "sekolah": "SMAN 1 BALINGGA",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "09 Dec 2023 08:46:54",
+            "sekolah_id_enkrip": "A5800FB958AD2BF22445"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380707",
+            "kecamatan": "Kec. Balingga",
+            "npsn": "P9952674",
+            "sekolah": "PKBM EPINANIMOK",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "03 Feb 2024 17:13:06",
+            "sekolah_id_enkrip": "BF940A266EB68B810CD1"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380707",
+            "kecamatan": "Kec. Balingga",
+            "npsn": "P9952666",
+            "sekolah": "PKBM MAMUNUWOK",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "17 Jan 2024 11:03:16",
+            "sekolah_id_enkrip": "FC6371D00348282A7EEF"
+        }
+    ]
+}

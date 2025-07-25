@@ -1,0 +1,102 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380723",
+            "kecamatan": "Kec. Wano Barat",
+            "npsn": 69953906,
+            "sekolah": "PAUD TINIME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Sep 2023 13:24:37",
+            "sekolah_id_enkrip": "587F8F844ABB85B3CE38"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380723",
+            "kecamatan": "Kec. Wano Barat",
+            "npsn": 60301440,
+            "sekolah": "SD INPRES MUME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Nov 2023 20:21:06",
+            "sekolah_id_enkrip": "526BEF21A56CF9AAAD83"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380723",
+            "kecamatan": "Kec. Wano Barat",
+            "npsn": 69947422,
+            "sekolah": "SD Negeri Tinime",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Jan 2024 20:27:44",
+            "sekolah_id_enkrip": "9BB6B71EAF75CEB8B5EC"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380723",
+            "kecamatan": "Kec. Wano Barat",
+            "npsn": 69946983,
+            "sekolah": "SD Negeri Wamiru",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Nov 2023 20:26:25",
+            "sekolah_id_enkrip": "8358F362574F9F6FABFF"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380723",
+            "kecamatan": "Kec. Wano Barat",
+            "npsn": 69950552,
+            "sekolah": "SMP Negeri 2 Kuyawage",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 04:58:12",
+            "sekolah_id_enkrip": "4AD23AF7175F1B3E28D2"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380723",
+            "kecamatan": "Kec. Wano Barat",
+            "npsn": 70035051,
+            "sekolah": "SMA NEGERI 1 KUYAWAGE",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Dec 2022 13:38:40",
+            "sekolah_id_enkrip": "3986311003D0CFA8FF52"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380723",
+            "kecamatan": "Kec. Wano Barat",
+            "npsn": "P9998204",
+            "sekolah": "PKBM KALI BIRU",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Jan 2024 08:52:08",
+            "sekolah_id_enkrip": "09927847F716E6A39561"
+        }
+    ]
+}

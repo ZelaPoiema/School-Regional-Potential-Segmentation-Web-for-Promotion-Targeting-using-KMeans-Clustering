@@ -1,0 +1,46 @@
+{
+    "351300": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "351300",
+            "kabupaten_kota": "Taiwan",
+            "kode_kec": "351301",
+            "kecamatan": "Taipe",
+            "npsn": "P9947972",
+            "sekolah": "PKBM Bhakti Jaya Indonesia",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Jan 2024 16:17:49",
+            "sekolah_id_enkrip": "3752455CA34EEA383B62"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "351300",
+            "kabupaten_kota": "Taiwan",
+            "kode_kec": "351301",
+            "kecamatan": "Taipe",
+            "npsn": "P9970165",
+            "sekolah": "PKBM Muhammadiyah Taiwan",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "23 Nov 2023 17:40:46",
+            "sekolah_id_enkrip": "1597D00A8467F7F023BC"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "351300",
+            "kabupaten_kota": "Taiwan",
+            "kode_kec": "351301",
+            "kecamatan": "Taipe",
+            "npsn": "P9908880",
+            "sekolah": "PKBM PPI Taiwan",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "24 Dec 2023 17:36:46",
+            "sekolah_id_enkrip": "5C6002CADC62B8A41A0D"
+        }
+    ]
+}

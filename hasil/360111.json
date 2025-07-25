@@ -1,0 +1,102 @@
+{
+    "360100": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360100",
+            "kabupaten_kota": "Kab. Nabire",
+            "kode_kec": "360111",
+            "kecamatan": "Kec. Wapoga",
+            "npsn": 70032470,
+            "sekolah": "SPS BOMOPI EBAUGIDA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "24 Jul 2023 15:09:03",
+            "sekolah_id_enkrip": "941C3211FD2F5BDDCE3E"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360100",
+            "kabupaten_kota": "Kab. Nabire",
+            "kode_kec": "360111",
+            "kecamatan": "Kec. Wapoga",
+            "npsn": 69787876,
+            "sekolah": "SD Negeri Ause",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 11:59:51",
+            "sekolah_id_enkrip": "0BF194BCE133582CE190"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360100",
+            "kabupaten_kota": "Kab. Nabire",
+            "kode_kec": "360111",
+            "kecamatan": "Kec. Wapoga",
+            "npsn": 60301799,
+            "sekolah": "SD Negeri Inpres Samanui",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Nov 2023 22:47:28",
+            "sekolah_id_enkrip": "FE6769F860B253817BB8"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360100",
+            "kabupaten_kota": "Kab. Nabire",
+            "kode_kec": "360111",
+            "kecamatan": "Kec. Wapoga",
+            "npsn": 60301800,
+            "sekolah": "SD Negeri Inpres Totoberi",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 21:59:39",
+            "sekolah_id_enkrip": "A55F62DB7E3B8BD8875B"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360100",
+            "kabupaten_kota": "Kab. Nabire",
+            "kode_kec": "360111",
+            "kecamatan": "Kec. Wapoga",
+            "npsn": 69786246,
+            "sekolah": "SDN Kamarisano",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Jan 2024 15:36:20",
+            "sekolah_id_enkrip": "1E9F4A2614D4652FA2ED"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360100",
+            "kabupaten_kota": "Kab. Nabire",
+            "kode_kec": "360111",
+            "kecamatan": "Kec. Wapoga",
+            "npsn": 60303610,
+            "sekolah": "SD Advent Viliasi Keuw",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "10 Aug 2023 21:59:45",
+            "sekolah_id_enkrip": "5799AC6C048A55A020FD"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360100",
+            "kabupaten_kota": "Kab. Nabire",
+            "kode_kec": "360111",
+            "kecamatan": "Kec. Wapoga",
+            "npsn": 69966077,
+            "sekolah": "SMP Negeri 1 Wapoga",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 20:54:16",
+            "sekolah_id_enkrip": "ED6D0C75476955D27FD0"
+        }
+    ]
+}

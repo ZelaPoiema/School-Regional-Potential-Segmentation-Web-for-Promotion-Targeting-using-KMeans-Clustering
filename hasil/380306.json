@@ -1,0 +1,74 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380306",
+            "kecamatan": "Kec. Nalca",
+            "npsn": 60303277,
+            "sekolah": "SD INPRES NALCA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Dec 2023 16:25:35",
+            "sekolah_id_enkrip": "34403FC7D0862870A34B"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380306",
+            "kecamatan": "Kec. Nalca",
+            "npsn": 69831600,
+            "sekolah": "SD NEGERI NGEREGEN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 09:58:04",
+            "sekolah_id_enkrip": "BE6AEB1FF2A99DC989F1"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380306",
+            "kecamatan": "Kec. Nalca",
+            "npsn": 69924832,
+            "sekolah": "SD NEGERI SEKONO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 13:55:56",
+            "sekolah_id_enkrip": "F5F1B4A494376B4D88D9"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380306",
+            "kecamatan": "Kec. Nalca",
+            "npsn": 69992035,
+            "sekolah": "SDS Lentera  Harapan Nalca",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "04 Feb 2024 09:18:06",
+            "sekolah_id_enkrip": "84DB24AF4DBFD8DD7EA7"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380306",
+            "kecamatan": "Kec. Nalca",
+            "npsn": 60303328,
+            "sekolah": "SMP NALCA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 09:51:52",
+            "sekolah_id_enkrip": "4C66CCEB291D18DD74D8"
+        }
+    ]
+}

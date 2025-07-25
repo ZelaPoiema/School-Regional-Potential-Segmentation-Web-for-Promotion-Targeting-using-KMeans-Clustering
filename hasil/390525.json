@@ -1,0 +1,60 @@
+{
+    "390500": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390525",
+            "kecamatan": "Kec. Manekar",
+            "npsn": 70004692,
+            "sekolah": "PAUD Bundopi",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "23 Apr 2022 15:39:46",
+            "sekolah_id_enkrip": "3447CBB9AE6B78F843E3"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390525",
+            "kecamatan": "Kec. Manekar",
+            "npsn": 70001706,
+            "sekolah": "PAUD Jubebi Manekar",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "03 Nov 2023 00:45:41",
+            "sekolah_id_enkrip": "2CA63D292FD5AF2A4CD4"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390525",
+            "kecamatan": "Kec. Manekar",
+            "npsn": 60401374,
+            "sekolah": "SD INPRES 18 AKMURI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "08 Nov 2023 09:20:47",
+            "sekolah_id_enkrip": "726AEF4FE81F0EC5515D"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390525",
+            "kecamatan": "Kec. Manekar",
+            "npsn": 60402170,
+            "sekolah": "SD YPK LAHAIROY KEBAR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "03 Oct 2023 19:11:56",
+            "sekolah_id_enkrip": "F290C50F33B3FAB41192"
+        }
+    ]
+}

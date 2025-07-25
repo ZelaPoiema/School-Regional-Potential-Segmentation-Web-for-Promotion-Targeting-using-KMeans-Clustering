@@ -1,0 +1,102 @@
+{
+    "390400": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390404",
+            "kecamatan": "Kec. Beraur",
+            "npsn": 60401164,
+            "sekolah": "SD INPRES 2 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Oct 2023 21:54:47",
+            "sekolah_id_enkrip": "5B12E89AD12BB63E4C93"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390404",
+            "kecamatan": "Kec. Beraur",
+            "npsn": 60401328,
+            "sekolah": "SD NEGERI 7 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Jan 2024 19:23:30",
+            "sekolah_id_enkrip": "920E5E7E7DB13A18F54C"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390404",
+            "kecamatan": "Kec. Beraur",
+            "npsn": 60403571,
+            "sekolah": "SD YPK KAAS KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Dec 2023 16:34:06",
+            "sekolah_id_enkrip": "BFFC0E94C708F875E214"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390404",
+            "kecamatan": "Kec. Beraur",
+            "npsn": 60401310,
+            "sekolah": "SD YPK KLARION KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Aug 2023 19:23:44",
+            "sekolah_id_enkrip": "D864DE188B9FBD2A69E4"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390404",
+            "kecamatan": "Kec. Beraur",
+            "npsn": 60401353,
+            "sekolah": "SMP NEGERI 12 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "20 Dec 2023 11:27:34",
+            "sekolah_id_enkrip": "EEAA9422DB2D5FCD50CF"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390404",
+            "kecamatan": "Kec. Beraur",
+            "npsn": 69973451,
+            "sekolah": "SMA NEGERI 11 KABUPATEN SORONG",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Dec 2023 20:26:41",
+            "sekolah_id_enkrip": "DEA7EA08DA0570AA36FF"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390404",
+            "kecamatan": "Kec. Beraur",
+            "npsn": "P9984765",
+            "sekolah": "PKBM MAJU BERSAMA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Aug 2023 23:59:33",
+            "sekolah_id_enkrip": "CAAFEE7296D555471E33"
+        }
+    ]
+}

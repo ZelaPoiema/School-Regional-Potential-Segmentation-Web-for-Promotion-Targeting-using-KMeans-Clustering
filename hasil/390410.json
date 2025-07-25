@@ -1,0 +1,60 @@
+{
+    "390400": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390410",
+            "kecamatan": "Kec. Sayosa",
+            "npsn": 60401140,
+            "sekolah": "SD INPRES 52 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Oct 2023 06:39:37",
+            "sekolah_id_enkrip": "CF723FDB706A353F0EF8"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390410",
+            "kecamatan": "Kec. Sayosa",
+            "npsn": 60401154,
+            "sekolah": "SD INPRES 7 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 11:56:22",
+            "sekolah_id_enkrip": "5CE6539BC77B64EB3467"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390410",
+            "kecamatan": "Kec. Sayosa",
+            "npsn": 60403362,
+            "sekolah": "SMP NEGERI 13 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 04:06:03",
+            "sekolah_id_enkrip": "3DBDD96194AA19DC3EFD"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390410",
+            "kecamatan": "Kec. Sayosa",
+            "npsn": 69856227,
+            "sekolah": "SMP NEGERI 23 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 05:18:20",
+            "sekolah_id_enkrip": "FA1937C625047234C183"
+        }
+    ]
+}

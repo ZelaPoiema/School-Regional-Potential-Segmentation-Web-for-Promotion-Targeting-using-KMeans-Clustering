@@ -1,0 +1,102 @@
+{
+    "390200": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390214",
+            "kecamatan": "Kec. Warwarbomi",
+            "npsn": 69974992,
+            "sekolah": "KB. WARBON",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Jan 2024 19:49:47",
+            "sekolah_id_enkrip": "84F87119A97EF05618BA"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390214",
+            "kecamatan": "Kec. Warwarbomi",
+            "npsn": 69922181,
+            "sekolah": "PAUD GETSEMANI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "27 Jan 2024 16:02:40",
+            "sekolah_id_enkrip": "5539B301676CB9AF9921"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390214",
+            "kecamatan": "Kec. Warwarbomi",
+            "npsn": 60401845,
+            "sekolah": "SD YPK EDEN WARKORI/BONI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "20 Jan 2024 19:39:58",
+            "sekolah_id_enkrip": "9F6E124F9C15FEDCF33C"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390214",
+            "kecamatan": "Kec. Warwarbomi",
+            "npsn": 60401832,
+            "sekolah": "SD YPK ELIM MNEIR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "14 Jan 2024 10:40:54",
+            "sekolah_id_enkrip": "4729DC4E437BCBEE9918"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390214",
+            "kecamatan": "Kec. Warwarbomi",
+            "npsn": 60401846,
+            "sekolah": "SD YPK GETSEMANI WARWANAI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Feb 2024 15:07:04",
+            "sekolah_id_enkrip": "AE0D2335A80D1C9CB79B"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390214",
+            "kecamatan": "Kec. Warwarbomi",
+            "npsn": 60403499,
+            "sekolah": "SMP NEGERI 17 RAJA AMPAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 20:32:11",
+            "sekolah_id_enkrip": "2A4C6A11E554BC92ED7A"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390214",
+            "kecamatan": "Kec. Warwarbomi",
+            "npsn": 60404142,
+            "sekolah": "SMA NEGERI 11 RAJA AMPAT",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Jan 2024 10:48:32",
+            "sekolah_id_enkrip": "6E878C956D330D45BCC4"
+        }
+    ]
+}

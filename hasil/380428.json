@@ -1,0 +1,46 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380428",
+            "kecamatan": "Kec. Airgaram",
+            "npsn": 60302736,
+            "sekolah": "SD NEGERI ARIGI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "18 Jan 2024 07:53:10",
+            "sekolah_id_enkrip": "0EDD346E76BF7737FABB"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380428",
+            "kecamatan": "Kec. Airgaram",
+            "npsn": 60302239,
+            "sekolah": "SD NEGERI TINALOME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 12:38:12",
+            "sekolah_id_enkrip": "26C4B7BE469C8E524B88"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380428",
+            "kecamatan": "Kec. Airgaram",
+            "npsn": 60302741,
+            "sekolah": "SMP NEGERI AIRGARAM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Jan 2024 09:26:34",
+            "sekolah_id_enkrip": "138A6065D6CBB01D9CBB"
+        }
+    ]
+}

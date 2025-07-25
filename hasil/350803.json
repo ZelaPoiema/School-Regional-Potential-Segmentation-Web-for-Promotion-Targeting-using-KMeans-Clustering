@@ -1,0 +1,60 @@
+{
+    "350800": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350800",
+            "kabupaten_kota": "Arab Saudi",
+            "kode_kec": "350803",
+            "kecamatan": "Mekkah",
+            "npsn": "9LN01165",
+            "sekolah": "SEKOLAH INDONESIA MAKKAH TINGKAT TK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 22:04:04",
+            "sekolah_id_enkrip": "029A226F06B5524A11DB"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350800",
+            "kabupaten_kota": "Arab Saudi",
+            "kode_kec": "350803",
+            "kecamatan": "Mekkah",
+            "npsn": 90101055,
+            "sekolah": "SEKOLAH INDONESIA MAKKAH TINGKAT SD",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Jan 2024 17:02:28",
+            "sekolah_id_enkrip": "959B6773C4CAC8135D81"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350800",
+            "kabupaten_kota": "Arab Saudi",
+            "kode_kec": "350803",
+            "kecamatan": "Mekkah",
+            "npsn": 90101056,
+            "sekolah": "SEKOLAH INDONESIA MAKKAH TINGKAT SMP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Jan 2024 17:57:13",
+            "sekolah_id_enkrip": "5E35F342090A8F2203D5"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350800",
+            "kabupaten_kota": "Arab Saudi",
+            "kode_kec": "350803",
+            "kecamatan": "Mekkah",
+            "npsn": 90101190,
+            "sekolah": "SEKOLAH INDONESIA MAKKAH TINGKAT SMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 15:38:05",
+            "sekolah_id_enkrip": "481A6698C8462F6794B2"
+        }
+    ]
+}

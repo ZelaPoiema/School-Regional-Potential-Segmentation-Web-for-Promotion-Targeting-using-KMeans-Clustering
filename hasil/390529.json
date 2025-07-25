@@ -1,0 +1,46 @@
+{
+    "390500": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390529",
+            "kecamatan": "Kec. Selemkai",
+            "npsn": 70004693,
+            "sekolah": "PAUD Mafili",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "08 Oct 2023 16:57:45",
+            "sekolah_id_enkrip": "6D8CC0A8A0D0F088A6F1"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390529",
+            "kecamatan": "Kec. Selemkai",
+            "npsn": 70001694,
+            "sekolah": "PAUD SION DELA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "11 Jan 2024 22:44:39",
+            "sekolah_id_enkrip": "769B29738F4960AF89A8"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390529",
+            "kecamatan": "Kec. Selemkai",
+            "npsn": 69979473,
+            "sekolah": "SD NEGERI KLABILI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 18:39:21",
+            "sekolah_id_enkrip": "FC716577CAC2D01C4C4C"
+        }
+    ]
+}

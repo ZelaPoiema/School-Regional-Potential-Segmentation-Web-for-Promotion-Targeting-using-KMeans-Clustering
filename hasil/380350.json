@@ -1,0 +1,32 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380350",
+            "kecamatan": "Kec. Kayo",
+            "npsn": 60303660,
+            "sekolah": "SD NEGERI MOLAMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Aug 2023 17:22:04",
+            "sekolah_id_enkrip": "E4AECEC794F1D3217824"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380350",
+            "kecamatan": "Kec. Kayo",
+            "npsn": 60303275,
+            "sekolah": "SDN KAYO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Sep 2023 07:04:21",
+            "sekolah_id_enkrip": "9516278AC82DEB53D324"
+        }
+    ]
+}

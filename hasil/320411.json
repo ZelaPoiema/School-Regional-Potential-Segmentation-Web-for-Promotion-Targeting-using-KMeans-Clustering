@@ -1,0 +1,46 @@
+{
+    "320400": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320411",
+            "kecamatan": "Kec. Dataran Beimes",
+            "npsn": 70011011,
+            "sekolah": "TK BOUDEN RUGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 07:35:10",
+            "sekolah_id_enkrip": "D7B0D8CA1BB54EFB2262"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320411",
+            "kecamatan": "Kec. Dataran Beimes",
+            "npsn": 60403475,
+            "sekolah": "SD INPRES HORNA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 18:15:11",
+            "sekolah_id_enkrip": "E7C64E891D45AD9E17C5"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320411",
+            "kecamatan": "Kec. Dataran Beimes",
+            "npsn": 60725747,
+            "sekolah": "SMPN SATAP HORNA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 09:13:24",
+            "sekolah_id_enkrip": "545B98CCF6F9CAEFA583"
+        }
+    ]
+}

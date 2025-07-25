@@ -1,0 +1,60 @@
+{
+    "061500": [
+        {
+            "kode_prop": "060000",
+            "propinsi": "Prov. Aceh",
+            "kode_kab_kota": "061500",
+            "kabupaten_kota": "Kab. Nagan Raya",
+            "kode_kec": "061510",
+            "kecamatan": "Kec. Beutong Ateuh Banggalan",
+            "npsn": 69887237,
+            "sekolah": "KB MUTIARA POMA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "25 Aug 2023 14:07:30",
+            "sekolah_id_enkrip": "637B229C563EBDA8A869"
+        },
+        {
+            "kode_prop": "060000",
+            "propinsi": "Prov. Aceh",
+            "kode_kab_kota": "061500",
+            "kabupaten_kota": "Kab. Nagan Raya",
+            "kode_kec": "061510",
+            "kecamatan": "Kec. Beutong Ateuh Banggalan",
+            "npsn": 10104774,
+            "sekolah": "SD NEGERI 1 BEUTONG ATEUH",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "09 Dec 2023 22:21:39",
+            "sekolah_id_enkrip": "87CD85B8BACCF80A90E7"
+        },
+        {
+            "kode_prop": "060000",
+            "propinsi": "Prov. Aceh",
+            "kode_kab_kota": "061500",
+            "kabupaten_kota": "Kab. Nagan Raya",
+            "kode_kec": "061510",
+            "kecamatan": "Kec. Beutong Ateuh Banggalan",
+            "npsn": 10112828,
+            "sekolah": "SD NEGERI 2 BEUTONG ATEUH",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 13:48:58",
+            "sekolah_id_enkrip": "8C77388255ABA549EC5C"
+        },
+        {
+            "kode_prop": "060000",
+            "propinsi": "Prov. Aceh",
+            "kode_kab_kota": "061500",
+            "kabupaten_kota": "Kab. Nagan Raya",
+            "kode_kec": "061510",
+            "kecamatan": "Kec. Beutong Ateuh Banggalan",
+            "npsn": 10108214,
+            "sekolah": "SMP NEGERI BEUTONG ATEUH",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 15:31:32",
+            "sekolah_id_enkrip": "E9BEB68EF722CD64D5B3"
+        }
+    ]
+}

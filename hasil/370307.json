@@ -1,0 +1,102 @@
+{
+    "370300": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370300",
+            "kabupaten_kota": "Kab. Mappi",
+            "kode_kec": "370307",
+            "kecamatan": "Kec. Kaibar",
+            "npsn": 60303105,
+            "sekolah": "SD INPRES AMAZU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 19:11:32",
+            "sekolah_id_enkrip": "EADBBD90FFEB6D58ECE2"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370300",
+            "kabupaten_kota": "Kab. Mappi",
+            "kode_kec": "370307",
+            "kecamatan": "Kec. Kaibar",
+            "npsn": 60303167,
+            "sekolah": "SD INPRES BINERBIS",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Jan 2024 05:22:45",
+            "sekolah_id_enkrip": "EDA262DDDA345FE34F88"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370300",
+            "kabupaten_kota": "Kab. Mappi",
+            "kode_kec": "370307",
+            "kecamatan": "Kec. Kaibar",
+            "npsn": 60303169,
+            "sekolah": "SD INPRES IMENBI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 04:21:53",
+            "sekolah_id_enkrip": "AE24F60031CC522FFC85"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370300",
+            "kabupaten_kota": "Kab. Mappi",
+            "kode_kec": "370307",
+            "kecamatan": "Kec. Kaibar",
+            "npsn": 60303159,
+            "sekolah": "SD INPRES VOMU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Oct 2023 17:54:32",
+            "sekolah_id_enkrip": "724997DD3EFEBE0CEF21"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370300",
+            "kabupaten_kota": "Kab. Mappi",
+            "kode_kec": "370307",
+            "kecamatan": "Kec. Kaibar",
+            "npsn": 60303163,
+            "sekolah": "SD INPRES YEMU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 18:28:17",
+            "sekolah_id_enkrip": "F8405F0E470C8378118C"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370300",
+            "kabupaten_kota": "Kab. Mappi",
+            "kode_kec": "370307",
+            "kecamatan": "Kec. Kaibar",
+            "npsn": 60303188,
+            "sekolah": "SD YPPGI TIAU",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Jan 2024 18:55:21",
+            "sekolah_id_enkrip": "2E40F951FF17F46E56F9"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370300",
+            "kabupaten_kota": "Kab. Mappi",
+            "kode_kec": "370307",
+            "kecamatan": "Kec. Kaibar",
+            "npsn": 69888859,
+            "sekolah": "SMP NEGERI 1 KAIBAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 05:02:46",
+            "sekolah_id_enkrip": "D485D7B0BDAF09E21A02"
+        }
+    ]
+}

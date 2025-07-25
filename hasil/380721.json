@@ -1,0 +1,32 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380721",
+            "kecamatan": "Kec. Awina",
+            "npsn": 60303496,
+            "sekolah": "SMP NEGERI 4 MAKKI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Jan 2024 15:25:54",
+            "sekolah_id_enkrip": "AF5BE14A0D1EB5418D61"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380721",
+            "kecamatan": "Kec. Awina",
+            "npsn": "P9948313",
+            "sekolah": "PKBM Bubu Indah",
+            "bentuk": "PKBM",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Jan 2024 10:59:37",
+            "sekolah_id_enkrip": "2D82AE6445F522B161A1"
+        }
+    ]
+}

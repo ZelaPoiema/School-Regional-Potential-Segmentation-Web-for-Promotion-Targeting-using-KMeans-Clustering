@@ -1,0 +1,60 @@
+{
+    "320400": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320419",
+            "kecamatan": "Kec. Moskona Barat",
+            "npsn": 70010773,
+            "sekolah": "TK CENDRAWASIH MEYERGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 09:05:11",
+            "sekolah_id_enkrip": "79312D7DFBE6B88ECA04"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320419",
+            "kecamatan": "Kec. Moskona Barat",
+            "npsn": 60401895,
+            "sekolah": "SD INPRES MEYERGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Jan 2024 07:19:21",
+            "sekolah_id_enkrip": "49A7E89389D6C0C3EFDB"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320419",
+            "kecamatan": "Kec. Moskona Barat",
+            "npsn": 60403656,
+            "sekolah": "SMP SATU ATAP MEYERGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Jan 2024 07:38:23",
+            "sekolah_id_enkrip": "44E2D43F171F10BD2859"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320419",
+            "kecamatan": "Kec. Moskona Barat",
+            "npsn": 69879197,
+            "sekolah": "SMA NEGERI MAYERGA",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 20:00:53",
+            "sekolah_id_enkrip": "842146CF79293E5C77AC"
+        }
+    ]
+}

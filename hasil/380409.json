@@ -1,0 +1,60 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380409",
+            "kecamatan": "Kec. Panaga",
+            "npsn": 60302230,
+            "sekolah": "SD INPRES PANAGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Jan 2024 07:36:25",
+            "sekolah_id_enkrip": "7E8CD5DE5D47B42041FB"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380409",
+            "kecamatan": "Kec. Panaga",
+            "npsn": 60302271,
+            "sekolah": "SMP NEGERI PANAGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Oct 2023 14:18:16",
+            "sekolah_id_enkrip": "73F97F5909E2D7161B5E"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380409",
+            "kecamatan": "Kec. Panaga",
+            "npsn": "P2967374",
+            "sekolah": "PKBM GELOK",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Dec 2023 13:04:05",
+            "sekolah_id_enkrip": "8F56B6C910C8D6975297"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380409",
+            "kecamatan": "Kec. Panaga",
+            "npsn": "P9996621",
+            "sekolah": "PKBM PANAGA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "257AB3A28A851059BB4C"
+        }
+    ]
+}

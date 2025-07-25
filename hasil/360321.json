@@ -1,0 +1,32 @@
+{
+    "360300": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360321",
+            "kecamatan": "Kec. Dogomo",
+            "npsn": 70002206,
+            "sekolah": "SD NEGERI DOGOMO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Sep 2023 08:48:02",
+            "sekolah_id_enkrip": "3472D6E911C1937418FA"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360321",
+            "kecamatan": "Kec. Dogomo",
+            "npsn": "P9984949",
+            "sekolah": "PKBM DOUGAI",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Jan 2024 23:08:21",
+            "sekolah_id_enkrip": "71B88AD7DB518697ECED"
+        }
+    ]
+}

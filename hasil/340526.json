@@ -1,0 +1,46 @@
+{
+    "340500": [
+        {
+            "kode_prop": "340000",
+            "propinsi": "Prov. Kalimantan Utara",
+            "kode_kab_kota": "340500",
+            "kabupaten_kota": "Kab. Nunukan",
+            "kode_kec": "340526",
+            "kecamatan": "Kec. Lumbis Pansiangan",
+            "npsn": 30402745,
+            "sekolah": "SD NEGERI 001 LUMBIS PANSIANGAN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 21:33:56",
+            "sekolah_id_enkrip": "DBB89596F1E0E5F1F980"
+        },
+        {
+            "kode_prop": "340000",
+            "propinsi": "Prov. Kalimantan Utara",
+            "kode_kab_kota": "340500",
+            "kabupaten_kota": "Kab. Nunukan",
+            "kode_kec": "340526",
+            "kecamatan": "Kec. Lumbis Pansiangan",
+            "npsn": 30402751,
+            "sekolah": "SD NEGERI 002 LUMBIS PANSIANGAN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Jan 2024 07:06:11",
+            "sekolah_id_enkrip": "5C60B8E1EED57716BAFA"
+        },
+        {
+            "kode_prop": "340000",
+            "propinsi": "Prov. Kalimantan Utara",
+            "kode_kab_kota": "340500",
+            "kabupaten_kota": "Kab. Nunukan",
+            "kode_kec": "340526",
+            "kecamatan": "Kec. Lumbis Pansiangan",
+            "npsn": 70012257,
+            "sekolah": "SMP NEGERI 1 LUMBIS PANSIANGAN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Jan 2024 13:29:34",
+            "sekolah_id_enkrip": "8402B0EFD5E421352931"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "320100": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320114",
+            "kecamatan": "Kec. Mbahamdandara",
+            "npsn": 70003063,
+            "sekolah": "KB NURRUL SALAM",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Aug 2023 01:59:39",
+            "sekolah_id_enkrip": "E7923B9E93270A994C93"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320114",
+            "kecamatan": "Kec. Mbahamdandara",
+            "npsn": 60401021,
+            "sekolah": "SD INPRES GORAS",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Jan 2024 11:54:07",
+            "sekolah_id_enkrip": "028FDB3317CFA3233F78"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320114",
+            "kecamatan": "Kec. Mbahamdandara",
+            "npsn": 70034843,
+            "sekolah": "SD NEGERI MBAHAMDANDARA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Aug 2023 18:48:18",
+            "sekolah_id_enkrip": "80683D270E97D9F6A154"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320114",
+            "kecamatan": "Kec. Mbahamdandara",
+            "npsn": 60403510,
+            "sekolah": "SD Negeri Mitimbert",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Dec 2023 20:06:19",
+            "sekolah_id_enkrip": "B260F88BBD836F454898"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320114",
+            "kecamatan": "Kec. Mbahamdandara",
+            "npsn": 60401048,
+            "sekolah": "SD NEGERI WAREMU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 09:24:06",
+            "sekolah_id_enkrip": "C931E6FAB7615AC46C25"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320114",
+            "kecamatan": "Kec. Mbahamdandara",
+            "npsn": 70040086,
+            "sekolah": "SMP NEGERI 1 MBAHAMDANDARA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Aug 2023 20:04:57",
+            "sekolah_id_enkrip": "AC05511F26BEC7D21D6A"
+        }
+    ]
+}

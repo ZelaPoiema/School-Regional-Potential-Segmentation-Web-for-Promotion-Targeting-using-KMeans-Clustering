@@ -1,0 +1,60 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380349",
+            "kecamatan": "Kec. Yogosem",
+            "npsn": 60303317,
+            "sekolah": "SD INPRES YUARIMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Sep 2023 05:35:48",
+            "sekolah_id_enkrip": "CEDC091EDE0D803FA9CA"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380349",
+            "kecamatan": "Kec. Yogosem",
+            "npsn": 60303667,
+            "sekolah": "SD NEGERI KIROMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 15:12:45",
+            "sekolah_id_enkrip": "F76281EF916D1778DF9E"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380349",
+            "kecamatan": "Kec. Yogosem",
+            "npsn": 60303542,
+            "sekolah": "SDN SYAIKAMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Aug 2023 13:14:53",
+            "sekolah_id_enkrip": "37CF2D41EBB72900AFD9"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380349",
+            "kecamatan": "Kec. Yogosem",
+            "npsn": 60303384,
+            "sekolah": "SDN YOGOSEM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Aug 2023 07:44:50",
+            "sekolah_id_enkrip": "5D1B2D4F1A20FB14A2D7"
+        }
+    ]
+}

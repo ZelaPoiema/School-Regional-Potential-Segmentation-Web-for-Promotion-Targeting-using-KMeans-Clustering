@@ -1,0 +1,88 @@
+{
+    "370200": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370213",
+            "kecamatan": "Kec. Firiwage",
+            "npsn": 60302063,
+            "sekolah": "SD INPRES BIMOP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Sep 2023 00:15:01",
+            "sekolah_id_enkrip": "C48FD2B6DA805362BDBA"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370213",
+            "kecamatan": "Kec. Firiwage",
+            "npsn": 60302065,
+            "sekolah": "SD INPRES FIRIWAGE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Sep 2023 11:54:26",
+            "sekolah_id_enkrip": "EE5B43C22E990DC26677"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370213",
+            "kecamatan": "Kec. Firiwage",
+            "npsn": 60302068,
+            "sekolah": "SD INPRES KARUWAGE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 22:47:16",
+            "sekolah_id_enkrip": "D9226182E0BC77DDCDE2"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370213",
+            "kecamatan": "Kec. Firiwage",
+            "npsn": 60302077,
+            "sekolah": "SD INPRES WALIBURU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "08 Dec 2023 05:54:39",
+            "sekolah_id_enkrip": "2FA39BA34B731AC8B672"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370213",
+            "kecamatan": "Kec. Firiwage",
+            "npsn": 69787838,
+            "sekolah": "SD NEGERI DANOKIT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Aug 2023 15:09:34",
+            "sekolah_id_enkrip": "A4FF015CD0A9AFC1A4AD"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370213",
+            "kecamatan": "Kec. Firiwage",
+            "npsn": 69946406,
+            "sekolah": "SD NEGERI KABUAGE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 18:34:09",
+            "sekolah_id_enkrip": "53972FE27F672BE3C2DB"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "121300": [
+        {
+            "kode_prop": "120000",
+            "propinsi": "Prov. Lampung",
+            "kode_kab_kota": "121300",
+            "kabupaten_kota": "Kab. Pesisir Barat",
+            "kode_kec": "121339",
+            "kecamatan": "KEC. PULAU PISANG",
+            "npsn": 10814788,
+            "sekolah": "TK DHARMA WANITA PULAU PISANG",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Jan 2024 10:34:20",
+            "sekolah_id_enkrip": "28D9F5610935BD3A5E63"
+        },
+        {
+            "kode_prop": "120000",
+            "propinsi": "Prov. Lampung",
+            "kode_kab_kota": "121300",
+            "kabupaten_kota": "Kab. Pesisir Barat",
+            "kode_kec": "121339",
+            "kecamatan": "KEC. PULAU PISANG",
+            "npsn": 69943497,
+            "sekolah": "PAUD ANGGREK",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "21 Jan 2024 20:13:22",
+            "sekolah_id_enkrip": "D756B816415013BED3B1"
+        },
+        {
+            "kode_prop": "120000",
+            "propinsi": "Prov. Lampung",
+            "kode_kab_kota": "121300",
+            "kabupaten_kota": "Kab. Pesisir Barat",
+            "kode_kec": "121339",
+            "kecamatan": "KEC. PULAU PISANG",
+            "npsn": 10803460,
+            "sekolah": "SD NEGERI 91 KRUI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 21:03:55",
+            "sekolah_id_enkrip": "AF7370E8E7EF39702A69"
+        },
+        {
+            "kode_prop": "120000",
+            "propinsi": "Prov. Lampung",
+            "kode_kab_kota": "121300",
+            "kabupaten_kota": "Kab. Pesisir Barat",
+            "kode_kec": "121339",
+            "kecamatan": "KEC. PULAU PISANG",
+            "npsn": 10803436,
+            "sekolah": "SD NEGERI 92 KRUI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 23:59:33",
+            "sekolah_id_enkrip": "606C4BCDBF56E79A5605"
+        },
+        {
+            "kode_prop": "120000",
+            "propinsi": "Prov. Lampung",
+            "kode_kab_kota": "121300",
+            "kabupaten_kota": "Kab. Pesisir Barat",
+            "kode_kec": "121339",
+            "kecamatan": "KEC. PULAU PISANG",
+            "npsn": 10803548,
+            "sekolah": "SMP NEGERI 21 KRUI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 01:54:08",
+            "sekolah_id_enkrip": "AA4D8776A861F0FFFB75"
+        }
+    ]
+}

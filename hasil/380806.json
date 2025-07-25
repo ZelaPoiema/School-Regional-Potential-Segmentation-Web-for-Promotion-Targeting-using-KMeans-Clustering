@@ -1,0 +1,46 @@
+{
+    "380800": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380806",
+            "kecamatan": "Kec. Mugi",
+            "npsn": 69921702,
+            "sekolah": "PAUD MUGI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Aug 2021 18:07:44",
+            "sekolah_id_enkrip": "7B19037EA56E614E9B40"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380806",
+            "kecamatan": "Kec. Mugi",
+            "npsn": 60301437,
+            "sekolah": "SD Inpres Mugi",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 19:55:35",
+            "sekolah_id_enkrip": "AB027AFDBB624A5C8458"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380806",
+            "kecamatan": "Kec. Mugi",
+            "npsn": 60305278,
+            "sekolah": "SMP Negeri Mugi",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Oct 2023 09:39:59",
+            "sekolah_id_enkrip": "E578F5D4ADC7E52118A3"
+        }
+    ]
+}

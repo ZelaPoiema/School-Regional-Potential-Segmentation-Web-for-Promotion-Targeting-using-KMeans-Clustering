@@ -1,0 +1,32 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380718",
+            "kecamatan": "Kec. Milimbo",
+            "npsn": 70030429,
+            "sekolah": "TK WAMINDIK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Aug 2023 12:25:13",
+            "sekolah_id_enkrip": "A9CEBFE794AC012DD040"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380718",
+            "kecamatan": "Kec. Milimbo",
+            "npsn": "P9997367",
+            "sekolah": "PKBM YIROSIMA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "17 Jan 2024 18:07:47",
+            "sekolah_id_enkrip": "F87E6B07A5870C1F0392"
+        }
+    ]
+}

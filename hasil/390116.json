@@ -1,0 +1,46 @@
+{
+    "390100": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390116",
+            "kecamatan": "Kec. Ayamaru Jaya",
+            "npsn": 60401648,
+            "sekolah": "SD INPRES 111 TEMEL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 21:13:27",
+            "sekolah_id_enkrip": "BD5EF6887954988F6469"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390116",
+            "kecamatan": "Kec. Ayamaru Jaya",
+            "npsn": 60403945,
+            "sekolah": "SD YPK ARUS",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Oct 2023 15:15:15",
+            "sekolah_id_enkrip": "D959F3649B10CAA557E7"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390116",
+            "kecamatan": "Kec. Ayamaru Jaya",
+            "npsn": 60401723,
+            "sekolah": "SD YPK SEGIOR",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "24 Jan 2024 15:40:42",
+            "sekolah_id_enkrip": "DB6E7695D7DCBB10B6E9"
+        }
+    ]
+}

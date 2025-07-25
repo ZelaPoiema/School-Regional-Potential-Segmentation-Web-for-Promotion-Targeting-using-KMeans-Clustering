@@ -1,0 +1,46 @@
+{
+    "390400": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390418",
+            "kecamatan": "Kec. Klawak",
+            "npsn": 60401133,
+            "sekolah": "SD INPRES 45 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "20 Dec 2023 01:48:47",
+            "sekolah_id_enkrip": "B21749144353FEEB429E"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390418",
+            "kecamatan": "Kec. Klawak",
+            "npsn": 69991789,
+            "sekolah": "SD NEGERI 34 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 11:35:09",
+            "sekolah_id_enkrip": "5F20CD9036650192E9A4"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390418",
+            "kecamatan": "Kec. Klawak",
+            "npsn": 69815319,
+            "sekolah": "SMP NEGERI 21 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 12:15:56",
+            "sekolah_id_enkrip": "FFB084ABBD7FF4EE1664"
+        }
+    ]
+}

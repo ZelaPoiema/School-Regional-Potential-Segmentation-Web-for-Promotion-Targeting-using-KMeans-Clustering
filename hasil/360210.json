@@ -1,0 +1,32 @@
+{
+    "360200": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360210",
+            "kecamatan": "Kec. Gurage",
+            "npsn": 60301970,
+            "sekolah": "SD INPRES YARMUKUM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 11:12:53",
+            "sekolah_id_enkrip": "D102575D739F9EDC89A6"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360210",
+            "kecamatan": "Kec. Gurage",
+            "npsn": 70032810,
+            "sekolah": "SD NEGERI GURAGE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Jan 2024 22:05:40",
+            "sekolah_id_enkrip": "D5827DFDA7DB8FE39602"
+        }
+    ]
+}

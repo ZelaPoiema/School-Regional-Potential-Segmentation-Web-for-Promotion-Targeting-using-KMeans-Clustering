@@ -1,0 +1,46 @@
+{
+    "390400": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390447",
+            "kecamatan": "Kec. Buk",
+            "npsn": 60401159,
+            "sekolah": "SD INPRES 10 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Nov 2023 07:15:28",
+            "sekolah_id_enkrip": "970C2607E5C26D741F2B"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390447",
+            "kecamatan": "Kec. Buk",
+            "npsn": 60401304,
+            "sekolah": "SD YPK BUK KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Feb 2024 03:09:32",
+            "sekolah_id_enkrip": "EC5FB48F7D0B4EEFB198"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390447",
+            "kecamatan": "Kec. Buk",
+            "npsn": 69815322,
+            "sekolah": "SMP YPK SATAP BUK  KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "04 Feb 2024 03:57:38",
+            "sekolah_id_enkrip": "84A54748E6D28D6C7028"
+        }
+    ]
+}

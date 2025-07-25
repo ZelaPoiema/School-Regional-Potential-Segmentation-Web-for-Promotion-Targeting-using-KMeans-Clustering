@@ -1,0 +1,60 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380738",
+            "kecamatan": "Kec. Buguk Gona",
+            "npsn": 70026468,
+            "sekolah": "TK TEKUL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Aug 2023 06:15:43",
+            "sekolah_id_enkrip": "D8F3A9A9D69E758A15A3"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380738",
+            "kecamatan": "Kec. Buguk Gona",
+            "npsn": 60301467,
+            "sekolah": "SD INPRES UMBANUME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Aug 2023 04:41:54",
+            "sekolah_id_enkrip": "67FCFE13F64A06111549"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380738",
+            "kecamatan": "Kec. Buguk Gona",
+            "npsn": 60301520,
+            "sekolah": "SD YPPGI PIRIME",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "15 Jan 2024 00:03:57",
+            "sekolah_id_enkrip": "DFEAECB9EA0AC693354E"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380738",
+            "kecamatan": "Kec. Buguk Gona",
+            "npsn": 60302990,
+            "sekolah": "SMAN 1 PIRIME",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 18:19:21",
+            "sekolah_id_enkrip": "892A7C16EEB602DE5C2F"
+        }
+    ]
+}

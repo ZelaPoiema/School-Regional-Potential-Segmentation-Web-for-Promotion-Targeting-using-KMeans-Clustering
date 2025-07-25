@@ -1,0 +1,46 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380429",
+            "kecamatan": "Kec. Wari/Taiyeve II",
+            "npsn": 60302261,
+            "sekolah": "SD NEGERI WARI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "20 Aug 2023 12:20:25",
+            "sekolah_id_enkrip": "E333239FFDBB99BE78BF"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380429",
+            "kecamatan": "Kec. Wari/Taiyeve II",
+            "npsn": 60302743,
+            "sekolah": "SMP NEGERI WARI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Sep 2023 04:14:17",
+            "sekolah_id_enkrip": "4A36F22D8B46F4A884B9"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380429",
+            "kecamatan": "Kec. Wari/Taiyeve II",
+            "npsn": 60302282,
+            "sekolah": "SMK Negeri 1 Agrobisnis Dan Agro Teknologi Tolikara",
+            "bentuk": "SMK",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 07:20:46",
+            "sekolah_id_enkrip": "4A7AC061B8CF7E3530D2"
+        }
+    ]
+}

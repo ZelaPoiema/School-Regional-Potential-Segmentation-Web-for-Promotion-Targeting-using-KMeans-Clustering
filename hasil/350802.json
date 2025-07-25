@@ -1,0 +1,74 @@
+{
+    "350800": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350800",
+            "kabupaten_kota": "Arab Saudi",
+            "kode_kec": "350802",
+            "kecamatan": "Jeddah",
+            "npsn": 69992634,
+            "sekolah": "SEKOLAH INDONESIA JEDDAH TINGKAT TK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 16:20:30",
+            "sekolah_id_enkrip": "2F96128377C6D3E7809C"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350800",
+            "kabupaten_kota": "Arab Saudi",
+            "kode_kec": "350802",
+            "kecamatan": "Jeddah",
+            "npsn": 90101014,
+            "sekolah": "SEKOLAH INDONESIA JEDDAH TINGKAT SD",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 19:58:09",
+            "sekolah_id_enkrip": "772832B4790B3A8C0712"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350800",
+            "kabupaten_kota": "Arab Saudi",
+            "kode_kec": "350802",
+            "kecamatan": "Jeddah",
+            "npsn": 90101015,
+            "sekolah": "SEKOLAH INDONESIA JEDDAH TINGKAT SMP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 19:18:27",
+            "sekolah_id_enkrip": "DE85AD8B02541B60015C"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350800",
+            "kabupaten_kota": "Arab Saudi",
+            "kode_kec": "350802",
+            "kecamatan": "Jeddah",
+            "npsn": 90101016,
+            "sekolah": "SEKOLAH INDONESIA JEDDAH TINGKAT SMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 16:05:36",
+            "sekolah_id_enkrip": "671C261928FE4ADB4A23"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350800",
+            "kabupaten_kota": "Arab Saudi",
+            "kode_kec": "350802",
+            "kecamatan": "Jeddah",
+            "npsn": "P9963148",
+            "sekolah": "PKBM SEKOLAH INDONESIA JEDDAH",
+            "bentuk": "PKBM",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Jan 2024 14:46:04",
+            "sekolah_id_enkrip": "BD926F9A5BAE60249DE4"
+        }
+    ]
+}

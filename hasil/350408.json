@@ -1,0 +1,46 @@
+{
+    "350400": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350408",
+            "kecamatan": "Beaufort",
+            "npsn": "9LN01036",
+            "sekolah": "CLC 25 LADANG CEPAT - KPD",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 21:26:59",
+            "sekolah_id_enkrip": "9BB52EBF6A72C19C7B7A"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350408",
+            "kecamatan": "Beaufort",
+            "npsn": "9LN01035",
+            "sekolah": "CLC LADANG LUMADAN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 14:44:54",
+            "sekolah_id_enkrip": "538864F9C3DDDF3F886F"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350408",
+            "kecamatan": "Beaufort",
+            "npsn": "9LN01034",
+            "sekolah": "CLC ST.FRANSISKO YASINTA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "25 Jan 2024 17:07:12",
+            "sekolah_id_enkrip": "280D7A02049ECD605D06"
+        }
+    ]
+}

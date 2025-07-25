@@ -1,0 +1,32 @@
+{
+    "360200": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360208",
+            "kecamatan": "Kec. Tingginambut",
+            "npsn": 60301960,
+            "sekolah": "SD INPRES TINGGINAMBUT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 22:27:39",
+            "sekolah_id_enkrip": "1F70B8B51243404F9EE3"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360208",
+            "kecamatan": "Kec. Tingginambut",
+            "npsn": 60303966,
+            "sekolah": "SMP SATAP TINGGINAMBUT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Sep 2023 21:29:19",
+            "sekolah_id_enkrip": "3F62589E279F0DA3B36F"
+        }
+    ]
+}

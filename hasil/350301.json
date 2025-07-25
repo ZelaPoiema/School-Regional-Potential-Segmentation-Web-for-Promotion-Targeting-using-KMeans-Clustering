@@ -1,0 +1,74 @@
+{
+    "350300": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350300",
+            "kabupaten_kota": "Mesir",
+            "kode_kec": "350301",
+            "kecamatan": "Cairo",
+            "npsn": 69986921,
+            "sekolah": "TK KBRI CAIRO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 14:35:21",
+            "sekolah_id_enkrip": "0CC6C9FD4DDEE1F33184"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350300",
+            "kabupaten_kota": "Mesir",
+            "kode_kec": "350301",
+            "kecamatan": "Cairo",
+            "npsn": 70005888,
+            "sekolah": "TK ABA Cairo Mesir",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "2118A8500F9759381EF0"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350300",
+            "kabupaten_kota": "Mesir",
+            "kode_kec": "350301",
+            "kecamatan": "Cairo",
+            "npsn": 90101004,
+            "sekolah": "SEKOLAH SI CAIRO TINGKAT SD",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Dec 2023 15:26:52",
+            "sekolah_id_enkrip": "8BA33C1C9DBB23E9CDB9"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350300",
+            "kabupaten_kota": "Mesir",
+            "kode_kec": "350301",
+            "kecamatan": "Cairo",
+            "npsn": 90101005,
+            "sekolah": "SEKOLAH SI CAIRO TINGKAT SMP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 18:41:11",
+            "sekolah_id_enkrip": "7114D65F0703835E4FA5"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350300",
+            "kabupaten_kota": "Mesir",
+            "kode_kec": "350301",
+            "kecamatan": "Cairo",
+            "npsn": 90101006,
+            "sekolah": "SEKOLAH SI CAIRO TINGKAT SMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Jan 2024 12:39:02",
+            "sekolah_id_enkrip": "9481C735347F3AAE4048"
+        }
+    ]
+}

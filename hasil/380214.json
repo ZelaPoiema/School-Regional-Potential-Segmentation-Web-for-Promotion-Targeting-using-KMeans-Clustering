@@ -1,0 +1,32 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380214",
+            "kecamatan": "Kec. Oksop",
+            "npsn": 60302159,
+            "sekolah": "SD INPRES BUMBAKON",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "10 Aug 2023 18:56:36",
+            "sekolah_id_enkrip": "2FC59AA1DE6D869FBB6C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380214",
+            "kecamatan": "Kec. Oksop",
+            "npsn": 60302164,
+            "sekolah": "SD INPRES MIMIN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 08:44:49",
+            "sekolah_id_enkrip": "E3288F74469179426326"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "340500": [
+        {
+            "kode_prop": "340000",
+            "propinsi": "Prov. Kalimantan Utara",
+            "kode_kab_kota": "340500",
+            "kabupaten_kota": "Kab. Nunukan",
+            "kode_kec": "340527",
+            "kecamatan": "Kec. Krayan Tengah",
+            "npsn": 30402653,
+            "sekolah": "SD NEGERI 001 KRAYAN TENGAH",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 11:30:48",
+            "sekolah_id_enkrip": "2EBA961C72A5E4AEEC42"
+        },
+        {
+            "kode_prop": "340000",
+            "propinsi": "Prov. Kalimantan Utara",
+            "kode_kab_kota": "340500",
+            "kabupaten_kota": "Kab. Nunukan",
+            "kode_kec": "340527",
+            "kecamatan": "Kec. Krayan Tengah",
+            "npsn": 30402697,
+            "sekolah": "SD NEGERI 002 KRAYAN TENGAH",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 23:23:22",
+            "sekolah_id_enkrip": "D50902554BBA3541ECCA"
+        },
+        {
+            "kode_prop": "340000",
+            "propinsi": "Prov. Kalimantan Utara",
+            "kode_kab_kota": "340500",
+            "kabupaten_kota": "Kab. Nunukan",
+            "kode_kec": "340527",
+            "kecamatan": "Kec. Krayan Tengah",
+            "npsn": 30402659,
+            "sekolah": "SD NEGERI 003 KRAYAN BARAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 11:23:45",
+            "sekolah_id_enkrip": "7BCC899C2460E2E7A7AB"
+        },
+        {
+            "kode_prop": "340000",
+            "propinsi": "Prov. Kalimantan Utara",
+            "kode_kab_kota": "340500",
+            "kabupaten_kota": "Kab. Nunukan",
+            "kode_kec": "340527",
+            "kecamatan": "Kec. Krayan Tengah",
+            "npsn": 30402762,
+            "sekolah": "SD NEGERI 003 KRAYAN TENGAH",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 08:57:29",
+            "sekolah_id_enkrip": "F373C12D130BA1C6331A"
+        },
+        {
+            "kode_prop": "340000",
+            "propinsi": "Prov. Kalimantan Utara",
+            "kode_kab_kota": "340500",
+            "kabupaten_kota": "Kab. Nunukan",
+            "kode_kec": "340527",
+            "kecamatan": "Kec. Krayan Tengah",
+            "npsn": 30402767,
+            "sekolah": "SD NEGERI 004 KRAYAN TENGAH",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 23:36:19",
+            "sekolah_id_enkrip": "2EF2C7BC3C31F7A93D5A"
+        },
+        {
+            "kode_prop": "340000",
+            "propinsi": "Prov. Kalimantan Utara",
+            "kode_kab_kota": "340500",
+            "kabupaten_kota": "Kab. Nunukan",
+            "kode_kec": "340527",
+            "kecamatan": "Kec. Krayan Tengah",
+            "npsn": 30402799,
+            "sekolah": "SMP NEGERI 1 KRAYAN TENGAH",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Jan 2024 09:55:12",
+            "sekolah_id_enkrip": "0E630B89743DCA9D866F"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "380100": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380128",
+            "kecamatan": "Kec. Molagalome",
+            "npsn": 60305291,
+            "sekolah": "SD NEGERI TANAH MERAH",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Aug 2023 13:24:59",
+            "sekolah_id_enkrip": "36DA1B095ED2677C1A1A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380128",
+            "kecamatan": "Kec. Molagalome",
+            "npsn": 60304583,
+            "sekolah": "SDN KOMAGALUK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Nov 2023 11:58:54",
+            "sekolah_id_enkrip": "44B2B9370F1F873C75F0"
+        }
+    ]
+}

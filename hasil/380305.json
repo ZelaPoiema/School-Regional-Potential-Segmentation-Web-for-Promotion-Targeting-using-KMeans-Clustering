@@ -1,0 +1,60 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380305",
+            "kecamatan": "Kec. Samenage",
+            "npsn": 69725947,
+            "sekolah": "SD INPRES SAMINAGE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "18 Aug 2023 05:18:15",
+            "sekolah_id_enkrip": "AF38439BBD0058544DFB"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380305",
+            "kecamatan": "Kec. Samenage",
+            "npsn": 69831595,
+            "sekolah": "SDN HEMER HELENGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Jan 2024 16:03:28",
+            "sekolah_id_enkrip": "3592AC73C79EBB49E872"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380305",
+            "kecamatan": "Kec. Samenage",
+            "npsn": 69831953,
+            "sekolah": "SDN HIRIN IBELAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 22:40:37",
+            "sekolah_id_enkrip": "508A2DC388E4F4A5B3F9"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380305",
+            "kecamatan": "Kec. Samenage",
+            "npsn": 69924473,
+            "sekolah": "SMPN SAMENAGE YAHUKIMO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jul 2023 13:01:24",
+            "sekolah_id_enkrip": "657F783D83214F90DE6A"
+        }
+    ]
+}

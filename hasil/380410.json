@@ -1,0 +1,46 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380410",
+            "kecamatan": "Kec. Woniki",
+            "npsn": 60302258,
+            "sekolah": "SD NEGERI WONIKI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Jan 2024 05:30:32",
+            "sekolah_id_enkrip": "CB1B07ADEA55ADA95D14"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380410",
+            "kecamatan": "Kec. Woniki",
+            "npsn": 60302273,
+            "sekolah": "SMP NEGERI WONIKI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 19:49:35",
+            "sekolah_id_enkrip": "A3EB28D42195FB24E7D0"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380410",
+            "kecamatan": "Kec. Woniki",
+            "npsn": "P9996472",
+            "sekolah": "PKBM WONIKI",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Feb 2024 18:34:22",
+            "sekolah_id_enkrip": "EEF57DDBBDD2EC43F5AF"
+        }
+    ]
+}

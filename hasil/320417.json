@@ -1,0 +1,74 @@
+{
+    "320400": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320417",
+            "kecamatan": "Kec. Moskona Selatan",
+            "npsn": 69990817,
+            "sekolah": "TK NEGERI MENDARIO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Dec 2023 21:21:36",
+            "sekolah_id_enkrip": "B0A84B5C8B14E2828078"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320417",
+            "kecamatan": "Kec. Moskona Selatan",
+            "npsn": 60403479,
+            "sekolah": "SD INPRES MAYENDA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Dec 2023 00:05:50",
+            "sekolah_id_enkrip": "38BD1B0D28A9083ACD90"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320417",
+            "kecamatan": "Kec. Moskona Selatan",
+            "npsn": 60401883,
+            "sekolah": "SD NEGERI BARMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Jan 2024 20:03:53",
+            "sekolah_id_enkrip": "75C3AB6F6F5921E6F2B8"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320417",
+            "kecamatan": "Kec. Moskona Selatan",
+            "npsn": 60401886,
+            "sekolah": "SD NEGERI JAGIRO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 21:57:19",
+            "sekolah_id_enkrip": "FEC469BF4A256E029857"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320417",
+            "kecamatan": "Kec. Moskona Selatan",
+            "npsn": 60404137,
+            "sekolah": "SMP NEGERI SATU ATAP JAGIRO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Oct 2023 11:23:38",
+            "sekolah_id_enkrip": "D614C067033D42B6195D"
+        }
+    ]
+}

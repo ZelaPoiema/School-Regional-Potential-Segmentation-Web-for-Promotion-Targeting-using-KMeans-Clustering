@@ -1,0 +1,46 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380722",
+            "kecamatan": "Kec. Ayumnati",
+            "npsn": 70044874,
+            "sekolah": "TK LEKGOGOME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "A7638844AAB2F07B9483"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380722",
+            "kecamatan": "Kec. Ayumnati",
+            "npsn": 70030428,
+            "sekolah": "TK LUAGALO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jul 2023 10:15:23",
+            "sekolah_id_enkrip": "78C92DEC1116609B139E"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380722",
+            "kecamatan": "Kec. Ayumnati",
+            "npsn": "P9997087",
+            "sekolah": "PKBM CERDAS",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "17 Jan 2024 19:49:38",
+            "sekolah_id_enkrip": "9E857CA62EA974CFF5CB"
+        }
+    ]
+}

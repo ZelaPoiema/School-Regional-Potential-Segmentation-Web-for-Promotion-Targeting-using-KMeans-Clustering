@@ -1,0 +1,32 @@
+{
+    "380100": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380118",
+            "kecamatan": "Kec. Taelarek",
+            "npsn": 60301464,
+            "sekolah": "SD INPRES TAILAREK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Oct 2023 05:53:03",
+            "sekolah_id_enkrip": "BB94229F18575996D108"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380118",
+            "kecamatan": "Kec. Taelarek",
+            "npsn": 60304198,
+            "sekolah": "SD NEGERI TAELA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 12:05:45",
+            "sekolah_id_enkrip": "DDE3B794DCDBC746FFC2"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "360200": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360226",
+            "kecamatan": "Kec. Kiyage",
+            "npsn": 70005317,
+            "sekolah": "SD NEGERI KIYAGE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 18:44:52",
+            "sekolah_id_enkrip": "7F99DF21EF9597D3C8D7"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360226",
+            "kecamatan": "Kec. Kiyage",
+            "npsn": 70032812,
+            "sekolah": "SD NEGERI TORERE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "AE36C55FC93C0D007192"
+        }
+    ]
+}

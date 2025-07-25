@@ -1,0 +1,102 @@
+{
+    "320400": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320406",
+            "kecamatan": "Kec. Kuri",
+            "npsn": 69938256,
+            "sekolah": "TK Riedo Sarbe",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "13 Jan 2024 13:39:47",
+            "sekolah_id_enkrip": "CA5EDFDB5AEF4E325ED2"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320406",
+            "kecamatan": "Kec. Kuri",
+            "npsn": 60401897,
+            "sekolah": "SD INPRES NARAMASA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Sep 2023 10:09:58",
+            "sekolah_id_enkrip": "86D47F33FF2213CA7864"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320406",
+            "kecamatan": "Kec. Kuri",
+            "npsn": 60401898,
+            "sekolah": "SD INPRES SARBE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Jan 2024 11:41:32",
+            "sekolah_id_enkrip": "ADAA986D679D2ECFFE8F"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320406",
+            "kecamatan": "Kec. Kuri",
+            "npsn": 60725742,
+            "sekolah": "SD NEGERI AWEGRO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 06:39:21",
+            "sekolah_id_enkrip": "03BB2174C55F38F52A16"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320406",
+            "kecamatan": "Kec. Kuri",
+            "npsn": 60403649,
+            "sekolah": "SD PERSIAPAN OBO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 21:52:05",
+            "sekolah_id_enkrip": "5B5BB1F96BABA4590E21"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320406",
+            "kecamatan": "Kec. Kuri",
+            "npsn": 60401921,
+            "sekolah": "SD YPK WAGURA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Feb 2024 09:06:13",
+            "sekolah_id_enkrip": "5D0EDA1AB2F00F11CD36"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320406",
+            "kecamatan": "Kec. Kuri",
+            "npsn": 60403493,
+            "sekolah": "SMP NEGERI KURI SARBE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 08:55:34",
+            "sekolah_id_enkrip": "66E1401AF4C5C177181B"
+        }
+    ]
+}

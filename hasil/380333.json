@@ -1,0 +1,46 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380333",
+            "kecamatan": "Kec. Dirwemna",
+            "npsn": 60303503,
+            "sekolah": "SD NEGERI DIRUENMA YAHUKIMO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "20 Aug 2023 12:05:33",
+            "sekolah_id_enkrip": "8480692E2749A6C4DE09"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380333",
+            "kecamatan": "Kec. Dirwemna",
+            "npsn": 69831992,
+            "sekolah": "SDN AKGWAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Dec 2023 13:11:41",
+            "sekolah_id_enkrip": "DC186C623FA0FD772972"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380333",
+            "kecamatan": "Kec. Dirwemna",
+            "npsn": 69924472,
+            "sekolah": "SMPN DIPUL YAHUKIMO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 12:05:26",
+            "sekolah_id_enkrip": "8F09F95A74B0BCBD2B1D"
+        }
+    ]
+}

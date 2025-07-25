@@ -1,0 +1,60 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380414",
+            "kecamatan": "Kec. Kuari",
+            "npsn": 60302215,
+            "sekolah": "SD INPRES KUARI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 10:04:05",
+            "sekolah_id_enkrip": "C3BA91FAC0C6C6B8F648"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380414",
+            "kecamatan": "Kec. Kuari",
+            "npsn": 60302251,
+            "sekolah": "SD NEGERI IMBUNI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Oct 2023 07:25:02",
+            "sekolah_id_enkrip": "D333975BA45CEE595A50"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380414",
+            "kecamatan": "Kec. Kuari",
+            "npsn": 69966244,
+            "sekolah": "SMP NEGERI KUARI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 14:58:18",
+            "sekolah_id_enkrip": "40ABAF141245BFD7B393"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380414",
+            "kecamatan": "Kec. Kuari",
+            "npsn": "P9996620",
+            "sekolah": "PKBM ORAET LABORA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Aug 2023 03:45:29",
+            "sekolah_id_enkrip": "32CE148C37B23D60112B"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "350400": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350405",
+            "kecamatan": "Papar",
+            "npsn": "9LN01020",
+            "sekolah": "CLC SERAT BANGSA LADANG KIMANIS",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Dec 2023 09:32:36",
+            "sekolah_id_enkrip": "7B270AA46DB1A8364753"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350405",
+            "kecamatan": "Papar",
+            "npsn": "9LN01019",
+            "sekolah": "CLC TUNAS HARAPAN BANGSA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "10 Dec 2023 06:05:12",
+            "sekolah_id_enkrip": "782F2DEFBBBB05C58001"
+        }
+    ]
+}

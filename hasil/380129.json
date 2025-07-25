@@ -1,0 +1,88 @@
+{
+    "380100": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380129",
+            "kecamatan": "Kec. Tagineri",
+            "npsn": 70035804,
+            "sekolah": "KB PAUD WEKA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "10 Aug 2023 05:22:17",
+            "sekolah_id_enkrip": "740FF083712B93DC93DD"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380129",
+            "kecamatan": "Kec. Tagineri",
+            "npsn": 70004349,
+            "sekolah": "PAUD KRISTEN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Aug 2023 07:19:14",
+            "sekolah_id_enkrip": "E407D92A6DADB8625B70"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380129",
+            "kecamatan": "Kec. Tagineri",
+            "npsn": 60301457,
+            "sekolah": "SD INPRES POROME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Jan 2024 08:53:53",
+            "sekolah_id_enkrip": "872949ABA2D2A94719AE"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380129",
+            "kecamatan": "Kec. Tagineri",
+            "npsn": 60303498,
+            "sekolah": "SD NEGERI JAYA INJUTA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Aug 2023 05:55:17",
+            "sekolah_id_enkrip": "5E62068CB9D4FA5C62FF"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380129",
+            "kecamatan": "Kec. Tagineri",
+            "npsn": 60301585,
+            "sekolah": "SMP YPPGI TAGIME",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Jan 2024 05:38:56",
+            "sekolah_id_enkrip": "B7085C4983F87A25456C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380129",
+            "kecamatan": "Kec. Tagineri",
+            "npsn": 60301593,
+            "sekolah": "SMAN BOLAKME",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 04:28:20",
+            "sekolah_id_enkrip": "56D0EE8005D1144FE859"
+        }
+    ]
+}

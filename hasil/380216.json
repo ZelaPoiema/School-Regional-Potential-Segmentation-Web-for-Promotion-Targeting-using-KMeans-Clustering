@@ -1,0 +1,74 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380216",
+            "kecamatan": "Kec. Ok Aom",
+            "npsn": 70005336,
+            "sekolah": "PAUD TK NEGERI OKAOM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Aug 2023 21:34:21",
+            "sekolah_id_enkrip": "F0E931D4405A2D33649E"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380216",
+            "kecamatan": "Kec. Ok Aom",
+            "npsn": 60300966,
+            "sekolah": "SD INPRES ABODING",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "09 Aug 2023 20:59:10",
+            "sekolah_id_enkrip": "8A2D184DC078695EE2F3"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380216",
+            "kecamatan": "Kec. Ok Aom",
+            "npsn": 60302158,
+            "sekolah": "SD INPRES BULANGKOP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Aug 2023 18:00:11",
+            "sekolah_id_enkrip": "27A6AD7031E51625EE1E"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380216",
+            "kecamatan": "Kec. Ok Aom",
+            "npsn": 60302807,
+            "sekolah": "SD INPRES YUMAKOT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "11 Aug 2023 21:57:42",
+            "sekolah_id_enkrip": "FF59B128E01AF83E4218"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380216",
+            "kecamatan": "Kec. Ok Aom",
+            "npsn": 69725977,
+            "sekolah": "SMP NEGERI BULANGKOP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Jul 2023 08:15:47",
+            "sekolah_id_enkrip": "F35BE90676632AB77959"
+        }
+    ]
+}

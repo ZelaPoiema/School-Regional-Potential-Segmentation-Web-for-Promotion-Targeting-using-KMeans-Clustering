@@ -1,0 +1,46 @@
+{
+    "380100": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380110",
+            "kecamatan": "Kec. Pelebaga",
+            "npsn": 60301477,
+            "sekolah": "SD INPRES WETALAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Jan 2024 19:05:46",
+            "sekolah_id_enkrip": "EC372E16C75BF4AA279F"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380110",
+            "kecamatan": "Kec. Pelebaga",
+            "npsn": 60301495,
+            "sekolah": "SD NEGERI LANDIA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Jan 2024 11:24:55",
+            "sekolah_id_enkrip": "C0C22F0C9F39F919FFAB"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380110",
+            "kecamatan": "Kec. Pelebaga",
+            "npsn": 60301534,
+            "sekolah": "SD YPPK ISUNIK",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Feb 2024 11:16:56",
+            "sekolah_id_enkrip": "BBEA2B657B04710C143F"
+        }
+    ]
+}

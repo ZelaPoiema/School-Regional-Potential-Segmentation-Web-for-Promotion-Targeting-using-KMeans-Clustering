@@ -1,0 +1,88 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380210",
+            "kecamatan": "Kec. Bime",
+            "npsn": 60302152,
+            "sekolah": "SD INPRES ATEMBABOL BIME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Aug 2023 19:48:43",
+            "sekolah_id_enkrip": "25F8877C0382E0D580D0"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380210",
+            "kecamatan": "Kec. Bime",
+            "npsn": 70032339,
+            "sekolah": "SD INPRES BUNGGON",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Dec 2023 14:17:22",
+            "sekolah_id_enkrip": "CCFDA5E31FC8320D38AB"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380210",
+            "kecamatan": "Kec. Bime",
+            "npsn": 70002123,
+            "sekolah": "SD INPRES CALAP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Aug 2023 20:09:15",
+            "sekolah_id_enkrip": "2FE26984C1129BCBDD06"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380210",
+            "kecamatan": "Kec. Bime",
+            "npsn": 69991543,
+            "sekolah": "SD INPRES KAMEME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Aug 2023 01:22:01",
+            "sekolah_id_enkrip": "B64A545F04CCDC46658A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380210",
+            "kecamatan": "Kec. Bime",
+            "npsn": 69950560,
+            "sekolah": "SMP NEGERI BIME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Aug 2023 06:46:01",
+            "sekolah_id_enkrip": "3924C39E47DE498E8E0C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380210",
+            "kecamatan": "Kec. Bime",
+            "npsn": 70041891,
+            "sekolah": "SMA NEGERI BIME",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Aug 2023 18:15:17",
+            "sekolah_id_enkrip": "8650E3168D0A10CCCCC4"
+        }
+    ]
+}

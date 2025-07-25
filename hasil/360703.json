@@ -1,0 +1,88 @@
+{
+    "360700": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360700",
+            "kabupaten_kota": "Kab. Intan Jaya",
+            "kode_kec": "360703",
+            "kecamatan": "Kec. Wandai",
+            "npsn": 60302323,
+            "sekolah": "SD Negeri Inpres Mbiulagi",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 09:42:19",
+            "sekolah_id_enkrip": "BE8900449BFFBA90B35A"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360700",
+            "kabupaten_kota": "Kab. Intan Jaya",
+            "kode_kec": "360703",
+            "kecamatan": "Kec. Wandai",
+            "npsn": 60302324,
+            "sekolah": "SD Negeri Inpres Mbugulo",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 16:39:39",
+            "sekolah_id_enkrip": "C1FD45655E7CB302A679"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360700",
+            "kabupaten_kota": "Kab. Intan Jaya",
+            "kode_kec": "360703",
+            "kecamatan": "Kec. Wandai",
+            "npsn": 60302373,
+            "sekolah": "SD YPPGI MOGALO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Aug 2023 08:49:38",
+            "sekolah_id_enkrip": "8446B1029BC1FE540181"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360700",
+            "kabupaten_kota": "Kab. Intan Jaya",
+            "kode_kec": "360703",
+            "kecamatan": "Kec. Wandai",
+            "npsn": 60302376,
+            "sekolah": "SD YPPGI Ndaitadipa",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Jan 2024 20:24:30",
+            "sekolah_id_enkrip": "BBBFB8F3DE0B8400BD0E"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360700",
+            "kabupaten_kota": "Kab. Intan Jaya",
+            "kode_kec": "360703",
+            "kecamatan": "Kec. Wandai",
+            "npsn": 60302440,
+            "sekolah": "SMP NEGERI 3 WANDAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Nov 2023 08:45:10",
+            "sekolah_id_enkrip": "08D99FB4965873F48B10"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360700",
+            "kabupaten_kota": "Kab. Intan Jaya",
+            "kode_kec": "360703",
+            "kecamatan": "Kec. Wandai",
+            "npsn": 60303560,
+            "sekolah": "SMP SATU ATAP MBIULAGI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 12:37:35",
+            "sekolah_id_enkrip": "2875FA8B614D3E022F6E"
+        }
+    ]
+}

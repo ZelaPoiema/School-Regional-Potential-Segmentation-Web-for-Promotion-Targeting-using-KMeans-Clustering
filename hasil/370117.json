@@ -1,0 +1,88 @@
+{
+    "370100": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370117",
+            "kecamatan": "Kec. Kaptel",
+            "npsn": 60304950,
+            "sekolah": "SD YPK BU EPE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 10:11:12",
+            "sekolah_id_enkrip": "D4D06EF14846226024FC"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370117",
+            "kecamatan": "Kec. Kaptel",
+            "npsn": 60300748,
+            "sekolah": "SD YPK IHLEP",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "27 Apr 2023 18:50:30",
+            "sekolah_id_enkrip": "D6CF25F5C8FA8F1E6EFB"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370117",
+            "kecamatan": "Kec. Kaptel",
+            "npsn": 60300746,
+            "sekolah": "SD YPK KANISKOBAT",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Feb 2024 21:55:42",
+            "sekolah_id_enkrip": "1FDD3A4285CB9A13007B"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370117",
+            "kecamatan": "Kec. Kaptel",
+            "npsn": 60300745,
+            "sekolah": "SD YPK KAPTEL",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "07 Dec 2023 07:23:24",
+            "sekolah_id_enkrip": "E0D0D8C5EDA051688529"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370117",
+            "kecamatan": "Kec. Kaptel",
+            "npsn": 60300742,
+            "sekolah": "SD YPK KWEMSID",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Jan 2024 08:06:00",
+            "sekolah_id_enkrip": "B856076D20CD2E4C7363"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370117",
+            "kecamatan": "Kec. Kaptel",
+            "npsn": 69772746,
+            "sekolah": "SMPN PERSIAPAN KAPTEL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 22:52:38",
+            "sekolah_id_enkrip": "1FC4C11BBC6645429C42"
+        }
+    ]
+}

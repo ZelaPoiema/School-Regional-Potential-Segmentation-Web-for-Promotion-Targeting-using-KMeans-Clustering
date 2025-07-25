@@ -1,0 +1,74 @@
+{
+    "170100": [
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170100",
+            "kabupaten_kota": "Kab. Bolaang Mongondow",
+            "kode_kec": "170135",
+            "kecamatan": "Kec. Dumoga Tenggara",
+            "npsn": 70005412,
+            "sekolah": "TK AZ - ZAHRA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Feb 2023 06:03:11",
+            "sekolah_id_enkrip": "59921B1D5B4B0FBBFA0E"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170100",
+            "kabupaten_kota": "Kab. Bolaang Mongondow",
+            "kode_kec": "170135",
+            "kecamatan": "Kec. Dumoga Tenggara",
+            "npsn": 69944909,
+            "sekolah": "TK PKK DAHLIA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Aug 2023 06:06:27",
+            "sekolah_id_enkrip": "77A96BF92B9465FA331D"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170100",
+            "kabupaten_kota": "Kab. Bolaang Mongondow",
+            "kode_kec": "170135",
+            "kecamatan": "Kec. Dumoga Tenggara",
+            "npsn": 69985418,
+            "sekolah": "KB BUNGA ANGGREK TAPADAKA UTARA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "04 Feb 2024 17:57:33",
+            "sekolah_id_enkrip": "181C9A356FB14FD4276A"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170100",
+            "kabupaten_kota": "Kab. Bolaang Mongondow",
+            "kode_kec": "170135",
+            "kecamatan": "Kec. Dumoga Tenggara",
+            "npsn": 69986717,
+            "sekolah": "PAUD BUGENFIL",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "09 Feb 2023 13:00:07",
+            "sekolah_id_enkrip": "5A554FB495468CC765A2"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170100",
+            "kabupaten_kota": "Kab. Bolaang Mongondow",
+            "kode_kec": "170135",
+            "kecamatan": "Kec. Dumoga Tenggara",
+            "npsn": 69979588,
+            "sekolah": "SMPN 14 DUMOGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 12:09:46",
+            "sekolah_id_enkrip": "92034DF2010C0A88050E"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "250200": [
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250214",
+            "kecamatan": "Kec. Poiru",
+            "npsn": 69954257,
+            "sekolah": "KB SAKEI ANDEY",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "BD4A1BC29B2560D51876"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250214",
+            "kecamatan": "Kec. Poiru",
+            "npsn": 60300292,
+            "sekolah": "SD NEGERI ANDEI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 10:57:30",
+            "sekolah_id_enkrip": "0DCC9165610FDB583C77"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250214",
+            "kecamatan": "Kec. Poiru",
+            "npsn": 60300468,
+            "sekolah": "SD YPK BAWEI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Aug 2023 22:47:07",
+            "sekolah_id_enkrip": "2568A626BF9D280B16B3"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250214",
+            "kecamatan": "Kec. Poiru",
+            "npsn": 60300437,
+            "sekolah": "SD YPK MANGGARI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "07 Dec 2023 12:35:31",
+            "sekolah_id_enkrip": "A19DBA24783E4751016F"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250214",
+            "kecamatan": "Kec. Poiru",
+            "npsn": 60300317,
+            "sekolah": "SD YPK SYORIBO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Aug 2023 20:24:52",
+            "sekolah_id_enkrip": "49C921E0D0F3F97BC0F5"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250214",
+            "kecamatan": "Kec. Poiru",
+            "npsn": 60301719,
+            "sekolah": "SMK Negeri 3 Kemaritiman Biak Numfor",
+            "bentuk": "SMK",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 12:40:14",
+            "sekolah_id_enkrip": "C35C406C849B6ED758E8"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250214",
+            "kecamatan": "Kec. Poiru",
+            "npsn": "P9954110",
+            "sekolah": "PKBM NUMFORI SUB BYAKI MARARES",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Dec 2023 17:00:23",
+            "sekolah_id_enkrip": "4FB627C97DFCB090F1E3"
+        }
+    ]
+}

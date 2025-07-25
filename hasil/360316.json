@@ -1,0 +1,60 @@
+{
+    "360300": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360316",
+            "kecamatan": "Kec. Teluk Deya",
+            "npsn": 70015691,
+            "sekolah": "TK PAUD GILEAD PIYAMANAIDA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Sep 2023 20:20:38",
+            "sekolah_id_enkrip": "BDA0A4D482CDA0B7A823"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360316",
+            "kecamatan": "Kec. Teluk Deya",
+            "npsn": 70015696,
+            "sekolah": "TK PAUD PAROSIA KUNIAUWO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Sep 2023 19:49:56",
+            "sekolah_id_enkrip": "41C091754D09C8FC502C"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360316",
+            "kecamatan": "Kec. Teluk Deya",
+            "npsn": 60302337,
+            "sekolah": "SD INPRES WAIPA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Aug 2023 04:11:52",
+            "sekolah_id_enkrip": "0DB4F9B65A6032A970B9"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360316",
+            "kecamatan": "Kec. Teluk Deya",
+            "npsn": "P9963029",
+            "sekolah": "PKBM TELUK DEYA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Dec 2023 17:22:52",
+            "sekolah_id_enkrip": "5DD752771E8494393D31"
+        }
+    ]
+}

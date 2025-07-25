@@ -1,0 +1,46 @@
+{
+    "252000": [
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "252000",
+            "kabupaten_kota": "Kab. Keerom",
+            "kode_kec": "252009",
+            "kecamatan": "Kec. Kaisenar",
+            "npsn": 69787855,
+            "sekolah": "SD INPRES KEISNAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "09 Oct 2023 19:45:16",
+            "sekolah_id_enkrip": "0AB9D2B37E0D707654C3"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "252000",
+            "kabupaten_kota": "Kab. Keerom",
+            "kode_kec": "252009",
+            "kecamatan": "Kec. Kaisenar",
+            "npsn": 70012008,
+            "sekolah": "SD NEGERI TEFALMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 10:26:16",
+            "sekolah_id_enkrip": "817FD352C598FAF7369A"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "252000",
+            "kabupaten_kota": "Kab. Keerom",
+            "kode_kec": "252009",
+            "kecamatan": "Kec. Kaisenar",
+            "npsn": 69892641,
+            "sekolah": "SD YPK KIAMBRA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Oct 2023 03:46:24",
+            "sekolah_id_enkrip": "3643CBEDAFE29F8CFDCB"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "170400": [
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170400",
+            "kabupaten_kota": "Kab. Kepulauan Talaud",
+            "kode_kec": "170419",
+            "kecamatan": "Kec. Miangas",
+            "npsn": 40104996,
+            "sekolah": "TK WUI BATU",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "17 Jan 2024 11:14:13",
+            "sekolah_id_enkrip": "3BA63BC80D914DDD9D7D"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170400",
+            "kabupaten_kota": "Kab. Kepulauan Talaud",
+            "kode_kec": "170419",
+            "kecamatan": "Kec. Miangas",
+            "npsn": 69946043,
+            "sekolah": "PAUD POILATEN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "18 Aug 2023 21:03:58",
+            "sekolah_id_enkrip": "85F2A75183D8D9ACB673"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170400",
+            "kabupaten_kota": "Kab. Kepulauan Talaud",
+            "kode_kec": "170419",
+            "kecamatan": "Kec. Miangas",
+            "npsn": 69935123,
+            "sekolah": "PAUD TINONDA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Aug 2023 19:29:16",
+            "sekolah_id_enkrip": "B80741AD84E98E862000"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170400",
+            "kabupaten_kota": "Kab. Kepulauan Talaud",
+            "kode_kec": "170419",
+            "kecamatan": "Kec. Miangas",
+            "npsn": 40101716,
+            "sekolah": "SD NEGERI MIANGAS",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Sep 2023 16:03:06",
+            "sekolah_id_enkrip": "8BB9E6B902BFAB8F67DD"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170400",
+            "kabupaten_kota": "Kab. Kepulauan Talaud",
+            "kode_kec": "170419",
+            "kecamatan": "Kec. Miangas",
+            "npsn": 40103554,
+            "sekolah": "SMP NEGERI 2 NANUSA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 00:52:44",
+            "sekolah_id_enkrip": "99C2C09CD6B2D00B1E59"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170400",
+            "kabupaten_kota": "Kab. Kepulauan Talaud",
+            "kode_kec": "170419",
+            "kecamatan": "Kec. Miangas",
+            "npsn": 40103558,
+            "sekolah": "SMKN 2 TALAUD",
+            "bentuk": "SMK",
+            "status": "Negeri",
+            "sinkron_terakhir": "20 Nov 2023 10:59:26",
+            "sekolah_id_enkrip": "AC1300EE78E644830DB9"
+        }
+    ]
+}

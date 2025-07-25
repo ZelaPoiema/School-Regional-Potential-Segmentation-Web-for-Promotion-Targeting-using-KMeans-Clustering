@@ -1,0 +1,60 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380733",
+            "kecamatan": "Kec. Yiluk",
+            "npsn": 69725988,
+            "sekolah": "SD INPRES WONOME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "10 Sep 2023 12:07:42",
+            "sekolah_id_enkrip": "78D2BB81D6AADAA97135"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380733",
+            "kecamatan": "Kec. Yiluk",
+            "npsn": 60303493,
+            "sekolah": "SD YPPGI YUWGA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "12 Sep 2023 12:18:21",
+            "sekolah_id_enkrip": "CC906DEB0F5B03432DD8"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380733",
+            "kecamatan": "Kec. Yiluk",
+            "npsn": 60304906,
+            "sekolah": "SMP NEGERI 2 GAMELIA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Nov 2023 04:53:38",
+            "sekolah_id_enkrip": "DC1C30BE831DE7296125"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380733",
+            "kecamatan": "Kec. Yiluk",
+            "npsn": "P9996903",
+            "sekolah": "PKBM WONOME",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Aug 2023 19:25:37",
+            "sekolah_id_enkrip": "70FEE89A1CFA38556D2B"
+        }
+    ]
+}

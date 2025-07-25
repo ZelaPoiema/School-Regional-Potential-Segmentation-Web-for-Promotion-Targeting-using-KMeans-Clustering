@@ -1,0 +1,46 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380319",
+            "kecamatan": "Kec. Ukha",
+            "npsn": 60303313,
+            "sekolah": "SD INPRES UWEIMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Jan 2024 13:27:12",
+            "sekolah_id_enkrip": "9D497D379E86710815F6"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380319",
+            "kecamatan": "Kec. Ukha",
+            "npsn": 69831587,
+            "sekolah": "SD NEGERI AMISANGI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Dec 2023 04:41:26",
+            "sekolah_id_enkrip": "B650559E4BF37E0F9975"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380319",
+            "kecamatan": "Kec. Ukha",
+            "npsn": 69831597,
+            "sekolah": "SD NEGERI KULEKEM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Aug 2023 19:23:53",
+            "sekolah_id_enkrip": "B708D324226A327E05CD"
+        }
+    ]
+}

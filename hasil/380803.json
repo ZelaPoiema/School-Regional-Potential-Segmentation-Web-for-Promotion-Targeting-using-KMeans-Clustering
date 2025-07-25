@@ -1,0 +1,32 @@
+{
+    "380800": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380803",
+            "kecamatan": "Kec. Yigi",
+            "npsn": 60301486,
+            "sekolah": "SD Inpres Yigi",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 14:47:51",
+            "sekolah_id_enkrip": "D50F1ACC06B123BBBF75"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380803",
+            "kecamatan": "Kec. Yigi",
+            "npsn": 60302959,
+            "sekolah": "SMP Negeri Yigi",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 15:30:30",
+            "sekolah_id_enkrip": "A62B90B81B0664AB1F7E"
+        }
+    ]
+}

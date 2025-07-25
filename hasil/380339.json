@@ -1,0 +1,46 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380339",
+            "kecamatan": "Kec. Langda",
+            "npsn": 60303536,
+            "sekolah": "SD NEGERI ALIRGI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Sep 2023 06:35:24",
+            "sekolah_id_enkrip": "54969DCA3ED545EB4341"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380339",
+            "kecamatan": "Kec. Langda",
+            "npsn": 60303267,
+            "sekolah": "SD YPK LANGDA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "15 Dec 2023 06:26:03",
+            "sekolah_id_enkrip": "65CFF1379E0B85969EEE"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380339",
+            "kecamatan": "Kec. Langda",
+            "npsn": 60303327,
+            "sekolah": "SMPN LANGDA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 09:39:06",
+            "sekolah_id_enkrip": "EBD23CB8A564B3E47834"
+        }
+    ]
+}

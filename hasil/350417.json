@@ -1,0 +1,46 @@
+{
+    "350400": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350417",
+            "kecamatan": "Johor Bahru",
+            "npsn": 69962248,
+            "sekolah": "SEKOLAH SI JOHOR BAHRU (SIJB) TINGKAT SD",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Dec 2023 09:46:00",
+            "sekolah_id_enkrip": "2A1FFDB9F7B97E83B5F9"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350417",
+            "kecamatan": "Johor Bahru",
+            "npsn": 69962249,
+            "sekolah": "SEKOLAH SI JOHOR BAHRU (SIJB) TINGKAT SMP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 14:44:20",
+            "sekolah_id_enkrip": "13CAEFE81F96AD624E2D"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350417",
+            "kecamatan": "Johor Bahru",
+            "npsn": "P9956777",
+            "sekolah": "PKBM SEKOLAH INDONESIA TERBUKA (SIT) Johor Bahru",
+            "bentuk": "PKBM",
+            "status": "Negeri",
+            "sinkron_terakhir": "18 Oct 2023 14:05:52",
+            "sekolah_id_enkrip": "6579EED5A51E54C42CF1"
+        }
+    ]
+}

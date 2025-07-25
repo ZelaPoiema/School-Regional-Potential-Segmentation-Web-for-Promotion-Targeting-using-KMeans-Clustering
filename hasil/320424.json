@@ -1,0 +1,32 @@
+{
+    "320400": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320424",
+            "kecamatan": "Kec. Moskona Timur",
+            "npsn": 60401885,
+            "sekolah": "SD INPRES IGOMU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 19:25:44",
+            "sekolah_id_enkrip": "3FAE6DBF033B93B8D1E8"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320424",
+            "kecamatan": "Kec. Moskona Timur",
+            "npsn": 69965803,
+            "sekolah": "SMP Persiapan Negeri Igomu",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 19:16:53",
+            "sekolah_id_enkrip": "2CB18BF067A312710D38"
+        }
+    ]
+}

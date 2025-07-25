@@ -1,0 +1,60 @@
+{
+    "390100": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390121",
+            "kecamatan": "Kec. Ayamaru Barat",
+            "npsn": 69970698,
+            "sekolah": "TK-PAUD PAULUS SOROAN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "25 Jan 2024 10:22:25",
+            "sekolah_id_enkrip": "BD6CF9E537D23000310D"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390121",
+            "kecamatan": "Kec. Ayamaru Barat",
+            "npsn": 70013562,
+            "sekolah": "SD NEGERI YABOK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 20:28:28",
+            "sekolah_id_enkrip": "552A92CB2068D8A724AA"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390121",
+            "kecamatan": "Kec. Ayamaru Barat",
+            "npsn": 60403942,
+            "sekolah": "SD YPK SOROAN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Jan 2024 07:01:58",
+            "sekolah_id_enkrip": "28DA42058456DD55F3C1"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390121",
+            "kecamatan": "Kec. Ayamaru Barat",
+            "npsn": 69899782,
+            "sekolah": "SMP YPK PAULUS SOROAN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Feb 2024 14:44:13",
+            "sekolah_id_enkrip": "6A3E221DA4119F475CEF"
+        }
+    ]
+}

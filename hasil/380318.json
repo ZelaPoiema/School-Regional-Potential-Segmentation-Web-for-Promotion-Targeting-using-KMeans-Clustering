@@ -1,0 +1,74 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380318",
+            "kecamatan": "Kec. Tangma",
+            "npsn": 60303314,
+            "sekolah": "SD INPRES WAMEREK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Jan 2024 14:44:17",
+            "sekolah_id_enkrip": "04CFCCAE75206AAEF49A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380318",
+            "kecamatan": "Kec. Tangma",
+            "npsn": 70033486,
+            "sekolah": "SD NEGERI TANGMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Aug 2023 16:53:52",
+            "sekolah_id_enkrip": "37965A73D4C0B1D091A8"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380318",
+            "kecamatan": "Kec. Tangma",
+            "npsn": 60303299,
+            "sekolah": "SD YPPGI TANGMA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 17:24:27",
+            "sekolah_id_enkrip": "DB8C2D04D64868C63A41"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380318",
+            "kecamatan": "Kec. Tangma",
+            "npsn": 69831964,
+            "sekolah": "SMPN TANGMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Aug 2023 12:10:49",
+            "sekolah_id_enkrip": "385A3DA48B946916AB78"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380318",
+            "kecamatan": "Kec. Tangma",
+            "npsn": 69796685,
+            "sekolah": "SMPS YPPGI TANGMA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "25 Jan 2024 23:03:13",
+            "sekolah_id_enkrip": "EDFB841910758850B4F7"
+        }
+    ]
+}

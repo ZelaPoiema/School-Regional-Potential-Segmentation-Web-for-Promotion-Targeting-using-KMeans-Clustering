@@ -1,0 +1,32 @@
+{
+    "170200": [
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170200",
+            "kabupaten_kota": "Kab. Minahasa",
+            "kode_kec": "170241",
+            "kecamatan": "Kec. Kawangkoan Utara",
+            "npsn": 70027936,
+            "sekolah": "TK ANUGERAH KIAWA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Sep 2023 06:38:14",
+            "sekolah_id_enkrip": "D9E7E3250063AC7C9251"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170200",
+            "kabupaten_kota": "Kab. Minahasa",
+            "kode_kec": "170241",
+            "kecamatan": "Kec. Kawangkoan Utara",
+            "npsn": 70002336,
+            "sekolah": "KB SOLAFIDE",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "23 Aug 2023 20:48:56",
+            "sekolah_id_enkrip": "1AF35D98DA476A2CF365"
+        }
+    ]
+}

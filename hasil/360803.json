@@ -1,0 +1,46 @@
+{
+    "360800": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360800",
+            "kabupaten_kota": "Kab. Deiyai",
+            "kode_kec": "360803",
+            "kecamatan": "Kec. Bowobado",
+            "npsn": 70031786,
+            "sekolah": "TK YPPGI Gideon Yeuwo Timepa",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Oct 2023 09:41:44",
+            "sekolah_id_enkrip": "2F82AE50E0CA9B51D90F"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360800",
+            "kabupaten_kota": "Kab. Deiyai",
+            "kode_kec": "360803",
+            "kecamatan": "Kec. Bowobado",
+            "npsn": 60302977,
+            "sekolah": "SD INPRES KOPAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 22:22:38",
+            "sekolah_id_enkrip": "9569751E9FB2D3441DB5"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360800",
+            "kabupaten_kota": "Kab. Deiyai",
+            "kode_kec": "360803",
+            "kecamatan": "Kec. Bowobado",
+            "npsn": 60302388,
+            "sekolah": "SD YPPGI Waneuwogi",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "23 Jan 2024 12:41:49",
+            "sekolah_id_enkrip": "929DED43DF6F94A9F146"
+        }
+    ]
+}

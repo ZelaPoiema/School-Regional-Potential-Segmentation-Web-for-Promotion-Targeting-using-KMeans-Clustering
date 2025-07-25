@@ -1,0 +1,74 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380222",
+            "kecamatan": "Kec. Oklip",
+            "npsn": 60300994,
+            "sekolah": "SD INPRES DIKDON",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "10 Aug 2023 19:02:06",
+            "sekolah_id_enkrip": "DE859E3F1AEE2388E772"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380222",
+            "kecamatan": "Kec. Oklip",
+            "npsn": 60300996,
+            "sekolah": "SD INPRES KOTAIB",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Aug 2023 20:15:03",
+            "sekolah_id_enkrip": "3C6D721FF467F96317F3"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380222",
+            "kecamatan": "Kec. Oklip",
+            "npsn": 69991549,
+            "sekolah": "SD INPRES OKHIM I OKALUTAKA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Aug 2023 21:28:04",
+            "sekolah_id_enkrip": "8A5064A9E438715185F1"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380222",
+            "kecamatan": "Kec. Oklip",
+            "npsn": 60300984,
+            "sekolah": "SD INPRES OKLIP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Aug 2023 21:39:30",
+            "sekolah_id_enkrip": "0BC2FC4716D85C64A94E"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380222",
+            "kecamatan": "Kec. Oklip",
+            "npsn": 69725978,
+            "sekolah": "SMPN SATU ATAP KOTAIP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Jan 2024 10:35:18",
+            "sekolah_id_enkrip": "53B5FD1BC03E21D8F6EC"
+        }
+    ]
+}

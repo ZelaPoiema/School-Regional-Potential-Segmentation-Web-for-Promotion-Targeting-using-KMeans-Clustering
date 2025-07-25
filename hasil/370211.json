@@ -1,0 +1,88 @@
+{
+    "370200": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370211",
+            "kecamatan": "Kec. Ambatkwi",
+            "npsn": 60302118,
+            "sekolah": "SD NEGERI KUKEN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Dec 2023 14:18:35",
+            "sekolah_id_enkrip": "2E66EE0699A461A8E877"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370211",
+            "kecamatan": "Kec. Ambatkwi",
+            "npsn": 60302096,
+            "sekolah": "SD YPPGI KOLOPKAM",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Jan 2024 11:20:40",
+            "sekolah_id_enkrip": "F6EDB8C55F71CE83F569"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370211",
+            "kecamatan": "Kec. Ambatkwi",
+            "npsn": 60302105,
+            "sekolah": "SD YPPK ANUMKA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "11 Oct 2023 19:35:20",
+            "sekolah_id_enkrip": "B7F811DA2F586BBE24B1"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370211",
+            "kecamatan": "Kec. Ambatkwi",
+            "npsn": 60302106,
+            "sekolah": "SD YPPK ARIMBIT",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "18 Feb 2023 20:04:49",
+            "sekolah_id_enkrip": "68D18A07C97B3EDFA0D9"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370211",
+            "kecamatan": "Kec. Ambatkwi",
+            "npsn": 60302107,
+            "sekolah": "SD YPPK AWAKEN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Aug 2022 06:21:28",
+            "sekolah_id_enkrip": "0A86121ADBDBF42CD72E"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370211",
+            "kecamatan": "Kec. Ambatkwi",
+            "npsn": 60302126,
+            "sekolah": "SD YPPK SIMIRAM",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "04 Feb 2024 23:04:20",
+            "sekolah_id_enkrip": "D40B5CDEFA30053AB9BD"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380715",
+            "kecamatan": "Kec. Yugungwi",
+            "npsn": 69933912,
+            "sekolah": "paud konikme",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Aug 2023 14:38:55",
+            "sekolah_id_enkrip": "2544D09FA2D33B8F76DF"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380715",
+            "kecamatan": "Kec. Yugungwi",
+            "npsn": 60301401,
+            "sekolah": "SD INPRES GIMBUK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 18:04:49",
+            "sekolah_id_enkrip": "2D5D0BA6A9364771E20A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380715",
+            "kecamatan": "Kec. Yugungwi",
+            "npsn": 69933489,
+            "sekolah": "SD Negeri Konikme",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Oct 2023 05:22:54",
+            "sekolah_id_enkrip": "661EB51CAF753678F4D7"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380715",
+            "kecamatan": "Kec. Yugungwi",
+            "npsn": 60305302,
+            "sekolah": "SMK Negeri 2 Agrobisnis Dan Agroteknologi  Lanny Jaya",
+            "bentuk": "SMK",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 20:56:12",
+            "sekolah_id_enkrip": "6362A8F32CA414849641"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380715",
+            "kecamatan": "Kec. Yugungwi",
+            "npsn": "P9952675",
+            "sekolah": "PKBM JUGUNGWI",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "20 Jan 2024 09:59:16",
+            "sekolah_id_enkrip": "23472D520CD48DBC82FA"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380715",
+            "kecamatan": "Kec. Yugungwi",
+            "npsn": "P9996900",
+            "sekolah": "PKBM WAKOTA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "18 Jan 2024 07:23:24",
+            "sekolah_id_enkrip": "C287F52794CF3BF9C8C7"
+        }
+    ]
+}

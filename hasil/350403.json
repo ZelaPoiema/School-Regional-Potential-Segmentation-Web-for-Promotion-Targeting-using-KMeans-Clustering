@@ -1,0 +1,74 @@
+{
+    "350400": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350403",
+            "kecamatan": "Kundasang",
+            "npsn": "9LN01154",
+            "sekolah": "CLC BHINEKA TUNGGAL IKA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Dec 2023 15:36:12",
+            "sekolah_id_enkrip": "D732E98D518787D96AA3"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350403",
+            "kecamatan": "Kundasang",
+            "npsn": "9LN01015",
+            "sekolah": "CLC CINTA MATA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Jan 2024 21:28:54",
+            "sekolah_id_enkrip": "B4BEE946747EE40CD8D5"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350403",
+            "kecamatan": "Kundasang",
+            "npsn": "9LN01017",
+            "sekolah": "CLC ST.THOMAS",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Jan 2024 19:50:32",
+            "sekolah_id_enkrip": "D18D7ABC57ECBD112A29"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350403",
+            "kecamatan": "Kundasang",
+            "npsn": "9LN01016",
+            "sekolah": "CLC RUMAH AGAPE",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "13 Jan 2024 22:25:16",
+            "sekolah_id_enkrip": "B3DD9C10CB9412996075"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350403",
+            "kecamatan": "Kundasang",
+            "npsn": "9LN01138",
+            "sekolah": "CLC SD CEMPAKA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "04 Dec 2023 13:07:10",
+            "sekolah_id_enkrip": "B05AE25A1F718BC73AE2"
+        }
+    ]
+}

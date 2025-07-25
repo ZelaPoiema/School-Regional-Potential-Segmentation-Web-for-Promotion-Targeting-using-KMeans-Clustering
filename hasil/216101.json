@@ -1,0 +1,88 @@
+{
+    "216100": [
+        {
+            "kode_prop": "210000",
+            "propinsi": "Prov. Maluku",
+            "kode_kab_kota": "216100",
+            "kabupaten_kota": "Kota Tual",
+            "kode_kec": "216101",
+            "kecamatan": "Kec. Pulau-Pulau kur",
+            "npsn": 70040931,
+            "sekolah": "KB PAUD DESWITA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "20 Aug 2023 09:32:38",
+            "sekolah_id_enkrip": "FB9A8F16F52F36834791"
+        },
+        {
+            "kode_prop": "210000",
+            "propinsi": "Prov. Maluku",
+            "kode_kab_kota": "216100",
+            "kabupaten_kota": "Kota Tual",
+            "kode_kec": "216101",
+            "kecamatan": "Kec. Pulau-Pulau kur",
+            "npsn": 70040558,
+            "sekolah": "KB PAUD SRIKANDI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Aug 2023 19:43:44",
+            "sekolah_id_enkrip": "639A068601F61C5F1932"
+        },
+        {
+            "kode_prop": "210000",
+            "propinsi": "Prov. Maluku",
+            "kode_kab_kota": "216100",
+            "kabupaten_kota": "Kota Tual",
+            "kode_kec": "216101",
+            "kecamatan": "Kec. Pulau-Pulau kur",
+            "npsn": 60103142,
+            "sekolah": "SD NEGERI 16 TUAL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "18 Sep 2023 12:33:00",
+            "sekolah_id_enkrip": "032A971B77DFD444CF65"
+        },
+        {
+            "kode_prop": "210000",
+            "propinsi": "Prov. Maluku",
+            "kode_kab_kota": "216100",
+            "kabupaten_kota": "Kota Tual",
+            "kode_kec": "216101",
+            "kecamatan": "Kec. Pulau-Pulau kur",
+            "npsn": 60100773,
+            "sekolah": "SD NEGERI 7 TUAL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Nov 2023 20:29:20",
+            "sekolah_id_enkrip": "50965B1762B1E4AA9A81"
+        },
+        {
+            "kode_prop": "210000",
+            "propinsi": "Prov. Maluku",
+            "kode_kab_kota": "216100",
+            "kabupaten_kota": "Kota Tual",
+            "kode_kec": "216101",
+            "kecamatan": "Kec. Pulau-Pulau kur",
+            "npsn": 60100774,
+            "sekolah": "SD NEGERI 8 TUAL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Dec 2023 05:45:33",
+            "sekolah_id_enkrip": "83DD814103AE782193E6"
+        },
+        {
+            "kode_prop": "210000",
+            "propinsi": "Prov. Maluku",
+            "kode_kab_kota": "216100",
+            "kabupaten_kota": "Kota Tual",
+            "kode_kec": "216101",
+            "kecamatan": "Kec. Pulau-Pulau kur",
+            "npsn": 60702883,
+            "sekolah": "SMPN SATAP 3 TUAL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Oct 2023 07:03:30",
+            "sekolah_id_enkrip": "A243DBFE3B2504669E68"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380415",
+            "kecamatan": "Kec. Bokoneri",
+            "npsn": 60302198,
+            "sekolah": "SD INPRES ABIMBAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "18 Jan 2024 07:04:24",
+            "sekolah_id_enkrip": "5AA6E1CE0EE63EFAC4EA"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380415",
+            "kecamatan": "Kec. Bokoneri",
+            "npsn": 60302203,
+            "sekolah": "SD INPRES BOKONERI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Jan 2024 16:56:24",
+            "sekolah_id_enkrip": "004CDDBCA7EDBEE3C25B"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380415",
+            "kecamatan": "Kec. Bokoneri",
+            "npsn": 60303978,
+            "sekolah": "SD NEGERI KANERO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Aug 2023 17:27:53",
+            "sekolah_id_enkrip": "8DC0E1A93828A050AD58"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380415",
+            "kecamatan": "Kec. Bokoneri",
+            "npsn": 69946441,
+            "sekolah": "SMP NEGERI SATU ATAP ABIMBAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 13:05:06",
+            "sekolah_id_enkrip": "03373FB39A937A0D1F6D"
+        }
+    ]
+}

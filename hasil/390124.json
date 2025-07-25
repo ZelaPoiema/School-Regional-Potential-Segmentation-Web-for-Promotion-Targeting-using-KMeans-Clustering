@@ -1,0 +1,32 @@
+{
+    "390100": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390124",
+            "kecamatan": "Kec. Mare Selatan",
+            "npsn": 60401664,
+            "sekolah": "SD INPRES 29 SENI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Sep 2023 20:46:38",
+            "sekolah_id_enkrip": "567F95BA2A4554DDC0DA"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390124",
+            "kecamatan": "Kec. Mare Selatan",
+            "npsn": 60401755,
+            "sekolah": "SD NEGERI 20 SIRE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "08 Oct 2023 20:43:16",
+            "sekolah_id_enkrip": "4CC46CFA2BAC7592F867"
+        }
+    ]
+}

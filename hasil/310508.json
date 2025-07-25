@@ -1,0 +1,102 @@
+{
+    "310500": [
+        {
+            "kode_prop": "310000",
+            "propinsi": "Prov. Kepulauan Riau",
+            "kode_kab_kota": "310500",
+            "kabupaten_kota": "Kab. Kepulauan Anambas",
+            "kode_kec": "310508",
+            "kecamatan": "Kec. Jemaja Barat",
+            "npsn": 69913532,
+            "sekolah": "PAUD AMANDA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Feb 2024 09:13:33",
+            "sekolah_id_enkrip": "E68457C2852FABDA89CE"
+        },
+        {
+            "kode_prop": "310000",
+            "propinsi": "Prov. Kepulauan Riau",
+            "kode_kab_kota": "310500",
+            "kabupaten_kota": "Kab. Kepulauan Anambas",
+            "kode_kec": "310508",
+            "kecamatan": "Kec. Jemaja Barat",
+            "npsn": 69948041,
+            "sekolah": "PAUD BINTANG KECIL",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "09 Nov 2023 23:41:52",
+            "sekolah_id_enkrip": "926F0DE1F5663D7F1ACB"
+        },
+        {
+            "kode_prop": "310000",
+            "propinsi": "Prov. Kepulauan Riau",
+            "kode_kab_kota": "310500",
+            "kabupaten_kota": "Kab. Kepulauan Anambas",
+            "kode_kec": "310508",
+            "kecamatan": "Kec. Jemaja Barat",
+            "npsn": 69928694,
+            "sekolah": "PAUD KASIH SAYANG",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "21 Jan 2024 19:12:16",
+            "sekolah_id_enkrip": "EC47A7C5540BEFE60D92"
+        },
+        {
+            "kode_prop": "310000",
+            "propinsi": "Prov. Kepulauan Riau",
+            "kode_kab_kota": "310500",
+            "kabupaten_kota": "Kab. Kepulauan Anambas",
+            "kode_kec": "310508",
+            "kecamatan": "Kec. Jemaja Barat",
+            "npsn": 11001179,
+            "sekolah": "SDN 001 KERAMUT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 08:47:26",
+            "sekolah_id_enkrip": "414E4BD8C32998190A79"
+        },
+        {
+            "kode_prop": "310000",
+            "propinsi": "Prov. Kepulauan Riau",
+            "kode_kab_kota": "310500",
+            "kabupaten_kota": "Kab. Kepulauan Anambas",
+            "kode_kec": "310508",
+            "kecamatan": "Kec. Jemaja Barat",
+            "npsn": 11001317,
+            "sekolah": "SDN 002 IMPOL",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Jan 2024 11:34:13",
+            "sekolah_id_enkrip": "CFF398F78278CB1ECB67"
+        },
+        {
+            "kode_prop": "310000",
+            "propinsi": "Prov. Kepulauan Riau",
+            "kode_kab_kota": "310500",
+            "kabupaten_kota": "Kab. Kepulauan Anambas",
+            "kode_kec": "310508",
+            "kecamatan": "Kec. Jemaja Barat",
+            "npsn": 11001348,
+            "sekolah": "SDN 003 SUNGGAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 08:28:31",
+            "sekolah_id_enkrip": "AFEF0BA735099804566F"
+        },
+        {
+            "kode_prop": "310000",
+            "propinsi": "Prov. Kepulauan Riau",
+            "kode_kab_kota": "310500",
+            "kabupaten_kota": "Kab. Kepulauan Anambas",
+            "kode_kec": "310508",
+            "kecamatan": "Kec. Jemaja Barat",
+            "npsn": 69734127,
+            "sekolah": "SMPN 1 SUNGGAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 09:55:40",
+            "sekolah_id_enkrip": "E27FF6976303120AC970"
+        }
+    ]
+}

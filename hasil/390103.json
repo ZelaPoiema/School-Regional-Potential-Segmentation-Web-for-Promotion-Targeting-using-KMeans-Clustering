@@ -1,0 +1,46 @@
+{
+    "390100": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390103",
+            "kecamatan": "Kec. Aifat Timur",
+            "npsn": 60401658,
+            "sekolah": "SD INPRES 140 AITREM SAWIN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "11 Nov 2023 12:14:27",
+            "sekolah_id_enkrip": "F41642AE4D634283D6F9"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390103",
+            "kecamatan": "Kec. Aifat Timur",
+            "npsn": 60401737,
+            "sekolah": "SD YPPK AIKRER",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "20 Jan 2024 16:45:08",
+            "sekolah_id_enkrip": "E19D9BD86DFE75C9FC9C"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390103",
+            "kecamatan": "Kec. Aifat Timur",
+            "npsn": "P9962914",
+            "sekolah": "PKBM SINAR AITIM",
+            "bentuk": "PKBM",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Sep 2023 18:19:23",
+            "sekolah_id_enkrip": "DD0647879E21B1DDA67D"
+        }
+    ]
+}

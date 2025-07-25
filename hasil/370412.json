@@ -1,0 +1,74 @@
+{
+    "370400": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370412",
+            "kecamatan": "Kec. Pulau Tiga",
+            "npsn": 60303743,
+            "sekolah": "SD INPRES AOU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 20:53:16",
+            "sekolah_id_enkrip": "22F86F3DB00E4A52E483"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370412",
+            "kecamatan": "Kec. Pulau Tiga",
+            "npsn": 60303757,
+            "sekolah": "SD INPRES NAKAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 08:59:38",
+            "sekolah_id_enkrip": "19B35250D76EF1F6397E"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370412",
+            "kecamatan": "Kec. Pulau Tiga",
+            "npsn": 60303751,
+            "sekolah": "SD YPPK AS ATAT",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "08 Nov 2023 09:47:29",
+            "sekolah_id_enkrip": "347262883D4A2159DF46"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370412",
+            "kecamatan": "Kec. Pulau Tiga",
+            "npsn": 60303762,
+            "sekolah": "SD YPPK KAPI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Jan 2024 21:18:44",
+            "sekolah_id_enkrip": "6FBED1D63629D75ADC9A"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370412",
+            "kecamatan": "Kec. Pulau Tiga",
+            "npsn": 70042477,
+            "sekolah": "SMP PERSIAPAN NEGERI PULAU TIGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Jan 2024 15:50:29",
+            "sekolah_id_enkrip": "8DA424688A48828399F5"
+        }
+    ]
+}

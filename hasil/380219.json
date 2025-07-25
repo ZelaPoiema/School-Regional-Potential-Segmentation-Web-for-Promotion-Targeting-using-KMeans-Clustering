@@ -1,0 +1,46 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380219",
+            "kecamatan": "Kec. Tarup",
+            "npsn": 70002559,
+            "sekolah": "SD INPRES BAO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "09 Aug 2023 20:22:42",
+            "sekolah_id_enkrip": "0E0F12DAC20E06D08D28"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380219",
+            "kecamatan": "Kec. Tarup",
+            "npsn": 70038245,
+            "sekolah": "SD INPRES BETEN 2",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Aug 2023 21:41:55",
+            "sekolah_id_enkrip": "E3331D6BF7CCF89AE8D9"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380219",
+            "kecamatan": "Kec. Tarup",
+            "npsn": 60300975,
+            "sekolah": "SD INPRES TARUP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jul 2023 09:07:46",
+            "sekolah_id_enkrip": "6E03F062192894C1B070"
+        }
+    ]
+}

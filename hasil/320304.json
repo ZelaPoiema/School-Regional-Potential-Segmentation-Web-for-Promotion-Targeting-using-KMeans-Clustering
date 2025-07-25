@@ -1,0 +1,102 @@
+{
+    "320300": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320304",
+            "kecamatan": "Kec. Kuri Wamesa",
+            "npsn": 69938362,
+            "sekolah": "TK Bethel Dusner",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 14:21:00",
+            "sekolah_id_enkrip": "F203E2355FAAA4CFC131"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320304",
+            "kecamatan": "Kec. Kuri Wamesa",
+            "npsn": 70004377,
+            "sekolah": "PAUD NADI AWIN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 09:30:03",
+            "sekolah_id_enkrip": "1132A6A07BC10AC4FE91"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320304",
+            "kecamatan": "Kec. Kuri Wamesa",
+            "npsn": 70040987,
+            "sekolah": "TK PAUD BAITHEL YERENUSI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "24 Jan 2024 21:55:30",
+            "sekolah_id_enkrip": "F9841FBE1D63ECB67D07"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320304",
+            "kecamatan": "Kec. Kuri Wamesa",
+            "npsn": 60402001,
+            "sekolah": "SD NEGERI NANIMORI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Jan 2024 16:56:51",
+            "sekolah_id_enkrip": "2458E71BEDB216876562"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320304",
+            "kecamatan": "Kec. Kuri Wamesa",
+            "npsn": 60402003,
+            "sekolah": "SD NEGERI SOBIAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 22:17:00",
+            "sekolah_id_enkrip": "DF557733146CE2C432EB"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320304",
+            "kecamatan": "Kec. Kuri Wamesa",
+            "npsn": 60401978,
+            "sekolah": "SD YPK AMBUMI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "03 Feb 2024 17:35:24",
+            "sekolah_id_enkrip": "035DB7FA24388955F575"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320300",
+            "kabupaten_kota": "Kab. Teluk Wondama",
+            "kode_kec": "320304",
+            "kecamatan": "Kec. Kuri Wamesa",
+            "npsn": 60401979,
+            "sekolah": "SD YPK DUSNER",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 09:08:30",
+            "sekolah_id_enkrip": "326819B818835C23AA45"
+        }
+    ]
+}

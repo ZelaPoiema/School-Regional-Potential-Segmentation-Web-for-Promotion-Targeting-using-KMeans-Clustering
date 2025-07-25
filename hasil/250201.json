@@ -1,0 +1,102 @@
+{
+    "250200": [
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250201",
+            "kecamatan": "Kec. Numfor Barat",
+            "npsn": 60300412,
+            "sekolah": "SD INPRES KANSAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Jan 2024 14:46:51",
+            "sekolah_id_enkrip": "9FB5128FB4C22138A0EF"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250201",
+            "kecamatan": "Kec. Numfor Barat",
+            "npsn": 60300469,
+            "sekolah": "SD YPK BARUKI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Feb 2024 19:10:50",
+            "sekolah_id_enkrip": "2C9AE028FAA803E0F9EA"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250201",
+            "kecamatan": "Kec. Numfor Barat",
+            "npsn": 60300429,
+            "sekolah": "SD YPK KAMERI NUMFOR BARAT",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "15 Dec 2023 22:26:20",
+            "sekolah_id_enkrip": "724C83993C27605F0C6B"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250201",
+            "kecamatan": "Kec. Numfor Barat",
+            "npsn": 60300440,
+            "sekolah": "SD YPK NAMBER",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 07:36:42",
+            "sekolah_id_enkrip": "6A3CBC14CA500A46679E"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250201",
+            "kecamatan": "Kec. Numfor Barat",
+            "npsn": 60300328,
+            "sekolah": "SMP NEGERI 1 NUMFOR BARAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Dec 2023 08:13:46",
+            "sekolah_id_enkrip": "1B5E119E4FF49EDCA5C2"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250201",
+            "kecamatan": "Kec. Numfor Barat",
+            "npsn": 60300346,
+            "sekolah": "SMP NEGERI 2 NUMFOR BARAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 00:22:34",
+            "sekolah_id_enkrip": "DD0A5297F6A7EF8C194A"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250201",
+            "kecamatan": "Kec. Numfor Barat",
+            "npsn": 60300369,
+            "sekolah": "SMAN 1 NUMFOR BARAT",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 10:41:39",
+            "sekolah_id_enkrip": "5AC0351ECB4BFF966AB1"
+        }
+    ]
+}

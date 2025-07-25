@@ -1,0 +1,46 @@
+{
+    "390100": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390107",
+            "kecamatan": "Kec. Aitinyo Utara",
+            "npsn": 60403816,
+            "sekolah": "SD YPK GOHSAMES",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "21 Jan 2024 21:24:16",
+            "sekolah_id_enkrip": "C50542D8E67DFC9BE3CD"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390107",
+            "kecamatan": "Kec. Aitinyo Utara",
+            "npsn": 60403817,
+            "sekolah": "SD YPK PERSIAPAN MIRAFAN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Jan 2024 20:52:10",
+            "sekolah_id_enkrip": "81B71FD6028497F7E99C"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390107",
+            "kecamatan": "Kec. Aitinyo Utara",
+            "npsn": 60403934,
+            "sekolah": "SD YPK PISON FATEGOMI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 20:08:27",
+            "sekolah_id_enkrip": "40BB4C80A51BC730D201"
+        }
+    ]
+}

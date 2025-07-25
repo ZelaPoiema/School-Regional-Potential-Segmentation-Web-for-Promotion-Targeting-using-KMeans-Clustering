@@ -1,0 +1,74 @@
+{
+    "390100": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390102",
+            "kecamatan": "Kec. Aifat Utara",
+            "npsn": 60401746,
+            "sekolah": "SD YPPK MAAN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Jan 2024 09:04:19",
+            "sekolah_id_enkrip": "AD440D8AB97EA230BBC8"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390102",
+            "kecamatan": "Kec. Aifat Utara",
+            "npsn": 60401739,
+            "sekolah": "SD YPPK SANTO PETRUS AYAWASI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 20:22:46",
+            "sekolah_id_enkrip": "D84CB3F26D69B1DE829C"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390102",
+            "kecamatan": "Kec. Aifat Utara",
+            "npsn": 60403949,
+            "sekolah": "SD YPPK SANTO PETRUS YARAT KONYA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Jan 2024 06:35:56",
+            "sekolah_id_enkrip": "3B75A7AD9D7E0DD57646"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390102",
+            "kecamatan": "Kec. Aifat Utara",
+            "npsn": 60401747,
+            "sekolah": "SD YPPK ST. AGUSTINUS MOSUN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Jan 2024 12:58:23",
+            "sekolah_id_enkrip": "12C658139C2F5A15758D"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390102",
+            "kecamatan": "Kec. Aifat Utara",
+            "npsn": 60401771,
+            "sekolah": "SMP NEGERI 1 AIFAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 18:03:40",
+            "sekolah_id_enkrip": "F29D000BD0BA93364A9A"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "270300": [
+        {
+            "kode_prop": "270000",
+            "propinsi": "Prov. Maluku Utara",
+            "kode_kab_kota": "270300",
+            "kabupaten_kota": "Kab. Halmahera Barat",
+            "kode_kec": "270309",
+            "kecamatan": "Kec. Ibu Utara",
+            "npsn": 69813863,
+            "sekolah": "TK NEGERI 6 HALMAHERA BARAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Dec 2023 15:28:01",
+            "sekolah_id_enkrip": "F335E9B8AC097C1BF168"
+        },
+        {
+            "kode_prop": "270000",
+            "propinsi": "Prov. Maluku Utara",
+            "kode_kab_kota": "270300",
+            "kabupaten_kota": "Kab. Halmahera Barat",
+            "kode_kec": "270309",
+            "kecamatan": "Kec. Ibu Utara",
+            "npsn": 69813906,
+            "sekolah": "TK LPM GOIN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Feb 2024 11:45:44",
+            "sekolah_id_enkrip": "890F8EC6C8E39B38A7C2"
+        },
+        {
+            "kode_prop": "270000",
+            "propinsi": "Prov. Maluku Utara",
+            "kode_kab_kota": "270300",
+            "kabupaten_kota": "Kab. Halmahera Barat",
+            "kode_kec": "270309",
+            "kecamatan": "Kec. Ibu Utara",
+            "npsn": 69786660,
+            "sekolah": "SD NEGERI 59 HALMAHERA BARAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 12:08:40",
+            "sekolah_id_enkrip": "330EF5A51628EC924992"
+        },
+        {
+            "kode_prop": "270000",
+            "propinsi": "Prov. Maluku Utara",
+            "kode_kab_kota": "270300",
+            "kabupaten_kota": "Kab. Halmahera Barat",
+            "kode_kec": "270309",
+            "kecamatan": "Kec. Ibu Utara",
+            "npsn": 60203686,
+            "sekolah": "SMK NEGERI 3 HALMAHERA BARAT",
+            "bentuk": "SMK",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 10:41:05",
+            "sekolah_id_enkrip": "E5349EF6AB8096323579"
+        }
+    ]
+}

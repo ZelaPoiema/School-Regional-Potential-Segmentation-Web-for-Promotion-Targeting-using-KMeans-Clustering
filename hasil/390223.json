@@ -1,0 +1,46 @@
+{
+    "390200": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390223",
+            "kecamatan": "Kec. Supnin",
+            "npsn": 60401799,
+            "sekolah": "SD INPRES 12 KAPADIRI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Jan 2024 13:18:27",
+            "sekolah_id_enkrip": "F2779D188CEC39B2DE2B"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390223",
+            "kecamatan": "Kec. Supnin",
+            "npsn": 60401837,
+            "sekolah": "SD YPK BETHEL RAUKI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 16:55:28",
+            "sekolah_id_enkrip": "F134B3D9C17E19072994"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390223",
+            "kecamatan": "Kec. Supnin",
+            "npsn": 69984621,
+            "sekolah": "SMP PERSIAPAN SUPNIN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 15:11:08",
+            "sekolah_id_enkrip": "4B94382D623226AF81FE"
+        }
+    ]
+}

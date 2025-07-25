@@ -1,0 +1,32 @@
+{
+    "170200": [
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170200",
+            "kabupaten_kota": "Kab. Minahasa",
+            "kode_kec": "170243",
+            "kecamatan": "Kec. Kawangkoan Barat",
+            "npsn": 69944824,
+            "sekolah": "TK GMIM I RUTH",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Jan 2024 11:41:19",
+            "sekolah_id_enkrip": "9A29A75563443F7353B5"
+        },
+        {
+            "kode_prop": "170000",
+            "propinsi": "Prov. Sulawesi Utara",
+            "kode_kab_kota": "170200",
+            "kabupaten_kota": "Kab. Minahasa",
+            "kode_kec": "170243",
+            "kecamatan": "Kec. Kawangkoan Barat",
+            "npsn": 70003059,
+            "sekolah": "SMA NEGERI 1 KAWANGKOAN BARAT",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 11:32:54",
+            "sekolah_id_enkrip": "482F5693F6B8F8299331"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "390400": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390445",
+            "kecamatan": "Kec. Wemak",
+            "npsn": 60403570,
+            "sekolah": "SD INPRES 39 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 11:45:21",
+            "sekolah_id_enkrip": "3F222BA4BFA069C6F403"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390445",
+            "kecamatan": "Kec. Wemak",
+            "npsn": 60401143,
+            "sekolah": "SD INPRES 55 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Jan 2024 06:52:49",
+            "sekolah_id_enkrip": "5D77144A65CEF4B02F18"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390445",
+            "kecamatan": "Kec. Wemak",
+            "npsn": 69980417,
+            "sekolah": "SD NEGERI 28 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Sep 2023 09:20:14",
+            "sekolah_id_enkrip": "88BCF93A1D38DF2F289C"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390445",
+            "kecamatan": "Kec. Wemak",
+            "npsn": 69980499,
+            "sekolah": "SD NEGERI 29 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 09:10:15",
+            "sekolah_id_enkrip": "DAA6A6EC71BC5AE3669A"
+        }
+    ]
+}

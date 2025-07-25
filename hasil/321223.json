@@ -1,0 +1,60 @@
+{
+    "321200": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "321200",
+            "kabupaten_kota": "Kab. Manokwari Selatan",
+            "kode_kec": "321223",
+            "kecamatan": "Kec. Dataran Isim",
+            "npsn": 69771639,
+            "sekolah": "KB BEYOHO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Aug 2023 20:24:05",
+            "sekolah_id_enkrip": "D16DFE093DB6707B671B"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "321200",
+            "kabupaten_kota": "Kab. Manokwari Selatan",
+            "kode_kec": "321223",
+            "kecamatan": "Kec. Dataran Isim",
+            "npsn": 60401395,
+            "sekolah": "SD INPRES 14 ISIM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 08:03:06",
+            "sekolah_id_enkrip": "71DACAF0FFB9CF435547"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "321200",
+            "kabupaten_kota": "Kab. Manokwari Selatan",
+            "kode_kec": "321223",
+            "kecamatan": "Kec. Dataran Isim",
+            "npsn": 60403622,
+            "sekolah": "SMP NEGERI 24 DATARAN ISIM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Dec 2023 04:38:31",
+            "sekolah_id_enkrip": "3AAC62A0DCE0095C2013"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "321200",
+            "kabupaten_kota": "Kab. Manokwari Selatan",
+            "kode_kec": "321223",
+            "kecamatan": "Kec. Dataran Isim",
+            "npsn": 70010967,
+            "sekolah": "SMA NEGERI ISIM MANOKWARI SELATAN",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 04:24:22",
+            "sekolah_id_enkrip": "F1C88E84A9C390CA6DBF"
+        }
+    ]
+}

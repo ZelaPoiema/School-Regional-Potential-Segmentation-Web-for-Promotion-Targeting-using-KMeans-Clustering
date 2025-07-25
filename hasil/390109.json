@@ -1,0 +1,88 @@
+{
+    "390100": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390109",
+            "kecamatan": "Kec. Ayamaru Utara",
+            "npsn": 69970755,
+            "sekolah": "TK-PAUD EBENHAEZER YUKASE",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Oct 2023 07:06:59",
+            "sekolah_id_enkrip": "30F2208F10073A32671C"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390109",
+            "kecamatan": "Kec. Ayamaru Utara",
+            "npsn": 69970519,
+            "sekolah": "TK-PAUD PELITA KASIH",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "12 Jan 2024 22:44:59",
+            "sekolah_id_enkrip": "DD37AB0124881F9379BB"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390109",
+            "kecamatan": "Kec. Ayamaru Utara",
+            "npsn": 60403812,
+            "sekolah": "SD NEGERI 16 SUWIAM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 17:53:05",
+            "sekolah_id_enkrip": "7F5CEDFF5ED4FA111808"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390109",
+            "kecamatan": "Kec. Ayamaru Utara",
+            "npsn": 60401736,
+            "sekolah": "SD YPK YUKASE",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Feb 2024 16:42:12",
+            "sekolah_id_enkrip": "8B841269CAED78F27BC4"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390109",
+            "kecamatan": "Kec. Ayamaru Utara",
+            "npsn": 60401763,
+            "sekolah": "SMP NEGERI 1 AYAMARU UTARA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Jan 2024 10:14:08",
+            "sekolah_id_enkrip": "6B76CD251A0CB27C0749"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390100",
+            "kabupaten_kota": "Kab. Maybrat",
+            "kode_kec": "390109",
+            "kecamatan": "Kec. Ayamaru Utara",
+            "npsn": 60403824,
+            "sekolah": "SMK NEGERI AYAMARU",
+            "bentuk": "SMK",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 07:28:07",
+            "sekolah_id_enkrip": "501CEFCB27FC5F5A8CF0"
+        }
+    ]
+}

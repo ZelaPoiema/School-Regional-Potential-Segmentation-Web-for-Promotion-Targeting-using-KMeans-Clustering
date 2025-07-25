@@ -1,0 +1,32 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380732",
+            "kecamatan": "Kec. Karu",
+            "npsn": 60303533,
+            "sekolah": "SD YPPGI YUNERI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "21 Aug 2023 18:15:17",
+            "sekolah_id_enkrip": "6C5790101CC927CCA2B1"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380732",
+            "kecamatan": "Kec. Karu",
+            "npsn": 70013922,
+            "sekolah": "SMA Negeri Gamelia",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 12:53:49",
+            "sekolah_id_enkrip": "4F4B456202820A8C2CED"
+        }
+    ]
+}

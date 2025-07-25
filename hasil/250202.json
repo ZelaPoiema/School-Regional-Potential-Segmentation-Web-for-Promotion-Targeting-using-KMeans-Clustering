@@ -1,0 +1,74 @@
+{
+    "250200": [
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250202",
+            "kecamatan": "Kec. Numfor Timur",
+            "npsn": 69854020,
+            "sekolah": "KB SILO YENMANU",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "31 Aug 2022 20:34:39",
+            "sekolah_id_enkrip": "B61FEEF687C71A3DD1CB"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250202",
+            "kecamatan": "Kec. Numfor Timur",
+            "npsn": 60300420,
+            "sekolah": "SD INPRES KORNASOREN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 19:49:30",
+            "sekolah_id_enkrip": "0CE2506CABE5D8F07505"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250202",
+            "kecamatan": "Kec. Numfor Timur",
+            "npsn": 60302951,
+            "sekolah": "SD NEGERI YENMANU NUMFOR TIMUR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "09 Aug 2023 19:19:26",
+            "sekolah_id_enkrip": "7B5A6FB6D6D38020E6F8"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250202",
+            "kecamatan": "Kec. Numfor Timur",
+            "npsn": 60300277,
+            "sekolah": "SD YPK YENBURWO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Feb 2024 20:07:51",
+            "sekolah_id_enkrip": "A0C53071940E0A6CCD3D"
+        },
+        {
+            "kode_prop": "250000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "250200",
+            "kabupaten_kota": "Kab. Biak Numfor",
+            "kode_kec": "250202",
+            "kecamatan": "Kec. Numfor Timur",
+            "npsn": 60300327,
+            "sekolah": "SMP NEGERI 1 NUMFOR TIMUR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 18:06:33",
+            "sekolah_id_enkrip": "839FA9FE28967013A846"
+        }
+    ]
+}

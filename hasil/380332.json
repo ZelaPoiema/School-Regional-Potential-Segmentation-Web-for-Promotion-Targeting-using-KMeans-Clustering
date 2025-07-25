@@ -1,0 +1,32 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380332",
+            "kecamatan": "Kec. Kona",
+            "npsn": 69725955,
+            "sekolah": "SD INPRES KONO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Jan 2024 14:17:41",
+            "sekolah_id_enkrip": "F17268873A995399F314"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380332",
+            "kecamatan": "Kec. Kona",
+            "npsn": 69924829,
+            "sekolah": "SDN KALKUB YAHUKIMO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 18:49:28",
+            "sekolah_id_enkrip": "4404D70271B3D5B99724"
+        }
+    ]
+}

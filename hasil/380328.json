@@ -1,0 +1,32 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380328",
+            "kecamatan": "Kec. Ubalihi",
+            "npsn": 69787883,
+            "sekolah": "SD INPRES MEMBAHAN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Aug 2023 14:54:51",
+            "sekolah_id_enkrip": "1712BA7F9EFEB07F4CFD"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380328",
+            "kecamatan": "Kec. Ubalihi",
+            "npsn": 60303373,
+            "sekolah": "SD NEGERI HELARIKI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Aug 2023 19:41:59",
+            "sekolah_id_enkrip": "4C30E5568D7E6B5DF353"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380205",
+            "kecamatan": "Kec. Batom",
+            "npsn": 70005973,
+            "sekolah": "TK CAHAYA HARAPAN PAPUA SUMINKA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Jul 2023 10:53:52",
+            "sekolah_id_enkrip": "843EF34FAFC0E748F3D4"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380205",
+            "kecamatan": "Kec. Batom",
+            "npsn": 60300990,
+            "sekolah": "SD INPRES BATOM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "09 Aug 2023 20:06:04",
+            "sekolah_id_enkrip": "1552383D360B8368F689"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380205",
+            "kecamatan": "Kec. Batom",
+            "npsn": 70005952,
+            "sekolah": "SD CAHAYA HARAPAN PAPUA SUMINKA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "13 Nov 2023 14:39:42",
+            "sekolah_id_enkrip": "7D48CA0C7D1D11656C85"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380205",
+            "kecamatan": "Kec. Batom",
+            "npsn": 60304477,
+            "sekolah": "SMP SATU ATAP BATOM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "19 Jan 2024 19:09:26",
+            "sekolah_id_enkrip": "E0E934C37D8C22F88529"
+        }
+    ]
+}

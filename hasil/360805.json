@@ -1,0 +1,60 @@
+{
+    "360800": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360800",
+            "kabupaten_kota": "Kab. Deiyai",
+            "kode_kec": "360805",
+            "kecamatan": "Kec. Kapiraya",
+            "npsn": 69787839,
+            "sekolah": "SD INPRES Atoou",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 19:43:58",
+            "sekolah_id_enkrip": "6EA262964E11F20CBA9C"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360800",
+            "kabupaten_kota": "Kab. Deiyai",
+            "kode_kec": "360805",
+            "kecamatan": "Kec. Kapiraya",
+            "npsn": 60302296,
+            "sekolah": "SD INPRES Kapiraya",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Dec 2023 13:30:14",
+            "sekolah_id_enkrip": "CA06116A07BD1D314683"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360800",
+            "kabupaten_kota": "Kab. Deiyai",
+            "kode_kec": "360805",
+            "kecamatan": "Kec. Kapiraya",
+            "npsn": 70005304,
+            "sekolah": "SD Inpres Mogodagi",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Nov 2023 20:24:16",
+            "sekolah_id_enkrip": "FF6992F1975F6F7E4202"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360800",
+            "kabupaten_kota": "Kab. Deiyai",
+            "kode_kec": "360805",
+            "kecamatan": "Kec. Kapiraya",
+            "npsn": 60302367,
+            "sekolah": "SD YPPGI Idego",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Jan 2024 04:06:49",
+            "sekolah_id_enkrip": "E69E79FA9551AF7E86ED"
+        }
+    ]
+}

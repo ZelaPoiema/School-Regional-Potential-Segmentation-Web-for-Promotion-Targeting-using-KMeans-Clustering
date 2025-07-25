@@ -1,0 +1,46 @@
+{
+    "360500": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360504",
+            "kecamatan": "Kec. Doufo",
+            "npsn": 60304209,
+            "sekolah": "SD INPRES DOUFO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 22:30:43",
+            "sekolah_id_enkrip": "345E862B8202E0FC61F8"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360504",
+            "kecamatan": "Kec. Doufo",
+            "npsn": 60304138,
+            "sekolah": "SD INPRES IRATOI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jul 2023 23:47:04",
+            "sekolah_id_enkrip": "379A42E0C3C9F2B7B0CC"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360504",
+            "kecamatan": "Kec. Doufo",
+            "npsn": 69915351,
+            "sekolah": "SMP NEGERI 1 DOUFO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 15:04:36",
+            "sekolah_id_enkrip": "42834855053071F6AF3A"
+        }
+    ]
+}

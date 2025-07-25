@@ -1,0 +1,74 @@
+{
+    "380100": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380122",
+            "kecamatan": "Kec. Wita Waya",
+            "npsn": 69965522,
+            "sekolah": "TK SOLAFIDE",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Dec 2023 08:21:29",
+            "sekolah_id_enkrip": "A59EE90002CCC43D9E48"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380122",
+            "kecamatan": "Kec. Wita Waya",
+            "npsn": 69965521,
+            "sekolah": "KB PAUD SOLAFIDE",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Dec 2023 07:38:05",
+            "sekolah_id_enkrip": "977E8753E9B11036F1A5"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380122",
+            "kecamatan": "Kec. Wita Waya",
+            "npsn": 69955441,
+            "sekolah": "PAUD PAULUS ERAGAMA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "08 Aug 2023 04:24:40",
+            "sekolah_id_enkrip": "D721310F5CFD240EE5FC"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380122",
+            "kecamatan": "Kec. Wita Waya",
+            "npsn": 60301525,
+            "sekolah": "SD YPPGI TULEM",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "18 Jan 2024 20:51:06",
+            "sekolah_id_enkrip": "8470E80EB25E8E35C73C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380122",
+            "kecamatan": "Kec. Wita Waya",
+            "npsn": "P9954334",
+            "sekolah": "PKBM ERAGAMA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "08 Aug 2023 04:43:08",
+            "sekolah_id_enkrip": "AC37F81B2EF2067AE514"
+        }
+    ]
+}

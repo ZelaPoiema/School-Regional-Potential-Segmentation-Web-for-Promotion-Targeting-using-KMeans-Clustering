@@ -1,0 +1,32 @@
+{
+    "360200": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360205",
+            "kecamatan": "Kec. Yamo",
+            "npsn": 60301976,
+            "sekolah": "SD Negeri Yamo",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 00:51:49",
+            "sekolah_id_enkrip": "EF86C2E19621AF9B7CDB"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360205",
+            "kecamatan": "Kec. Yamo",
+            "npsn": 60303965,
+            "sekolah": "SMP SATAP YAMO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 09:40:32",
+            "sekolah_id_enkrip": "46987BBD31E49BCD35FF"
+        }
+    ]
+}

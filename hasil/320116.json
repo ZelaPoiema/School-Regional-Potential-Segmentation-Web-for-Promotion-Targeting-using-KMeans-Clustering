@@ -1,0 +1,102 @@
+{
+    "320100": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320116",
+            "kecamatan": "Kec. Furwagi",
+            "npsn": 70006353,
+            "sekolah": "KB Saboban Farali",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Sep 2023 14:08:30",
+            "sekolah_id_enkrip": "A6811C5DB1A545615B83"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320116",
+            "kecamatan": "Kec. Furwagi",
+            "npsn": 60401040,
+            "sekolah": "SD INPRES SALAKITI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Jan 2024 23:15:09",
+            "sekolah_id_enkrip": "ECFD5225060616E6E10B"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320116",
+            "kecamatan": "Kec. Furwagi",
+            "npsn": 60401090,
+            "sekolah": "SD NEGERI RUMBATI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 18:09:39",
+            "sekolah_id_enkrip": "78DA08C5BBF4BC97A010"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320116",
+            "kecamatan": "Kec. Furwagi",
+            "npsn": 69728459,
+            "sekolah": "SD Negeri Tanisapata",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Jan 2024 14:11:14",
+            "sekolah_id_enkrip": "363A466EE2BFD4FF71CD"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320116",
+            "kecamatan": "Kec. Furwagi",
+            "npsn": 60403423,
+            "sekolah": "SD Negeri Tawar",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 10:14:15",
+            "sekolah_id_enkrip": "CAD497B8BF3CB703EF48"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320116",
+            "kecamatan": "Kec. Furwagi",
+            "npsn": 69786676,
+            "sekolah": "SD YPPK ST MATHEUS WERFRA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "29 Aug 2023 20:03:35",
+            "sekolah_id_enkrip": "05823B535946338ADF7F"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320100",
+            "kabupaten_kota": "Kab. Fak-Fak",
+            "kode_kec": "320116",
+            "kecamatan": "Kec. Furwagi",
+            "npsn": 69984783,
+            "sekolah": "SMP NEGERI 1 SATAP TAWAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 17:47:49",
+            "sekolah_id_enkrip": "0751322CAD9AB6A2BD22"
+        }
+    ]
+}

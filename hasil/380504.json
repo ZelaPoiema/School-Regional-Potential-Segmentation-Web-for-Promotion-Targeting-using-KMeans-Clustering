@@ -1,0 +1,88 @@
+{
+    "380500": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380500",
+            "kabupaten_kota": "Kab. Mamberamo Tengah",
+            "kode_kec": "380504",
+            "kecamatan": "Kec. Megambilis",
+            "npsn": 69983656,
+            "sekolah": "PAUD TABURTA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Jan 2024 17:08:46",
+            "sekolah_id_enkrip": "0607D9AA365AB4F485F6"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380500",
+            "kabupaten_kota": "Kab. Mamberamo Tengah",
+            "kode_kec": "380504",
+            "kecamatan": "Kec. Megambilis",
+            "npsn": 69983657,
+            "sekolah": "PAUD FILADELFIA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Oct 2023 14:05:48",
+            "sekolah_id_enkrip": "6FD11212AEEEEDD0BB75"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380500",
+            "kabupaten_kota": "Kab. Mamberamo Tengah",
+            "kode_kec": "380504",
+            "kecamatan": "Kec. Megambilis",
+            "npsn": 60305273,
+            "sekolah": "SD Negeri Higisam",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Jan 2024 20:04:38",
+            "sekolah_id_enkrip": "A25174BBEF5ED970EA69"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380500",
+            "kabupaten_kota": "Kab. Mamberamo Tengah",
+            "kode_kec": "380504",
+            "kecamatan": "Kec. Megambilis",
+            "npsn": 60305272,
+            "sekolah": "SD Negeri Homasam",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Jan 2024 20:33:28",
+            "sekolah_id_enkrip": "DAA3C762597B329E072A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380500",
+            "kabupaten_kota": "Kab. Mamberamo Tengah",
+            "kode_kec": "380504",
+            "kecamatan": "Kec. Megambilis",
+            "npsn": 60302958,
+            "sekolah": "SD NEGERI TARIA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 18:12:12",
+            "sekolah_id_enkrip": "E1E7BD01A24C97B1E31F"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380500",
+            "kabupaten_kota": "Kab. Mamberamo Tengah",
+            "kode_kec": "380504",
+            "kecamatan": "Kec. Megambilis",
+            "npsn": 60305276,
+            "sekolah": "SMP Negeri Taria",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 17:19:06",
+            "sekolah_id_enkrip": "E96F15546BF010F8EBD8"
+        }
+    ]
+}

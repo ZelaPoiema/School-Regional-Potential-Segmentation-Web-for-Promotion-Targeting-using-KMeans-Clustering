@@ -1,0 +1,46 @@
+{
+    "390400": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390420",
+            "kecamatan": "Kec. Maudus",
+            "npsn": 60401160,
+            "sekolah": "SD INPRES 11 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Jan 2024 21:38:41",
+            "sekolah_id_enkrip": "396828384F5D06CAAF90"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390420",
+            "kecamatan": "Kec. Maudus",
+            "npsn": 60404156,
+            "sekolah": "SD YPK Klatim Kabupaten Sorong",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Feb 2024 20:02:40",
+            "sekolah_id_enkrip": "7F6CB654A62CB52B7AA1"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390400",
+            "kabupaten_kota": "Kab. Sorong",
+            "kode_kec": "390420",
+            "kecamatan": "Kec. Maudus",
+            "npsn": 69983686,
+            "sekolah": "SMP NEGERI 30 KABUPATEN SORONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 17:59:16",
+            "sekolah_id_enkrip": "CC0557556C33BE9DE125"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "380800": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380807",
+            "kecamatan": "Kec. Mbuwa",
+            "npsn": 60301429,
+            "sekolah": "SD Inpres Mbua",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 11:43:27",
+            "sekolah_id_enkrip": "F433ED59A6E4012DD434"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380807",
+            "kecamatan": "Kec. Mbuwa",
+            "npsn": 60305279,
+            "sekolah": "SMP Negeri Mbua",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Feb 2024 18:58:55",
+            "sekolah_id_enkrip": "2F4E68FB5DD74ABDFA1B"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380807",
+            "kecamatan": "Kec. Mbuwa",
+            "npsn": 69964248,
+            "sekolah": "SMA NEGERI 2 MBUA",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Aug 2023 01:12:01",
+            "sekolah_id_enkrip": "73020ED0EA6E9FFA2807"
+        }
+    ]
+}

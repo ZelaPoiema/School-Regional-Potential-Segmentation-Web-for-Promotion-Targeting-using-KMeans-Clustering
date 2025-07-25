@@ -1,0 +1,60 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380713",
+            "kecamatan": "Kec. Yiginua",
+            "npsn": 69933580,
+            "sekolah": "paud ninabua",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 16:37:17",
+            "sekolah_id_enkrip": "AF9D48021141F4CFEC35"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380713",
+            "kecamatan": "Kec. Yiginua",
+            "npsn": 70041085,
+            "sekolah": "TK TEPOGI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Aug 2023 13:18:12",
+            "sekolah_id_enkrip": "0490D3D7E08FBE477534"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380713",
+            "kecamatan": "Kec. Yiginua",
+            "npsn": 69954025,
+            "sekolah": "PAUD DANNY",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 22:30:50",
+            "sekolah_id_enkrip": "4E93F24F124F87C64BA5"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380713",
+            "kecamatan": "Kec. Yiginua",
+            "npsn": "P2970217",
+            "sekolah": "PKBM HARAPAN ABADI",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "23 Jan 2024 13:24:38",
+            "sekolah_id_enkrip": "898BE1ED92589AE33C47"
+        }
+    ]
+}

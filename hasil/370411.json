@@ -1,0 +1,88 @@
+{
+    "370400": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370411",
+            "kecamatan": "Kec. Joerat",
+            "npsn": 69985629,
+            "sekolah": "TK NEGERI 1 YAMAS",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "20 Jan 2024 19:29:48",
+            "sekolah_id_enkrip": "88D418053851853C7B60"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370411",
+            "kecamatan": "Kec. Joerat",
+            "npsn": 70000965,
+            "sekolah": "KB OMOR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Jan 2024 08:51:23",
+            "sekolah_id_enkrip": "50C31301B276275507AD"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370411",
+            "kecamatan": "Kec. Joerat",
+            "npsn": 69984897,
+            "sekolah": "SD PERSIAPAN NEGERI YENI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Dec 2023 06:03:53",
+            "sekolah_id_enkrip": "598D3D79F9273EFBB33E"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370411",
+            "kecamatan": "Kec. Joerat",
+            "npsn": 60303748,
+            "sekolah": "SD YPPK YAMAS",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "13 Jan 2024 20:22:00",
+            "sekolah_id_enkrip": "6F5ED4DBBB5679459327"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370411",
+            "kecamatan": "Kec. Joerat",
+            "npsn": 69965470,
+            "sekolah": "SMP PERSIAPAN NEGERI YAMAS",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 11:23:20",
+            "sekolah_id_enkrip": "529136B3FB4C92814957"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370400",
+            "kabupaten_kota": "Kab. Asmat",
+            "kode_kec": "370411",
+            "kecamatan": "Kec. Joerat",
+            "npsn": "P9997783",
+            "sekolah": "PKBM SEMANGAT CERDAS JOERAT",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Feb 2024 12:58:04",
+            "sekolah_id_enkrip": "C87FADB364B3598A1775"
+        }
+    ]
+}

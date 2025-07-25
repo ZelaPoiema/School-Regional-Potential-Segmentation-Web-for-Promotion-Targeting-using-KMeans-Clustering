@@ -1,0 +1,60 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380351",
+            "kecamatan": "Kec. Sumo",
+            "npsn": 60303311,
+            "sekolah": "SD INPRES SUMOHAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Dec 2023 07:21:08",
+            "sekolah_id_enkrip": "B75573510E66AF343C9E"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380351",
+            "kecamatan": "Kec. Sumo",
+            "npsn": 60303266,
+            "sekolah": "SD INPRES WENAPONG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Dec 2023 00:18:24",
+            "sekolah_id_enkrip": "F32BDB7525D792E51BED"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380351",
+            "kecamatan": "Kec. Sumo",
+            "npsn": 60303386,
+            "sekolah": "SDN UAM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jul 2023 12:52:33",
+            "sekolah_id_enkrip": "36744F560D95B66A628E"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380351",
+            "kecamatan": "Kec. Sumo",
+            "npsn": 69831621,
+            "sekolah": "SMP NEGERI SUMOHAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Aug 2023 17:10:12",
+            "sekolah_id_enkrip": "52C1550D49694D2A09C7"
+        }
+    ]
+}

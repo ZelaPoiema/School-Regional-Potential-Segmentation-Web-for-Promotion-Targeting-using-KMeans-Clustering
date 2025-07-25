@@ -1,0 +1,32 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380230",
+            "kecamatan": "Kec. Jetfa",
+            "npsn": 70042568,
+            "sekolah": "SD INPRES LULIS",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "872965EFE0858C20394B"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380230",
+            "kecamatan": "Kec. Jetfa",
+            "npsn": 70002120,
+            "sekolah": "SD INPRES TERPONES",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Aug 2023 07:06:47",
+            "sekolah_id_enkrip": "DD5AFD6F9E515FC9E460"
+        }
+    ]
+}

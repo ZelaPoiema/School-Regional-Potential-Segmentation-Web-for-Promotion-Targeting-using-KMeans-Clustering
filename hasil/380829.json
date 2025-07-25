@@ -1,0 +1,32 @@
+{
+    "380800": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380829",
+            "kecamatan": "Kec. Wutpaga",
+            "npsn": 69728014,
+            "sekolah": "SD Negeri Wutpaga",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Jan 2024 08:14:53",
+            "sekolah_id_enkrip": "47CBAC558EAE250D7C71"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380829",
+            "kecamatan": "Kec. Wutpaga",
+            "npsn": 70032031,
+            "sekolah": "SMP NEGERI WUTPAGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Jan 2024 16:07:14",
+            "sekolah_id_enkrip": "7BE10E4A78BEC985B706"
+        }
+    ]
+}

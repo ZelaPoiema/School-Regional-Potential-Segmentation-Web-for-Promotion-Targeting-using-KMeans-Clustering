@@ -1,0 +1,74 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380304",
+            "kecamatan": "Kec. Silimo",
+            "npsn": 60303309,
+            "sekolah": "SD INPRES SILIMO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Dec 2023 10:46:00",
+            "sekolah_id_enkrip": "FB949991BD2E138E3607"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380304",
+            "kecamatan": "Kec. Silimo",
+            "npsn": 60303285,
+            "sekolah": "SD INPRES TOLIGAPURA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 15:20:21",
+            "sekolah_id_enkrip": "8CEBA71FEA49A2F0F20E"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380304",
+            "kecamatan": "Kec. Silimo",
+            "npsn": 60303382,
+            "sekolah": "SD INPRES WALKRUK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Jan 2024 02:19:59",
+            "sekolah_id_enkrip": "EFDA3557180FB8124471"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380304",
+            "kecamatan": "Kec. Silimo",
+            "npsn": 60303706,
+            "sekolah": "SDN TOLIKAPURA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Dec 2023 22:01:54",
+            "sekolah_id_enkrip": "723D07945190C069FA0C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380304",
+            "kecamatan": "Kec. Silimo",
+            "npsn": 60303342,
+            "sekolah": "SMPN SILIMO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Dec 2023 08:42:54",
+            "sekolah_id_enkrip": "6DE4C852EC42AA3F874E"
+        }
+    ]
+}

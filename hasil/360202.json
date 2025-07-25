@@ -1,0 +1,102 @@
+{
+    "360200": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360202",
+            "kecamatan": "Kec. Ilu",
+            "npsn": 60301917,
+            "sekolah": "SD INPRES ALUKME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 08:21:34",
+            "sekolah_id_enkrip": "F0A1963C6379A7517018"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360202",
+            "kecamatan": "Kec. Ilu",
+            "npsn": 60301918,
+            "sekolah": "SD INPRES AMBERNYAMBUT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Apr 2023 10:16:58",
+            "sekolah_id_enkrip": "7276C20C5DD4B38B48FC"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360202",
+            "kecamatan": "Kec. Ilu",
+            "npsn": 60301934,
+            "sekolah": "SD INPRES ILU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 10:46:21",
+            "sekolah_id_enkrip": "6C3FA3F6E542CC47002A"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360202",
+            "kecamatan": "Kec. Ilu",
+            "npsn": 70032174,
+            "sekolah": "SD NEGERI DOLINGGAME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "10 Sep 2023 05:55:17",
+            "sekolah_id_enkrip": "B5D2186CE8C3563D4AE5"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360202",
+            "kecamatan": "Kec. Ilu",
+            "npsn": 60301978,
+            "sekolah": "SD YPPGI ILU",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "10 Sep 2023 11:57:18",
+            "sekolah_id_enkrip": "BB0DCCABC209D0BA815E"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360202",
+            "kecamatan": "Kec. Ilu",
+            "npsn": 60301986,
+            "sekolah": "SMP NEGERI 1 ILU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 09:12:29",
+            "sekolah_id_enkrip": "B37D3B6C5FB38A6841B8"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360202",
+            "kecamatan": "Kec. Ilu",
+            "npsn": "P9954259",
+            "sekolah": "PKBM ILLU",
+            "bentuk": "PKBM",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Aug 2023 02:52:09",
+            "sekolah_id_enkrip": "DC17259DF79375899E78"
+        }
+    ]
+}

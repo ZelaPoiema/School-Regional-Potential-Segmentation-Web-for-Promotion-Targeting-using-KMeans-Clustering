@@ -1,0 +1,46 @@
+{
+    "320400": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320423",
+            "kecamatan": "Kec. Moskona Utara",
+            "npsn": 60401896,
+            "sekolah": "SD INPRES MUYEBA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 21:38:56",
+            "sekolah_id_enkrip": "D9523349B365D461AE90"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320423",
+            "kecamatan": "Kec. Moskona Utara",
+            "npsn": 69991405,
+            "sekolah": "SD NEGERI MOCU INOFINA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 22:02:57",
+            "sekolah_id_enkrip": "FDBC1A35F4DC6B40DD31"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "320400",
+            "kabupaten_kota": "Kab. Teluk Bintuni",
+            "kode_kec": "320423",
+            "kecamatan": "Kec. Moskona Utara",
+            "npsn": 69787908,
+            "sekolah": "SMP SATAP MUYEBA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 17:47:33",
+            "sekolah_id_enkrip": "B015B2AEAEBB912011C1"
+        }
+    ]
+}

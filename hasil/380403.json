@@ -1,0 +1,88 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380403",
+            "kecamatan": "Kec. Kanggime",
+            "npsn": 69728000,
+            "sekolah": "SD NEGERI MORLO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Jan 2024 19:23:28",
+            "sekolah_id_enkrip": "8355DFF350C81A31C3D1"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380403",
+            "kecamatan": "Kec. Kanggime",
+            "npsn": 60302264,
+            "sekolah": "SD YPPGI KANGGIME",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 19:59:29",
+            "sekolah_id_enkrip": "A7DFACC903CD43BD7A73"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380403",
+            "kecamatan": "Kec. Kanggime",
+            "npsn": 60302269,
+            "sekolah": "SMP NEGERI KANGGIME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 20:49:13",
+            "sekolah_id_enkrip": "2C88C08028A403CB4032"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380403",
+            "kecamatan": "Kec. Kanggime",
+            "npsn": 60302275,
+            "sekolah": "SMP YPSN KANGGIME",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 09:26:18",
+            "sekolah_id_enkrip": "2F2A02FB57E3E9200613"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380403",
+            "kecamatan": "Kec. Kanggime",
+            "npsn": 60302280,
+            "sekolah": "SMAN KANGGIME",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 09:46:09",
+            "sekolah_id_enkrip": "DF3D9CD75A9C5FF1FF11"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380403",
+            "kecamatan": "Kec. Kanggime",
+            "npsn": "P2967410",
+            "sekolah": "PKBM KANGGIME",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "24 Jan 2024 12:46:42",
+            "sekolah_id_enkrip": "5C4606EBACDE1E202F73"
+        }
+    ]
+}

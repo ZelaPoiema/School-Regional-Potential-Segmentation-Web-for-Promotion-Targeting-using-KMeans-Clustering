@@ -1,0 +1,102 @@
+{
+    "390300": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390326",
+            "kecamatan": "Kec. Kais Darat",
+            "npsn": 70027233,
+            "sekolah": "KB CHANTIKA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "530ED81DD396B02808B4"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390326",
+            "kecamatan": "Kec. Kais Darat",
+            "npsn": 60401652,
+            "sekolah": "SD INPRES 121 MOGATEMIN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "18 Jan 2024 17:51:20",
+            "sekolah_id_enkrip": "2B9C59666D394925DE8D"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390326",
+            "kecamatan": "Kec. Kais Darat",
+            "npsn": 60401667,
+            "sekolah": "SD INPRES 37 MUKAMAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 09:54:25",
+            "sekolah_id_enkrip": "A0D0DB4086FC6EA17DE7"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390326",
+            "kecamatan": "Kec. Kais Darat",
+            "npsn": 69984787,
+            "sekolah": "SD NEGERI PERSIAPAN ONIM SEFA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 07:54:47",
+            "sekolah_id_enkrip": "9424280ADD2F08FF9067"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390326",
+            "kecamatan": "Kec. Kais Darat",
+            "npsn": 60403717,
+            "sekolah": "SD YPK HAIMARAN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Jan 2024 18:23:40",
+            "sekolah_id_enkrip": "11D0DA6C321E182503BB"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390326",
+            "kecamatan": "Kec. Kais Darat",
+            "npsn": 60401710,
+            "sekolah": "SD YPK MAKARORO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "19 Jan 2024 17:10:13",
+            "sekolah_id_enkrip": "C663FD43198587944315"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390300",
+            "kabupaten_kota": "Kab. Sorong Selatan",
+            "kode_kec": "390326",
+            "kecamatan": "Kec. Kais Darat",
+            "npsn": 69965286,
+            "sekolah": "SMP NEGERI 1 KAIS DARAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "20 Jan 2024 18:05:25",
+            "sekolah_id_enkrip": "7BD8CA2FEF434D709FA9"
+        }
+    ]
+}

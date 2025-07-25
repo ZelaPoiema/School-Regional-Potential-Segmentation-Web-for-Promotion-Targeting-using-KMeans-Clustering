@@ -1,0 +1,32 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380441",
+            "kecamatan": "Kec. Kai",
+            "npsn": 60302212,
+            "sekolah": "SD INPRES KAIGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "11 Aug 2023 03:51:43",
+            "sekolah_id_enkrip": "2BD81C4059413ED34CAA"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380441",
+            "kecamatan": "Kec. Kai",
+            "npsn": 60302247,
+            "sekolah": "SD NEGERI BAWI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Jan 2024 04:19:51",
+            "sekolah_id_enkrip": "E9AE87B605C05355A0D4"
+        }
+    ]
+}

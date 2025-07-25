@@ -1,0 +1,46 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380442",
+            "kecamatan": "Kec. Aweku",
+            "npsn": 60302235,
+            "sekolah": "SD INPRES WULUK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 16:15:12",
+            "sekolah_id_enkrip": "FC22746C7140DA01F930"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380442",
+            "kecamatan": "Kec. Aweku",
+            "npsn": 70037520,
+            "sekolah": "SD NEGERI WENGGUME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Jan 2024 22:23:53",
+            "sekolah_id_enkrip": "5A8FAF408E4D0560F339"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380442",
+            "kecamatan": "Kec. Aweku",
+            "npsn": "P9996775",
+            "sekolah": "PKBM WULUK",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "9E956D40B4ED9077F192"
+        }
+    ]
+}

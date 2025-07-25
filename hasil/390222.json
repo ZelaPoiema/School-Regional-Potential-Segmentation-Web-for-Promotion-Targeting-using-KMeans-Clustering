@@ -1,0 +1,102 @@
+{
+    "390200": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390222",
+            "kecamatan": "Kec. Salawati Tengah",
+            "npsn": 69922539,
+            "sekolah": "PAUD CENDRAWASI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "17 Jan 2024 00:42:20",
+            "sekolah_id_enkrip": "C57CFE5E0F5F5176491B"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390222",
+            "kecamatan": "Kec. Salawati Tengah",
+            "npsn": 60401804,
+            "sekolah": "SD INPRES 16 KALOBO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 14:00:44",
+            "sekolah_id_enkrip": "79126E21A28D87E88C67"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390222",
+            "kecamatan": "Kec. Salawati Tengah",
+            "npsn": 60401780,
+            "sekolah": "SD INPRES 17 KALOBO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 19:09:19",
+            "sekolah_id_enkrip": "30EAD3F5CD723D9902C8"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390222",
+            "kecamatan": "Kec. Salawati Tengah",
+            "npsn": 60401781,
+            "sekolah": "SD INPRES 18 WAIJAN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Jan 2024 10:43:05",
+            "sekolah_id_enkrip": "CF814882287892197F45"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390222",
+            "kecamatan": "Kec. Salawati Tengah",
+            "npsn": 60401816,
+            "sekolah": "SD YAPIS KALOBO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 18:15:24",
+            "sekolah_id_enkrip": "BE2A0EE558F4F39BE1CF"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390222",
+            "kecamatan": "Kec. Salawati Tengah",
+            "npsn": 60401872,
+            "sekolah": "SMP NEGERI 5 RAJA AMPAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Jan 2024 17:47:36",
+            "sekolah_id_enkrip": "2882BF812105B0F8E040"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390200",
+            "kabupaten_kota": "Kab. Raja Ampat",
+            "kode_kec": "390222",
+            "kecamatan": "Kec. Salawati Tengah",
+            "npsn": 60403786,
+            "sekolah": "SMA NEGERI 8 RAJA AMPAT",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 17:38:34",
+            "sekolah_id_enkrip": "83766F0DFD471D22E5DF"
+        }
+    ]
+}

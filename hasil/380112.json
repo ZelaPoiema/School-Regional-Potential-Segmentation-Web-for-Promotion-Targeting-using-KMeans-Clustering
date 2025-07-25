@@ -1,0 +1,46 @@
+{
+    "380100": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380112",
+            "kecamatan": "Kec. Trikora",
+            "npsn": 70009176,
+            "sekolah": "PAUD HARAPAN ANGGULPA TRIKORA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "075A10FC63EF43A9859D"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380112",
+            "kecamatan": "Kec. Trikora",
+            "npsn": 60304582,
+            "sekolah": "SD NEGERI MARUMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 13:11:49",
+            "sekolah_id_enkrip": "A51D32E065B8F0E9B467"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380112",
+            "kecamatan": "Kec. Trikora",
+            "npsn": 70031785,
+            "sekolah": "SD NEGERI WEAK ABUA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Aug 2023 20:10:44",
+            "sekolah_id_enkrip": "15825CD40DCB22D52234"
+        }
+    ]
+}

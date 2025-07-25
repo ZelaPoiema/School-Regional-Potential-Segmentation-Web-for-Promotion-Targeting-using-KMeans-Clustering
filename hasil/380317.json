@@ -1,0 +1,102 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380317",
+            "kecamatan": "Kec. Werima",
+            "npsn": 60303306,
+            "sekolah": "SD INPRES PILO-PILO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Dec 2023 13:53:04",
+            "sekolah_id_enkrip": "125B20EABCEE404FC70A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380317",
+            "kecamatan": "Kec. Werima",
+            "npsn": 60303307,
+            "sekolah": "SD INPRES PUKAM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Dec 2023 16:15:53",
+            "sekolah_id_enkrip": "72CEE85F5594B6B23A69"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380317",
+            "kecamatan": "Kec. Werima",
+            "npsn": 60303315,
+            "sekolah": "SD INPRES WERIMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Dec 2023 20:10:43",
+            "sekolah_id_enkrip": "325D6C486B1F28308295"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380317",
+            "kecamatan": "Kec. Werima",
+            "npsn": 60302970,
+            "sekolah": "SD INPRES WESAGALEP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "08 Oct 2023 13:17:40",
+            "sekolah_id_enkrip": "55E57022F1582EAF6E23"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380317",
+            "kecamatan": "Kec. Werima",
+            "npsn": 69831584,
+            "sekolah": "SD NEGERI HUALO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "18 Oct 2023 05:08:12",
+            "sekolah_id_enkrip": "16D03850153C44A02051"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380317",
+            "kecamatan": "Kec. Werima",
+            "npsn": 69831565,
+            "sekolah": "SD NEGERI SIKIWA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Nov 2023 12:36:46",
+            "sekolah_id_enkrip": "5DC8536282895439299C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380317",
+            "kecamatan": "Kec. Werima",
+            "npsn": 69831619,
+            "sekolah": "SMP NEGERI HESMAT",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Jan 2024 13:34:20",
+            "sekolah_id_enkrip": "1243AAC8D0AC5303D879"
+        }
+    ]
+}

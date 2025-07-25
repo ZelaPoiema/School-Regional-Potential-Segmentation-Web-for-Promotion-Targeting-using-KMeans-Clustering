@@ -1,0 +1,32 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380418",
+            "kecamatan": "Kec. Gilubandu",
+            "npsn": 60302205,
+            "sekolah": "SD INPRES EGONI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 07:59:48",
+            "sekolah_id_enkrip": "69967CAF95625EDFF6C0"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380418",
+            "kecamatan": "Kec. Gilubandu",
+            "npsn": 60302211,
+            "sekolah": "SD INPRES KAGI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "23 Aug 2023 18:32:20",
+            "sekolah_id_enkrip": "F5E6819FD4602055F149"
+        }
+    ]
+}

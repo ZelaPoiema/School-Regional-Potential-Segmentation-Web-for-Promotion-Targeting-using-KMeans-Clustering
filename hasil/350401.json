@@ -1,0 +1,74 @@
+{
+    "350400": [
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350401",
+            "kecamatan": "Kuala Lumpur",
+            "npsn": 90101054,
+            "sekolah": "TK Sekolah Indonesia Kuala Lumpur",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "23 Jan 2024 14:06:40",
+            "sekolah_id_enkrip": "01C73F199B06852DBAA0"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350401",
+            "kecamatan": "Kuala Lumpur",
+            "npsn": 90101017,
+            "sekolah": "SEKOLAH SI KUALA LUMPUR TINGKAT SD",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "06 Feb 2024 17:32:05",
+            "sekolah_id_enkrip": "9DBB8DC035E47C95BE33"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350401",
+            "kecamatan": "Kuala Lumpur",
+            "npsn": 90101018,
+            "sekolah": "SEKOLAH SI KUALA LUMPUR TINGKAT SMP",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Dec 2023 10:15:57",
+            "sekolah_id_enkrip": "9950AB27C7B642BA6C65"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350401",
+            "kecamatan": "Kuala Lumpur",
+            "npsn": 90101019,
+            "sekolah": "SEKOLAH SI KUALA LUMPUR TINGKAT SMA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "20 Dec 2023 19:20:28",
+            "sekolah_id_enkrip": "E1F2DEC7CFC7A34E1C17"
+        },
+        {
+            "kode_prop": "350000",
+            "propinsi": "Luar Negeri",
+            "kode_kab_kota": "350400",
+            "kabupaten_kota": "Malaysia",
+            "kode_kec": "350401",
+            "kecamatan": "Kuala Lumpur",
+            "npsn": "P9959640",
+            "sekolah": "PKBM PNF-KBRI Kuala Lumpur",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Feb 2024 07:53:25",
+            "sekolah_id_enkrip": "17583E82CEBD347A191E"
+        }
+    ]
+}

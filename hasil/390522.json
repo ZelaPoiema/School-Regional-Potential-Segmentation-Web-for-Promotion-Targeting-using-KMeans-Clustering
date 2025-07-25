@@ -1,0 +1,32 @@
+{
+    "390500": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390522",
+            "kecamatan": "Kec. Mawabuan",
+            "npsn": 60401372,
+            "sekolah": "SD INPRES 78 AFRAWI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 09:55:06",
+            "sekolah_id_enkrip": "CA7FFBB2FEE3F30C62F7"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390522",
+            "kecamatan": "Kec. Mawabuan",
+            "npsn": 60401482,
+            "sekolah": "SD YPPK Santo Yohanes Asiti",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Feb 2024 10:15:50",
+            "sekolah_id_enkrip": "99E6D6E4313869ADFE6A"
+        }
+    ]
+}

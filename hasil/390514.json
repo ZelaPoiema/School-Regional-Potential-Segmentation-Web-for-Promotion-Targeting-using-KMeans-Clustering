@@ -1,0 +1,74 @@
+{
+    "390500": [
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390514",
+            "kecamatan": "Kec. Bamusbama",
+            "npsn": 70028632,
+            "sekolah": "TK KMARS BAMUSBAMA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Jan 2024 20:45:42",
+            "sekolah_id_enkrip": "116DC44FD3B6793D5A6F"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390514",
+            "kecamatan": "Kec. Bamusbama",
+            "npsn": 70028649,
+            "sekolah": "TK KMARS BANO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "07 Sep 2023 11:00:55",
+            "sekolah_id_enkrip": "CDCBC7BF3E4BC425E790"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390514",
+            "kecamatan": "Kec. Bamusbama",
+            "npsn": 69728596,
+            "sekolah": "SD INPRES 82 BAMUS BAMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 10:33:38",
+            "sekolah_id_enkrip": "C816429C4A452CB85ECF"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390514",
+            "kecamatan": "Kec. Bamusbama",
+            "npsn": 69728592,
+            "sekolah": "SD NEGERI BAMUSWAIMAN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 10:58:55",
+            "sekolah_id_enkrip": "EEC98AF554B181877F79"
+        },
+        {
+            "kode_prop": "390000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "390500",
+            "kabupaten_kota": "Kab. Tambrauw",
+            "kode_kec": "390514",
+            "kecamatan": "Kec. Bamusbama",
+            "npsn": 60404173,
+            "sekolah": "SMP NEGERI BAMUSBAMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "09 Dec 2023 06:23:45",
+            "sekolah_id_enkrip": "86ADC12EEC116DF120F7"
+        }
+    ]
+}

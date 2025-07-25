@@ -1,0 +1,46 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380711",
+            "kecamatan": "Kec. Niname",
+            "npsn": 69933522,
+            "sekolah": "paud dugume",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "10 Sep 2023 19:14:28",
+            "sekolah_id_enkrip": "EEAE2DF3091DE80C537F"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380711",
+            "kecamatan": "Kec. Niname",
+            "npsn": 60301510,
+            "sekolah": "SD YPPGI DOME",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "12 Jan 2024 10:26:37",
+            "sekolah_id_enkrip": "4C70420EA100F8D9EEDF"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380711",
+            "kecamatan": "Kec. Niname",
+            "npsn": "P9952883",
+            "sekolah": "PKBM DOME",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "21 Jan 2024 19:52:57",
+            "sekolah_id_enkrip": "B7C6BA921383AB831F9B"
+        }
+    ]
+}

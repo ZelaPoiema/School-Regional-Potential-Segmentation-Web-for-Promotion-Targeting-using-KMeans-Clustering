@@ -1,0 +1,74 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380710",
+            "kecamatan": "Kec. Poga",
+            "npsn": 70040302,
+            "sekolah": "TK LUGOBAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Jan 2024 11:45:57",
+            "sekolah_id_enkrip": "D91EE38AE36FB935A0E8"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380710",
+            "kecamatan": "Kec. Poga",
+            "npsn": 60301424,
+            "sekolah": "SD INPRES LUALO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "17 Dec 2023 23:02:36",
+            "sekolah_id_enkrip": "DFD900432CF67C0BED69"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380710",
+            "kecamatan": "Kec. Poga",
+            "npsn": 60304538,
+            "sekolah": "SMP NEGERI 1 POGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Jan 2024 18:12:04",
+            "sekolah_id_enkrip": "5F107EF5817D0F2EE797"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380710",
+            "kecamatan": "Kec. Poga",
+            "npsn": 70040090,
+            "sekolah": "SMA Negeri Poga",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "11 Aug 2023 17:27:07",
+            "sekolah_id_enkrip": "D1A605CF73E546A7E599"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380710",
+            "kecamatan": "Kec. Poga",
+            "npsn": "P9999005",
+            "sekolah": "PKBM LIRU ABUWA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "23 Jan 2024 12:16:40",
+            "sekolah_id_enkrip": "D5FBBE366B77303A38D3"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "360300": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360318",
+            "kecamatan": "Kec. Youtadi",
+            "npsn": 60302389,
+            "sekolah": "SD YPPGI WEGEMA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "21 Nov 2023 17:52:23",
+            "sekolah_id_enkrip": "4E98E517EB5EB4A21DAF"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360318",
+            "kecamatan": "Kec. Youtadi",
+            "npsn": 60302413,
+            "sekolah": "SD YPPK NAMUTADI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "18 Jan 2024 09:35:21",
+            "sekolah_id_enkrip": "553CB0C8560863E891C2"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360300",
+            "kabupaten_kota": "Kab. Paniai",
+            "kode_kec": "360318",
+            "kecamatan": "Kec. Youtadi",
+            "npsn": 60304585,
+            "sekolah": "SMPN SATAP 1 BOGOBAIDA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Jan 2024 19:24:33",
+            "sekolah_id_enkrip": "1ED29BB6C9623DA6D19E"
+        }
+    ]
+}

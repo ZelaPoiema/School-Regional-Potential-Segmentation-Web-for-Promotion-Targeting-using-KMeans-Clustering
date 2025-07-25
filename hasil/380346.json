@@ -1,0 +1,60 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380346",
+            "kecamatan": "Kec. Kwikma",
+            "npsn": 60303304,
+            "sekolah": "SD INPRES LILIBAN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 17:12:03",
+            "sekolah_id_enkrip": "B22E0792FBEA94913950"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380346",
+            "kecamatan": "Kec. Kwikma",
+            "npsn": 60303319,
+            "sekolah": "SD INPRES SILAKMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "18 Jan 2024 10:48:27",
+            "sekolah_id_enkrip": "88A777A3D085821339BC"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380346",
+            "kecamatan": "Kec. Kwikma",
+            "npsn": 60304971,
+            "sekolah": "SD NEGERI KENKENI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "08 Nov 2023 07:39:19",
+            "sekolah_id_enkrip": "26B52C3924E6434A8D9A"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380346",
+            "kecamatan": "Kec. Kwikma",
+            "npsn": 69831633,
+            "sekolah": "SDN 3 MONIM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Jan 2024 11:49:00",
+            "sekolah_id_enkrip": "258296465DC9DFAA5FD5"
+        }
+    ]
+}

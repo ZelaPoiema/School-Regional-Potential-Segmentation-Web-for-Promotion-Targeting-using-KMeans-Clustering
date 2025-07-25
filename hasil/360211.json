@@ -1,0 +1,60 @@
+{
+    "360200": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360211",
+            "kecamatan": "Kec. Irimuli",
+            "npsn": 70008098,
+            "sekolah": "PAUD BAPTIS JIGINERI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "B9A180F9866A63B55539"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360211",
+            "kecamatan": "Kec. Irimuli",
+            "npsn": 69970640,
+            "sekolah": "SPS SM GIDI EERUWOK JIGINIKIME",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "02 Oct 2023 07:06:54",
+            "sekolah_id_enkrip": "C8DA3DFF74F4FF867F24"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360211",
+            "kecamatan": "Kec. Irimuli",
+            "npsn": 60301926,
+            "sekolah": "SD INPRES DONDO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 03:47:02",
+            "sekolah_id_enkrip": "D1821072ACF59DE2D8F6"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360200",
+            "kabupaten_kota": "Kab. Puncak Jaya",
+            "kode_kec": "360211",
+            "kecamatan": "Kec. Irimuli",
+            "npsn": 60301974,
+            "sekolah": "SD INPRES WANDENGGOBAK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 20:09:36",
+            "sekolah_id_enkrip": "D9C4AA06419AEE1274DE"
+        }
+    ]
+}

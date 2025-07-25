@@ -1,0 +1,32 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380737",
+            "kecamatan": "Kec. Muara",
+            "npsn": 60301452,
+            "sekolah": "SD INPRES POGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 09:38:44",
+            "sekolah_id_enkrip": "42AE0A1A9A50A75648EA"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380737",
+            "kecamatan": "Kec. Muara",
+            "npsn": 69946168,
+            "sekolah": "SD Negeri Lugobak",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Sep 2023 08:03:12",
+            "sekolah_id_enkrip": "F03048A5856480E13448"
+        }
+    ]
+}

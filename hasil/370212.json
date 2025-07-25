@@ -1,0 +1,88 @@
+{
+    "370200": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370212",
+            "kecamatan": "Kec. Manggelum",
+            "npsn": 60302061,
+            "sekolah": "SD INPRES BAYANGGOP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Oct 2023 18:04:28",
+            "sekolah_id_enkrip": "846866402749761CCD21"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370212",
+            "kecamatan": "Kec. Manggelum",
+            "npsn": 60302064,
+            "sekolah": "SD INPRES BURUNGGOP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Jan 2024 02:16:02",
+            "sekolah_id_enkrip": "35029B76EE01828395AD"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370212",
+            "kecamatan": "Kec. Manggelum",
+            "npsn": 60302066,
+            "sekolah": "SD INPRES GAGUOP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "04 Feb 2024 23:51:38",
+            "sekolah_id_enkrip": "DFC0B7815040C8612A83"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370212",
+            "kecamatan": "Kec. Manggelum",
+            "npsn": 69946407,
+            "sekolah": "SD NEGERI PERSIAPAN SINIBURU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "22 Jan 2024 06:52:11",
+            "sekolah_id_enkrip": "6C4E42477E607202644A"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370212",
+            "kecamatan": "Kec. Manggelum",
+            "npsn": 60302098,
+            "sekolah": "SD YPPGI MANGGELUM",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Dec 2023 14:47:27",
+            "sekolah_id_enkrip": "F3348D1DAC05AD477B81"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370212",
+            "kecamatan": "Kec. Manggelum",
+            "npsn": "P9962944",
+            "sekolah": "PKBM MANGGELUM",
+            "bentuk": "PKBM",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Oct 2022 11:22:41",
+            "sekolah_id_enkrip": "D8251397C02D5CEEEDFD"
+        }
+    ]
+}

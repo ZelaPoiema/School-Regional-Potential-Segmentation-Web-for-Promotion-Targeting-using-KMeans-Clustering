@@ -1,0 +1,32 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380434",
+            "kecamatan": "Kec. Gika",
+            "npsn": 60302208,
+            "sekolah": "SD INPRES GELOK",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Oct 2023 19:44:48",
+            "sekolah_id_enkrip": "69718D4B439547A04544"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380434",
+            "kecamatan": "Kec. Gika",
+            "npsn": 60302245,
+            "sekolah": "SD NEGERI DIKA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "18 Jan 2024 06:44:45",
+            "sekolah_id_enkrip": "6E86AAB55470C4A81936"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380405",
+            "kecamatan": "Kec. Goyage",
+            "npsn": 60302237,
+            "sekolah": "SD INPRES YEMAKWI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "11 Jan 2024 22:44:30",
+            "sekolah_id_enkrip": "BA9B20E6FC6E2AE4727D"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380405",
+            "kecamatan": "Kec. Goyage",
+            "npsn": 60302257,
+            "sekolah": "SD NEGERI WAIRIMA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "18 Jan 2024 06:22:34",
+            "sekolah_id_enkrip": "FA786EEF812115EBC812"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380405",
+            "kecamatan": "Kec. Goyage",
+            "npsn": 60302268,
+            "sekolah": "SMP NEGERI GOYAGE",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Jan 2024 20:27:32",
+            "sekolah_id_enkrip": "EE5E4C2335B85072B52F"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380405",
+            "kecamatan": "Kec. Goyage",
+            "npsn": "P9997520",
+            "sekolah": "PKBM GOGE",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "27 Dec 2023 15:27:26",
+            "sekolah_id_enkrip": "730997C2C7B883F817E9"
+        }
+    ]
+}

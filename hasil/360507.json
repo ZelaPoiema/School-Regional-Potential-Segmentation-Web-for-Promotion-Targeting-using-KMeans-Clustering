@@ -1,0 +1,32 @@
+{
+    "360500": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360507",
+            "kecamatan": "Kec. Agandugume",
+            "npsn": 69954169,
+            "sekolah": "Paud Agandugume",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": null,
+            "sekolah_id_enkrip": "D4FECC167A82A56C7AF2"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360500",
+            "kabupaten_kota": "Kab. Puncak",
+            "kode_kec": "360507",
+            "kecamatan": "Kec. Agandugume",
+            "npsn": 60301915,
+            "sekolah": "SD INPRES AGADUGUME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Feb 2024 16:02:18",
+            "sekolah_id_enkrip": "EB2442D47F226FDBB407"
+        }
+    ]
+}

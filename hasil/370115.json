@@ -1,0 +1,102 @@
+{
+    "370100": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370115",
+            "kecamatan": "Kec. Tubang",
+            "npsn": 60300708,
+            "sekolah": "SD INPRES DODALIM",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Dec 2023 22:47:49",
+            "sekolah_id_enkrip": "E3246391C35A5A9A3EAA"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370115",
+            "kecamatan": "Kec. Tubang",
+            "npsn": 60300707,
+            "sekolah": "SD INPRES DOKIB",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Feb 2024 15:28:49",
+            "sekolah_id_enkrip": "FCE63FC3D9B6D848A32D"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370115",
+            "kecamatan": "Kec. Tubang",
+            "npsn": 60300570,
+            "sekolah": "SD YPK WELBUTI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Aug 2023 20:14:09",
+            "sekolah_id_enkrip": "658C3EE5926C1F932CA4"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370115",
+            "kecamatan": "Kec. Tubang",
+            "npsn": 60300577,
+            "sekolah": "SD YPPK GALUM WOBOYO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "03 Feb 2024 07:26:19",
+            "sekolah_id_enkrip": "1DE18EA975704FA0B984"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370115",
+            "kecamatan": "Kec. Tubang",
+            "npsn": 60300551,
+            "sekolah": "SD YPPK WAMAL",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "24 Jan 2024 12:04:44",
+            "sekolah_id_enkrip": "CEF61461E9B65DA674A3"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370115",
+            "kecamatan": "Kec. Tubang",
+            "npsn": 60300637,
+            "sekolah": "SD YPPK YOWID",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "25 Jan 2024 12:53:27",
+            "sekolah_id_enkrip": "E5AD4E0D26C9E05DE685"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370100",
+            "kabupaten_kota": "Kab. Merauke",
+            "kode_kec": "370115",
+            "kecamatan": "Kec. Tubang",
+            "npsn": 60304608,
+            "sekolah": "SMP PERS N TUBANG",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "21 Dec 2023 19:37:10",
+            "sekolah_id_enkrip": "925085213FCCC8351E49"
+        }
+    ]
+}

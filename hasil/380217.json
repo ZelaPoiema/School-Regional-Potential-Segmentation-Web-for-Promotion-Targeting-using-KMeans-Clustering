@@ -1,0 +1,32 @@
+{
+    "380200": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380217",
+            "kecamatan": "Kec. Kawor",
+            "npsn": 60300988,
+            "sekolah": "SD INPRES ARIMTAP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Aug 2023 17:38:28",
+            "sekolah_id_enkrip": "2B815A25F964E7A067DF"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380200",
+            "kabupaten_kota": "Kab. Pegunungan Bintang",
+            "kode_kec": "380217",
+            "kecamatan": "Kec. Kawor",
+            "npsn": 70042531,
+            "sekolah": "SMP NEGERI 1 KAWOR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "30 Aug 2023 21:36:56",
+            "sekolah_id_enkrip": "4193DC21BD0C670B812F"
+        }
+    ]
+}

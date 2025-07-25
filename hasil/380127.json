@@ -1,0 +1,88 @@
+{
+    "380100": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380127",
+            "kecamatan": "Kec. Tagime",
+            "npsn": 70012139,
+            "sekolah": "TK PAUD GUU PURA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "26 Aug 2023 21:02:40",
+            "sekolah_id_enkrip": "9CF9EEEBEE34457ECFBE"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380127",
+            "kecamatan": "Kec. Tagime",
+            "npsn": 60304559,
+            "sekolah": "SD NEGERI TONDERU",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "20 Sep 2023 08:57:34",
+            "sekolah_id_enkrip": "85C7CC374A432B1E69D3"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380127",
+            "kecamatan": "Kec. Tagime",
+            "npsn": 60301523,
+            "sekolah": "SD YPPGI TAGIME",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "04 Nov 2023 13:46:54",
+            "sekolah_id_enkrip": "C9B3C64E0512A3FA6F52"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380127",
+            "kecamatan": "Kec. Tagime",
+            "npsn": 60303892,
+            "sekolah": "SMP NEGERI TAGIME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "14 Dec 2023 06:32:22",
+            "sekolah_id_enkrip": "64DCF152EFE761F1BE43"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380127",
+            "kecamatan": "Kec. Tagime",
+            "npsn": 60304205,
+            "sekolah": "SMAN POROME",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Jan 2024 07:57:30",
+            "sekolah_id_enkrip": "F361EA0E86F00012AC19"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380127",
+            "kecamatan": "Kec. Tagime",
+            "npsn": "P9999277",
+            "sekolah": "PKBM GUPURA",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "23 Jan 2024 14:02:31",
+            "sekolah_id_enkrip": "39C6E04899B7F090E338"
+        }
+    ]
+}

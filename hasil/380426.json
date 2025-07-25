@@ -1,0 +1,32 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380426",
+            "kecamatan": "Kec. Poganeri",
+            "npsn": 60302260,
+            "sekolah": "SD NEGERI POGANERI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "27 Dec 2023 19:40:50",
+            "sekolah_id_enkrip": "86F66E7620D9A66EB743"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380426",
+            "kecamatan": "Kec. Poganeri",
+            "npsn": 60302742,
+            "sekolah": "SMP NEGERI POGANERI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 06:24:49",
+            "sekolah_id_enkrip": "8D2A3DEDEE41A2FFFF9C"
+        }
+    ]
+}

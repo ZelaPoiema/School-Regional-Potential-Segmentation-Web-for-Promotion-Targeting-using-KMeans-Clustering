@@ -1,0 +1,88 @@
+{
+    "321100": [
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "321100",
+            "kabupaten_kota": "Kab. Pegunungan Arfak",
+            "kode_kec": "321116",
+            "kecamatan": "Kec. Catubouw",
+            "npsn": 69900823,
+            "sekolah": "SD NEGERI 26 UNTI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "08 Oct 2023 01:28:20",
+            "sekolah_id_enkrip": "A00927E5BFB13861CF1A"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "321100",
+            "kabupaten_kota": "Kab. Pegunungan Arfak",
+            "kode_kec": "321116",
+            "kecamatan": "Kec. Catubouw",
+            "npsn": 60403882,
+            "sekolah": "SD Negeri 31 Cingga",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "08 Oct 2023 07:21:51",
+            "sekolah_id_enkrip": "32D8832F3C9AD9BCFB6B"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "321100",
+            "kabupaten_kota": "Kab. Pegunungan Arfak",
+            "kode_kec": "321116",
+            "kecamatan": "Kec. Catubouw",
+            "npsn": 69973737,
+            "sekolah": "SD NEGERI SINGGIMEBA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 13:17:55",
+            "sekolah_id_enkrip": "98DB728D5906A0987650"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "321100",
+            "kabupaten_kota": "Kab. Pegunungan Arfak",
+            "kode_kec": "321116",
+            "kecamatan": "Kec. Catubouw",
+            "npsn": 60401500,
+            "sekolah": "SD YPPGI 10 CATUBOUW",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Sep 2023 14:02:37",
+            "sekolah_id_enkrip": "128AA2CCEE70C733CB7B"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "321100",
+            "kabupaten_kota": "Kab. Pegunungan Arfak",
+            "kode_kec": "321116",
+            "kecamatan": "Kec. Catubouw",
+            "npsn": 60403872,
+            "sekolah": "SMP NEGERI 05 CATUBOUW",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "05 Feb 2024 17:15:50",
+            "sekolah_id_enkrip": "69185FE192670AB09FAB"
+        },
+        {
+            "kode_prop": "320000",
+            "propinsi": "Prov. Papua Barat",
+            "kode_kab_kota": "321100",
+            "kabupaten_kota": "Kab. Pegunungan Arfak",
+            "kode_kec": "321116",
+            "kecamatan": "Kec. Catubouw",
+            "npsn": 69965485,
+            "sekolah": "SMA NEGERI 7 SOUG ODO CATUBOUW",
+            "bentuk": "SMA",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 21:24:33",
+            "sekolah_id_enkrip": "491ECAB8CD77B8F5FA0A"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "380400": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380419",
+            "kecamatan": "Kec. Nunggawi",
+            "npsn": 60302219,
+            "sekolah": "SD INPRES NUNGGAWI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "25 Jan 2024 05:13:29",
+            "sekolah_id_enkrip": "DF224B451853A3995F39"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380419",
+            "kecamatan": "Kec. Nunggawi",
+            "npsn": 70037521,
+            "sekolah": "SD NEGERI BELEP",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "12 Jan 2024 21:46:19",
+            "sekolah_id_enkrip": "2007E61CFD9E3CA5870C"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380400",
+            "kabupaten_kota": "Kab. Tolikara",
+            "kode_kec": "380419",
+            "kecamatan": "Kec. Nunggawi",
+            "npsn": 69946775,
+            "sekolah": "SD NEGERI WENDAME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "01 Sep 2023 07:38:46",
+            "sekolah_id_enkrip": "EBF6BC3F84143BDD7D60"
+        }
+    ]
+}

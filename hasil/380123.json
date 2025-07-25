@@ -1,0 +1,74 @@
+{
+    "380100": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380123",
+            "kecamatan": "Kec. Libarek",
+            "npsn": 70043886,
+            "sekolah": "KB PAUD INLONA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "13 Dec 2023 06:27:03",
+            "sekolah_id_enkrip": "F8AD7F1A0984106387CC"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380123",
+            "kecamatan": "Kec. Libarek",
+            "npsn": 70043653,
+            "sekolah": "KB PAUD WENABUBAGA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "07 Nov 2023 13:22:47",
+            "sekolah_id_enkrip": "B58CC88A290E9372B4B0"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380123",
+            "kecamatan": "Kec. Libarek",
+            "npsn": 60301547,
+            "sekolah": "SD YPPK ST LUKAS WENABUBAGA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "25 Jan 2024 03:52:49",
+            "sekolah_id_enkrip": "FCA69F1889E34A76D220"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380123",
+            "kecamatan": "Kec. Libarek",
+            "npsn": "P9999160",
+            "sekolah": "PKBM HULUDUK",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "27 Jan 2024 00:31:16",
+            "sekolah_id_enkrip": "72A3184363E11DF0E283"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380100",
+            "kabupaten_kota": "Kab. Jayawijaya",
+            "kode_kec": "380123",
+            "kecamatan": "Kec. Libarek",
+            "npsn": "P9970285",
+            "sekolah": "PKBM SOLAFIDE KURULU",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "21 Dec 2023 02:30:53",
+            "sekolah_id_enkrip": "A1A45C13579199D4E711"
+        }
+    ]
+}

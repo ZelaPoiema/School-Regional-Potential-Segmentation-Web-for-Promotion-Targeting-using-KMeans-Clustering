@@ -1,0 +1,32 @@
+{
+    "360700": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360700",
+            "kabupaten_kota": "Kab. Intan Jaya",
+            "kode_kec": "360705",
+            "kecamatan": "Kec. Agisiga",
+            "npsn": 60302284,
+            "sekolah": "SDN INPRES AGISIGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "06 Oct 2023 07:51:56",
+            "sekolah_id_enkrip": "9C71BEC04EBF2BA3427B"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360700",
+            "kabupaten_kota": "Kab. Intan Jaya",
+            "kode_kec": "360705",
+            "kecamatan": "Kec. Agisiga",
+            "npsn": 60302310,
+            "sekolah": "SDN INPRES TAUSIGA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "28 Nov 2023 18:55:34",
+            "sekolah_id_enkrip": "13DCDEDD196FA50EEDC8"
+        }
+    ]
+}

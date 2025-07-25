@@ -1,0 +1,60 @@
+{
+    "380700": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380705",
+            "kecamatan": "Kec. Dimba",
+            "npsn": 60301393,
+            "sekolah": "SD INPRES DIMBA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "29 Aug 2023 15:37:49",
+            "sekolah_id_enkrip": "CF937D2446C2741D5615"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380705",
+            "kecamatan": "Kec. Dimba",
+            "npsn": 60303519,
+            "sekolah": "SD NEGERI KULUGOME",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "07 Nov 2023 13:30:01",
+            "sekolah_id_enkrip": "8CAF9A355A4B433EC733"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380705",
+            "kecamatan": "Kec. Dimba",
+            "npsn": 60303550,
+            "sekolah": "SMP NEGERI 1 DIMBA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "24 Jan 2024 04:33:12",
+            "sekolah_id_enkrip": "A7DE432860AA9612066B"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380700",
+            "kabupaten_kota": "Kab. Lanny Jaya",
+            "kode_kec": "380705",
+            "kecamatan": "Kec. Dimba",
+            "npsn": "P9952676",
+            "sekolah": "PKBM HABU",
+            "bentuk": "PKBM",
+            "status": "Swasta",
+            "sinkron_terakhir": "18 Jan 2024 11:56:52",
+            "sekolah_id_enkrip": "7483B8F82514D4870199"
+        }
+    ]
+}

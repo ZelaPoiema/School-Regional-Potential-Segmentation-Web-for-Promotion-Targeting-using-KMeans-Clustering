@@ -1,0 +1,88 @@
+{
+    "360600": [
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360600",
+            "kabupaten_kota": "Kab. Dogiyai",
+            "kode_kec": "360610",
+            "kecamatan": "Kec. Dogiyai",
+            "npsn": 69964278,
+            "sekolah": "TK.MARIA IMACULATA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Feb 2024 21:58:35",
+            "sekolah_id_enkrip": "CE1370B1966D0C6EA025"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360600",
+            "kabupaten_kota": "Kab. Dogiyai",
+            "kode_kec": "360610",
+            "kecamatan": "Kec. Dogiyai",
+            "npsn": 60301829,
+            "sekolah": "SD YPPGI DOGIMANI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "07 Nov 2023 20:47:22",
+            "sekolah_id_enkrip": "9F4F3A8E1FF179464829"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360600",
+            "kabupaten_kota": "Kab. Dogiyai",
+            "kode_kec": "360610",
+            "kecamatan": "Kec. Dogiyai",
+            "npsn": 60301828,
+            "sekolah": "SD YPPGI MARANATHA APAGOUGI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "22 Jan 2024 21:29:18",
+            "sekolah_id_enkrip": "9F3482BC5050828CB7F5"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360600",
+            "kabupaten_kota": "Kab. Dogiyai",
+            "kode_kec": "360610",
+            "kecamatan": "Kec. Dogiyai",
+            "npsn": 60301843,
+            "sekolah": "SD YPPK EGEBUTU",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "12 Jan 2024 14:56:10",
+            "sekolah_id_enkrip": "CA0C081AEFD1A99A34C3"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360600",
+            "kabupaten_kota": "Kab. Dogiyai",
+            "kode_kec": "360610",
+            "kecamatan": "Kec. Dogiyai",
+            "npsn": 60301845,
+            "sekolah": "SD YPPK IDADAGI",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "30 Jan 2024 19:45:57",
+            "sekolah_id_enkrip": "7F11520D4677BBB49049"
+        },
+        {
+            "kode_prop": "360000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "360600",
+            "kabupaten_kota": "Kab. Dogiyai",
+            "kode_kec": "360610",
+            "kecamatan": "Kec. Dogiyai",
+            "npsn": 60303792,
+            "sekolah": "SMP NEGERI 1 DOGIYAI",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "02 Feb 2024 19:48:56",
+            "sekolah_id_enkrip": "480ABF5BDB3AE2F8A13A"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "370200": [
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370217",
+            "kecamatan": "Kec. Ninati",
+            "npsn": 69992073,
+            "sekolah": "PAUD WU.UN KADIN",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "08 Dec 2023 02:27:52",
+            "sekolah_id_enkrip": "E664ACA377EEC5B87F4C"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370217",
+            "kecamatan": "Kec. Ninati",
+            "npsn": 69946400,
+            "sekolah": "SD NEGERI PERSIAPAN TIMKA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "31 Jan 2024 01:30:37",
+            "sekolah_id_enkrip": "FE6F4CAF4BF7BA032525"
+        },
+        {
+            "kode_prop": "370000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "370200",
+            "kabupaten_kota": "Kab. Boven Digoel",
+            "kode_kec": "370217",
+            "kecamatan": "Kec. Ninati",
+            "npsn": 60302131,
+            "sekolah": "SD YPPK UPYETETKO",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "05 Feb 2024 00:23:28",
+            "sekolah_id_enkrip": "D6FF56F1C24D7D30640F"
+        }
+    ]
+}

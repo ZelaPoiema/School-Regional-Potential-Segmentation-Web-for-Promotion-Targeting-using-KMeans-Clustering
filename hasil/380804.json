@@ -1,0 +1,32 @@
+{
+    "380800": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380804",
+            "kecamatan": "Kec. Wosak",
+            "npsn": 60305282,
+            "sekolah": "SD Negeri Pilini",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "13 Aug 2023 08:54:27",
+            "sekolah_id_enkrip": "82C5074F17B295F883E5"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380800",
+            "kabupaten_kota": "Kab. Nduga",
+            "kode_kec": "380804",
+            "kecamatan": "Kec. Wosak",
+            "npsn": 60304691,
+            "sekolah": "SMP Negeri Wosak",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "16 Jan 2024 08:06:39",
+            "sekolah_id_enkrip": "AFAC3BB1469ED2B235C1"
+        }
+    ]
+}

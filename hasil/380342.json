@@ -1,0 +1,102 @@
+{
+    "380300": [
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380342",
+            "kecamatan": "Kec. Seradala",
+            "npsn": 69924469,
+            "sekolah": "SDN BUROKMAKOT YAHUKIMO",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "03 Sep 2023 08:20:43",
+            "sekolah_id_enkrip": "492AD313F87E713387A3"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380342",
+            "kecamatan": "Kec. Seradala",
+            "npsn": 60303535,
+            "sekolah": "SDN TOKUN",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "15 Dec 2023 12:29:13",
+            "sekolah_id_enkrip": "54BC34C3ECD974F6BC79"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380342",
+            "kecamatan": "Kec. Seradala",
+            "npsn": 69975611,
+            "sekolah": "SDN YASIP SAGU BAKAR",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "11 Oct 2023 11:30:09",
+            "sekolah_id_enkrip": "B340B86CD20571AEE3D9"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380342",
+            "kecamatan": "Kec. Seradala",
+            "npsn": 60303293,
+            "sekolah": "SDS YPK SAMBOGA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "01 Dec 2023 09:10:34",
+            "sekolah_id_enkrip": "D3EAB2E66714374B1426"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380342",
+            "kecamatan": "Kec. Seradala",
+            "npsn": 60303294,
+            "sekolah": "SDS YPK SARADALA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "23 Aug 2023 17:18:51",
+            "sekolah_id_enkrip": "AFACD7EE4368924827EC"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380342",
+            "kecamatan": "Kec. Seradala",
+            "npsn": 60303341,
+            "sekolah": "SMPN SATAP SERADALA",
+            "bentuk": "Unknown",
+            "status": "Negeri",
+            "sinkron_terakhir": "26 Jan 2024 08:12:07",
+            "sekolah_id_enkrip": "C2737B4A3771CE08B163"
+        },
+        {
+            "kode_prop": "380000",
+            "propinsi": "Prov. Papua",
+            "kode_kab_kota": "380300",
+            "kabupaten_kota": "Kab. Yahukimo",
+            "kode_kec": "380342",
+            "kecamatan": "Kec. Seradala",
+            "npsn": 69831622,
+            "sekolah": "SMP YAKPESMI KEEIS JANSE SAMBOGA",
+            "bentuk": "Unknown",
+            "status": "Swasta",
+            "sinkron_terakhir": "14 Jan 2024 18:17:54",
+            "sekolah_id_enkrip": "B3D106472AC6BA4E62CC"
+        }
+    ]
+}
